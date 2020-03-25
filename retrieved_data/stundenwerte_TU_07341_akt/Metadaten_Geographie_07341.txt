@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  7341;  118.50; 50.0900;  8.7862;20050715;        ;Offenbach-Wetterpark

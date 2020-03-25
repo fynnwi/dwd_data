@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  2319;Holzkirchen                             ;19520901;

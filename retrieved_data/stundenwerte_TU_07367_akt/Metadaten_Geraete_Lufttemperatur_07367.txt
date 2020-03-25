@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+7367;Alfeld;9.81;51.96;143.9;2;20071201;20170719;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+7367;Alfeld;9.81;51.96;143.9;2;20170726;20180424;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+7367;Alfeld;9.81;51.96;143.9;2;20180425;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --

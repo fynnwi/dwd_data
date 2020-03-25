@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1504;Fritzlar (Flugplatz)                    ;19580117;

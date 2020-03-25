@@ -1,0 +1,3 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+2829;Landsberg (Flugplatz);TT_TU;01.01.1966-01:00;10.07.2018-06:00;12228;Gesamt_Messzeitraum;eor;                                                                                                       
+2829;Landsberg (Flugplatz);RF_TU;01.01.1966-01:00;10.07.2018-06:00;12290;Gesamt_Messzeitraum;eor;                                                                                                       

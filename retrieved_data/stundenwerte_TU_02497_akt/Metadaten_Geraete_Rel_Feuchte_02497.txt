@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2497;Kall-Sistig;6.53;50.5;505;2;20040801;20170718;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+2497;Kall-Sistig;6.53;50.5;505;2;20170719;20200323;EE33;Feuchtemessung, elektr.;eor;
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --

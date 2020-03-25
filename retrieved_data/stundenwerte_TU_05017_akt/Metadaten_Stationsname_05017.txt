@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  5017;Wickendorf                              ;19201001;19870810
+  5017;Teuschnitz-Wickendorf                   ;19870811;20051031
+  5017;Teuschnitz                              ;20051101;

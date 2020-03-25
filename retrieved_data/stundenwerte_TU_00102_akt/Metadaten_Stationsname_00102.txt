@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+   102;Leuchtturm Alte Weser                   ;19700604;

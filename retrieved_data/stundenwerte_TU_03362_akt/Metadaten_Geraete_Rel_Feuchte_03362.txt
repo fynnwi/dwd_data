@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3362;Mühlacker;8.87;48.97;244;2;20060627;20140831;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3362;Mühlacker;8.87;48.97;244;2;20140901;20180928;EE33;Feuchtemessung, elektr.;eor;
+3362;Mühlacker;8.87;48.97;244;2;20181001;20200323;EE33;Feuchtemessung, elektr.;eor;
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --

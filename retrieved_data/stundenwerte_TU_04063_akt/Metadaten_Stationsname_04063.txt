@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  4063;Rahden                                  ;18900801;19821031
+  4063;Rahden-Varl                             ;19821101;20141022
+  4063;Rahden-Kleinendorf                      ;20141023;

@@ -1,0 +1,3 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  3167;Marienberg, Bad                         ;19490101;19621130
+  3167;Marienberg, Bad                         ;19621201;

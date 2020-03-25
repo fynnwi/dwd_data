@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1473;Freystadt                               ;19370216;20051231
+  1473;Freystadt-Oberndorf                     ;20060101;20190312
+  1473;Freystadt-Michelbach                    ;20190516;

@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  7075;Elsendorf-Horneck                       ;20031219;

@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  3527;Neukirchen-Hauptschwenda                ;18900801;

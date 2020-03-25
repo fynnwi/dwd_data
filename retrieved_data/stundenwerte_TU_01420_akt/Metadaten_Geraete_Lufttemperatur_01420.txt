@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1420;Frankfurt/Main;8.6;50.05;113;2;19840629;19840630;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+1420;Frankfurt/Main;8.6;50.04;112;2;19840701;20141021;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+1420;Frankfurt/Main;8.52;50.03;99.7;2;20141022;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --

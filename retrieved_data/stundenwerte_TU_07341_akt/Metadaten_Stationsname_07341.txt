@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  7341;Offenbach-Wetterpark                    ;20050622;

@@ -1,0 +1,5 @@
+Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Einheit;Datenquelle (Strukturversion=SV);Zusatz-Info;Besonderheiten;Literaturhinweis;eor;
+4154;20110201;20180630;Remscheid-Lennep;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
+4154;20110201;20180630;Remscheid-Lennep;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
+Legende: FT  = Folgetag; GZ = Gesetzliche Zeit
+generiert: 01.01.2020 --  Deutscher Wetterdienst  --

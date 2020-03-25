@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  7419;Langenwetzendorf-Göttendorf             ;20060509;

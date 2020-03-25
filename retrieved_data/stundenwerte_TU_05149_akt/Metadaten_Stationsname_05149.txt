@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  5149;Uffenheim                               ;18941001;19911031
+  5149;Uffenheim                               ;20030612;20041231
+  5149;Gollhofen                               ;20050101;

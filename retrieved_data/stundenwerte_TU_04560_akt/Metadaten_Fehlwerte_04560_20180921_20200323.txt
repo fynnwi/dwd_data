@@ -1,0 +1,7 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+4560;Schotten;TT_TU;26.02.2019-06:00;26.02.2019-07:00;2;;eor;                                                                                                                                           
+4560;Schotten;TT_TU;20.06.2019-17:00;20.06.2019-21:00;5;;eor;                                                                                                                                           
+4560;Schotten;RF_TU;27.09.2018-08:00;27.09.2018-09:00;2;;eor;                                                                                                                                           
+4560;Schotten;RF_TU;26.02.2019-06:00;26.02.2019-07:00;2;;eor;                                                                                                                                           
+4560;Schotten;RF_TU;20.06.2019-17:00;20.06.2019-21:00;5;;eor;                                                                                                                                           
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

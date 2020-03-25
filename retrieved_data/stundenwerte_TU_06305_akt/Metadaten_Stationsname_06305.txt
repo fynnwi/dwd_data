@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  6305;Mühlhausen/Thüringen-Görmar             ;20041201;

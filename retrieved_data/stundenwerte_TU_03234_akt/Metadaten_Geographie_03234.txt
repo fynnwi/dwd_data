@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3234;  170.00; 51.1504; 13.5045;19100301;19980416;Garsebach bei Meiﬂen
+  3234;  225.00; 51.1537; 13.4486;20030704;20050131;Garsebach bei Meiﬂen
+  3234;  158.00; 51.1294; 13.4328;20050201;        ;Garsebach bei Meiﬂen

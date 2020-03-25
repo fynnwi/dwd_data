@@ -1,0 +1,7 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+2947;Lennestadt-Theten;TT_TU;01.10.2006-00:00;23.03.2020-23:00;464;Gesamt_Messzeitraum;eor;                                                                                                             
+2947;Lennestadt-Theten;RF_TU;01.10.2006-00:00;23.03.2020-23:00;464;Gesamt_Messzeitraum;eor;                                                                                                             
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+2947;Lennestadt-Theten;TT_TU;30.06.2019-08:00;11.07.2019-14:00;271;;eor;                                                                                                                                
+2947;Lennestadt-Theten;RF_TU;30.06.2019-08:00;11.07.2019-14:00;271;;eor;                                                                                                                                
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  3093;Lüchow (Mühle)                          ;19070401;19541130
+  3093;Lüchow (Mühle)                          ;19541201;19711124
+  3093;Lüchow                                  ;19711125;

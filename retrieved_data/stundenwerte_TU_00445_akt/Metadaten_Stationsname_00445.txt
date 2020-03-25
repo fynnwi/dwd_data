@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+   445;Bernburg/Saale (Nord)                   ;18630301;

@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5562;Neubulach-Oberhaugstett;8.68;48.65;570;2;20040601;20181015;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+5562;Neubulach-Oberhaugstett;8.68;48.65;570;2;20181016;20200323;EE33;Feuchtemessung, elektr.;eor;
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --

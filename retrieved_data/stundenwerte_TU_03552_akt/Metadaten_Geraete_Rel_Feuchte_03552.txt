@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3552;Neuruppin;12.81;52.9;38;2;19760101;19920623;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;2;19910501;19911031;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;2;19920602;19990927;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;2;19990928;20040916;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;2;20040804;20140719;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;2;20140715;20190408;EE33;Feuchtemessung, elektr.;eor;
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --

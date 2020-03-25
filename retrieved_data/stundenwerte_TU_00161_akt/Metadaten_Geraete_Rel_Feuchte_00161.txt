@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+161;Andernach;7.42;50.42;75;2;20110901;20160321;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+161;Andernach;7.42;50.42;75;2;20160322;20200323;EE33;Feuchtemessung, elektr.;eor;
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --

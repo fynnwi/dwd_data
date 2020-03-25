@@ -1,0 +1,8 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2601;  880.00; 50.2318;  8.4572;18910101;19021231;Kleiner Feldberg/Taunus
+  2601;  876.00; 50.2321;  8.4586;19030101;19130831;Kleiner Feldberg/Taunus
+  2601;  820.00; 50.2220;  8.4467;19130901;19330904;Kleiner Feldberg/Taunus
+  2601;  809.00; 50.2211;  8.4491;19330905;19460228;Kleiner Feldberg/Taunus
+  2601;  805.00; 50.2224;  8.4476;19460301;19601130;Kleiner Feldberg/Taunus
+  2601;  805.00; 50.2219;  8.4493;19601201;20060509;Kleiner Feldberg/Taunus
+  2601;  825.60; 50.2218;  8.4469;20060510;        ;Kleiner Feldberg/Taunus

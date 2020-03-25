@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  5538;Wielenbach (Demollstr.)                 ;19200101;

@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4063;Rahden-Varl;8.57;52.45;42;2;20030701;20141022;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+4063;Rahden-Kleinendorf;8.59;52.45;40.5;2;20141023;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --

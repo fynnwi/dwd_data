@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  2110;Heinsberg                               ;18920601;18950331
+  2110;Heinsberg                               ;19370107;19520331
+  2110;Kirchhoven-Lümbach                      ;19520401;19590930
+  2110;Heinsberg                               ;19591001;19621010
+  2110;Heinsberg-Hülhoven                      ;19621011;19770331
+  2110;Heinsberg-Schleiden                     ;19770401;

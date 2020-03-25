@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1051;  123.00; 51.0238; 13.7649;18830101;19770731;Dresden-Strehlen
+  1051;  119.00; 51.0232; 13.7749;19950701;20070228;Dresden-Strehlen
+  1051;  119.00; 51.0240; 13.7737;20070301;20180725;Dresden-Strehlen
+  1051;  120.00; 51.0248; 13.7750;20180726;        ;Dresden-Strehlen

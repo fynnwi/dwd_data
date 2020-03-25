@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1735;Grainet-Rehberg                         ;19951116;

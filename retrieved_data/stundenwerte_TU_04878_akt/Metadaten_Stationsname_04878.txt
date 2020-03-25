@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  4878;Stiege                                  ;18910101;20091231
+  4878;Oberharz am Brocken-Stiege              ;20100101;20131212
+  4878;Oberharz am Brocken-Stiege              ;20170425;

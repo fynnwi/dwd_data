@@ -1,0 +1,13 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+4271;Rostock-Warnemünde;TT_TU;01.01.1947-01:00;23.03.2020-23:00;193;Gesamt_Messzeitraum;eor;                                                                                                            
+4271;Rostock-Warnemünde;RF_TU;01.01.1947-01:00;23.03.2020-23:00;209;Gesamt_Messzeitraum;eor;                                                                                                            
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+4271;Rostock-Warnemünde;TT_TU;01.02.2019-14:00;04.02.2019-11:00;70;;eor;                                                                                                                                
+4271;Rostock-Warnemünde;TT_TU;25.06.2019-09:00;25.06.2019-22:00;14;;eor;                                                                                                                                
+4271;Rostock-Warnemünde;TT_TU;26.06.2019-06:00;26.06.2019-06:00;1;;eor;                                                                                                                                 
+4271;Rostock-Warnemünde;TT_TU;30.09.2019-16:00;01.10.2019-07:00;16;;eor;                                                                                                                                
+4271;Rostock-Warnemünde;RF_TU;01.02.2019-12:00;04.02.2019-11:00;72;;eor;                                                                                                                                
+4271;Rostock-Warnemünde;RF_TU;25.06.2019-09:00;25.06.2019-22:00;14;;eor;                                                                                                                                
+4271;Rostock-Warnemünde;RF_TU;26.06.2019-06:00;26.06.2019-11:00;6;;eor;                                                                                                                                 
+4271;Rostock-Warnemünde;RF_TU;30.09.2019-16:00;01.10.2019-07:00;16;;eor;                                                                                                                                
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

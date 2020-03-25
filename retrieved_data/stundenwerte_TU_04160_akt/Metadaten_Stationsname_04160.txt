@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  4160;Renningen                               ;19360101;19750131
+  4160;Renningen                               ;19750201;20020228
+  4160;Renningen-Ihinger Hof                   ;20020301;

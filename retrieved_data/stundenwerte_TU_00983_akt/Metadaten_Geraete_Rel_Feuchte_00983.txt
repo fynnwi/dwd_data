@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+983;Dillingen/Donau-Fristingen;10.56;48.56;419;2;20061201;20190903;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+983;Dillingen/Donau-Fristingen;10.56;48.56;419;2;20190904;20200323;EE33;Feuchtemessung, elektr.;eor;
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --

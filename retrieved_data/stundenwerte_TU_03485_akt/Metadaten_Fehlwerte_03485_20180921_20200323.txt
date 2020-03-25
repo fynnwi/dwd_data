@@ -1,0 +1,4 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+3485;Neuburg/Kammel-Langenhaslach;TT_TU;24.12.2018-04:00;24.12.2018-10:00;7;;eor;                                                                                                                       
+3485;Neuburg/Kammel-Langenhaslach;RF_TU;24.12.2018-04:00;24.12.2018-10:00;7;;eor;                                                                                                                       
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

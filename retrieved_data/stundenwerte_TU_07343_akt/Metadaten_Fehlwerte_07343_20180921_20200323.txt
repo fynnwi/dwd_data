@@ -1,0 +1,4 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+7343;Deutschneudorf-Brüderwiese;TT_TU;15.09.2019-09:00;25.09.2019-10:00;242;;eor;                                                                                                                       
+7343;Deutschneudorf-Brüderwiese;RF_TU;15.09.2019-09:00;25.09.2019-10:00;242;;eor;                                                                                                                       
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

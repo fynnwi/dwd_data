@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1803;Groß Lüsewitz                           ;19490601;

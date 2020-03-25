@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+   701;Bremerhaven (Signalturm)                ;19490101;19490531
+   701;Bremerhaven (Signalturm)                ;19490601;19620415
+   701;Bremerhaven                             ;19620416;

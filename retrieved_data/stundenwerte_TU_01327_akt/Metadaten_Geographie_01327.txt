@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1327;  160.00; 50.6700;  6.7800;18920501;19300718;Weilerswist-Lommersum
+  1327;  170.00; 50.6514;  6.7844;19300719;19531126;Weilerswist-Lommersum
+  1327;  164.00; 50.6508;  6.7811;19531127;19560702;Weilerswist-Lommersum
+  1327;  178.00; 50.6478;  6.7862;19560703;19940415;Weilerswist-Lommersum
+  1327;  160.00; 50.6703;  6.7857;19940416;20030930;Weilerswist-Lommersum
+  1327;  147.00; 50.7119;  6.7905;20040422;        ;Weilerswist-Lommersum

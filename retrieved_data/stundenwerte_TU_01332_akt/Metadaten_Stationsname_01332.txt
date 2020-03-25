@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1332;Falkenberg,Kr.Rottal-Inn                ;19360609;

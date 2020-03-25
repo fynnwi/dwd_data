@@ -1,0 +1,7 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+5825;Berge;TT_TU;01.05.2004-00:00;23.03.2020-23:00;618;Gesamt_Messzeitraum;eor;                                                                                                                         
+5825;Berge;RF_TU;01.05.2004-00:00;23.03.2020-23:00;623;Gesamt_Messzeitraum;eor;                                                                                                                         
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+5825;Berge;TT_TU;13.05.2019-13:00;23.05.2019-11:00;239;;eor;                                                                                                                                            
+5825;Berge;RF_TU;13.05.2019-13:00;23.05.2019-11:00;239;;eor;                                                                                                                                            
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

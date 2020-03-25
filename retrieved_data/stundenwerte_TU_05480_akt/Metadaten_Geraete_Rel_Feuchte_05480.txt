@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5480;Werl;7.89;51.58;84.8;2;20030910;20060827;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+5480;Werl;7.89;51.58;84.8;2;20060828;20141208;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+5480;Werl;7.89;51.58;84.8;1.18;20140617;20141008;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+5480;Werl;7.89;51.58;84.8;2;20141009;20180531;EE33;Feuchtemessung, elektr.;eor;
+5480;Werl;7.89;51.58;84.8;2;20180620;20200323;EE33;Feuchtemessung, elektr.;eor;
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --

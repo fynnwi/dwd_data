@@ -1,0 +1,6 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+3667;Nürnberg-Netzstall;TT_TU;14.11.2019-10:00;14.11.2019-17:00;8;;eor;                                                                                                                                 
+3667;Nürnberg-Netzstall;TT_TU;08.02.2020-12:00;08.02.2020-17:00;6;;eor;                                                                                                                                 
+3667;Nürnberg-Netzstall;RF_TU;14.11.2019-10:00;14.11.2019-17:00;8;;eor;                                                                                                                                 
+3667;Nürnberg-Netzstall;RF_TU;08.02.2020-12:00;08.02.2020-17:00;6;;eor;                                                                                                                                 
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

@@ -1,0 +1,3 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  2968;Leverkusen                              ;19020101;20080229
+  2968;Köln-Stammheim                          ;20080724;

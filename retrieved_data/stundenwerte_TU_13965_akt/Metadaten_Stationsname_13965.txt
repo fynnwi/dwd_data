@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+ 13965;Balingen-Bronnhaupten                   ;20081017;

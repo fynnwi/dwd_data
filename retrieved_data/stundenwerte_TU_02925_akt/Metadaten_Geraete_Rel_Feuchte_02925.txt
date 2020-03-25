@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2925;Leinefelde;10.31;51.39;356;2;19770501;19900331;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+2925;Leinefelde;10.31;51.39;356;2;19800501;19900330;Elektrisches Aspirationspsychrometer-1 (EAP-1);Feuchtemessung, elektr.;eor;
+2925;Leinefelde;10.31;51.39;356;2;19900401;20040610;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+2925;Leinefelde;10.31;51.39;356;2;20040611;20070201;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+2925;Leinefelde;10.31;51.39;356;2;20070202;20150303;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+2925;Leinefelde;10.31;51.39;356;2;20141113;20200323;EE33;Feuchtemessung, elektr.;eor;
+generiert: 24.03.2020 --  Deutscher Wetterdienst  --

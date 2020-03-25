@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  2618;Kleiner Inselsberg                      ;19580101;
