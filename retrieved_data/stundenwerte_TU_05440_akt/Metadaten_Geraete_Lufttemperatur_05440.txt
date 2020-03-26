@@ -1,4 +1,4 @@
 Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
 5440;Weiﬂenburg;10.96;49.02;422;2;19930414;20140930;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-5440;Weiﬂenburg-Emetzheim;10.93;49.01;439.3;2;20141001;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+5440;Weiﬂenburg-Emetzheim;10.93;49.01;439.3;2;20141001;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 954;UFS Deutsche Bucht;7.46;54.18;0;8;20000501;20120729;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 954;UFS Deutsche Bucht;7.46;54.18;0;8;20120730;20130610;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 954;UFS Deutsche Bucht;7.46;54.18;0;8;20130708;20170423;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-954;UFS Deutsche Bucht;7.46;54.18;0;2;20170424;20200323;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+954;UFS Deutsche Bucht;7.46;54.18;0;2;20170424;20200325;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

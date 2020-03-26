@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 4501;Schmücke;10.77;50.65;937;2;19920711;20040405;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 4501;Schmücke;10.77;50.65;937;2;20040406;20070628;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 4501;Schmücke;10.77;50.65;937;2;20070629;20150305;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-4501;Schmücke;10.77;50.65;937;2;20140813;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+4501;Schmücke;10.77;50.65;937;2;20140813;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

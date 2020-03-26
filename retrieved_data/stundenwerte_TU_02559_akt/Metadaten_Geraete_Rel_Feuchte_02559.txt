@@ -3,5 +3,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 2559;Kempten;10.34;47.72;705;2;20061122;20061126;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 2559;Kempten;10.33;47.72;705.2;2;20061127;20140406;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 2559;Kempten;10.33;47.72;705.2;2;20140407;20140820;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-2559;Kempten;10.33;47.72;705.2;2;20140821;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+2559;Kempten;10.33;47.72;705.2;2;20140821;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

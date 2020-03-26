@@ -6,5 +6,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 5349;Waren;12.67;53.52;70;2;20040921;20050911;HYGROMER MP300;Feuchtemessung, elektr.;eor;
 5349;Waren;12.67;53.52;70;2;20050831;20110903;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 5349;Waren;12.67;53.52;70;2;20110904;20140709;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-5349;Waren (Müritz);12.67;53.52;72.6;2;20140710;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+5349;Waren (Müritz);12.67;53.52;72.6;2;20140710;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

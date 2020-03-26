@@ -3,5 +3,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 4466;Schleswig;9.55;54.53;42.7;2;20020919;20140526;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 4466;Schleswig;9.55;54.53;42.7;2;20140527;20141112;EE33;Feuchtemessung, elektr.;eor;
 4466;Schleswig;9.55;54.53;42.7;2;20141113;20160215;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-4466;Schleswig;9.55;54.53;42.7;2;20160216;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+4466;Schleswig;9.55;54.53;42.7;2;20160216;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

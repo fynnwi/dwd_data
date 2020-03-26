@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 5349;Waren;12.67;53.52;70;2;19940203;20040917;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 5349;Waren;12.67;53.52;70;2;20040921;20110903;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 5349;Waren;12.67;53.52;70;2;20110904;20140709;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-5349;Waren (Müritz);12.67;53.52;72.6;2;20140710;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+5349;Waren (Müritz);12.67;53.52;72.6;2;20140710;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

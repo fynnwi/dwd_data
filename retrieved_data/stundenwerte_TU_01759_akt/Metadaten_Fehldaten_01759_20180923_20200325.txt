@@ -1,0 +1,8 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+1759;Greifswalder Oie;TT_TU;25.10.2000-17:00;25.03.2020-23:00;1882;Gesamt_Messzeitraum;eor;                                                                                                             
+1759;Greifswalder Oie;RF_TU;25.10.2000-17:00;25.03.2020-23:00;2243;Gesamt_Messzeitraum;eor;                                                                                                             
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+1759;Greifswalder Oie;TT_TU;06.10.2019-07:00;07.10.2019-04:00;22;;eor;                                                                                                                                  
+1759;Greifswalder Oie;RF_TU;06.10.2019-07:00;07.10.2019-04:00;22;;eor;                                                                                                                                  
+1759;Greifswalder Oie;RF_TU;17.02.2020-08:00;18.02.2020-05:00;22;;eor;                                                                                                                                  
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

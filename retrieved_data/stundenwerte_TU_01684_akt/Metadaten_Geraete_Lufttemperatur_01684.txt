@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 1684;Görlitz;14.96;51.16;232.2;2;19901030;19940525;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 1684;Görlitz;14.95;51.16;238;2;19940526;20070327;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 1684;Görlitz;14.95;51.16;238;2;20070328;20080731;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-1684;Görlitz;14.95;51.16;238;2;20080801;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+1684;Görlitz;14.95;51.16;238;2;20080801;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

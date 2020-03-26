@@ -3,5 +3,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 3821;Osterfeld;11.93;51.09;246;2;20040101;20040412;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 3821;Osterfeld;11.93;51.09;246;2;20040413;20141019;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 3821;Osterfeld;11.93;51.09;246;2;20140708;20180822;EE33;Feuchtemessung, elektr.;eor;
-3821;Osterfeld;11.93;51.09;246;2;20180827;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+3821;Osterfeld;11.93;51.09;246;2;20180827;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

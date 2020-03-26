@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 5856;Fürstenzell;13.35;48.55;476;2;19970103;20031116;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 5856;Fürstenzell;13.35;48.55;476;2;20031117;20060927;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 5856;Fürstenzell;13.35;48.55;476.4;2;20060928;20140805;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-5856;Fürstenzell;13.35;48.55;476.4;2;20140806;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+5856;Fürstenzell;13.35;48.55;476.4;2;20140806;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

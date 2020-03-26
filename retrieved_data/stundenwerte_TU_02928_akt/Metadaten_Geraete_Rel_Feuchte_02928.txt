@@ -5,5 +5,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 2928;Leipzig-Holzhausen;12.45;51.32;138;2;20051211;20051211;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 2928;Leipzig-Holzhausen;12.45;51.32;138;2;20051212;20141026;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 2928;Leipzig-Holzhausen;12.45;51.32;138;2;20140711;20190622;EE33;Feuchtemessung, elektr.;eor;
-2928;Leipzig-Holzhausen;12.45;51.32;138;2;20190627;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+2928;Leipzig-Holzhausen;12.45;51.32;138;2;20190627;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

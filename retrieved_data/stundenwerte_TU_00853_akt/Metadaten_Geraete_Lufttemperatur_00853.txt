@@ -3,5 +3,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 853;Chemnitz;12.87;50.79;418;2;19870507;19870524;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 853;Chemnitz;12.87;50.79;418;2;19870729;19870730;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 853;Chemnitz;12.87;50.79;418;2;19871111;19871128;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-853;Chemnitz;12.87;50.79;418;2;19880517;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+853;Chemnitz;12.87;50.79;418;2;19880517;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

@@ -1,6 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-2750;Kronach;TT_TU;01.11.2005-00:00;23.03.2020-23:00;30;Gesamt_Messzeitraum;eor;                                                                                                                        
-2750;Kronach;RF_TU;01.11.2005-00:00;23.03.2020-23:00;31;Gesamt_Messzeitraum;eor;                                                                                                                        
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-2750;Kronach;RF_TU;09.03.2019-19:00;09.03.2019-19:00;1;;eor;                                                                                                                                            
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

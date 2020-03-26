@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 2171;Hersfeld, Bad;9.74;50.85;272.2;2;19941221;20060516;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 2171;Hersfeld, Bad;9.74;50.85;272.2;2;20060517;20150811;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 2171;Hersfeld, Bad;9.74;50.85;272.2;2;20150812;20190911;EE33;Feuchtemessung, elektr.;eor;
-2171;Hersfeld, Bad;9.74;50.85;272.2;2;20190923;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+2171;Hersfeld, Bad;9.74;50.85;272.2;2;20190923;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

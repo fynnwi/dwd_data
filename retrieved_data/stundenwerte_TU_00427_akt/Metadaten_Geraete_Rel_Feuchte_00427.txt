@@ -1,8 +1,8 @@
 Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
 427;Berlin-Schönefeld;13.53;52.38;46;2;19730101;19920213;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
-427;Berlin-Schönefeld;13.53;52.38;46;2;19870901;19920213;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
 427;Berlin-Schönefeld;13.53;52.38;46;2;19870901;20081116;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+427;Berlin-Schönefeld;13.53;52.38;46;2;19870901;19920213;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
 427;Berlin-Schönefeld;13.53;52.38;46;2;20081117;20090203;HYGROMER MP300;Feuchtemessung, elektr.;eor;
 427;Berlin-Schönefeld;13.53;52.38;46;2;20120720;20180405;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-427;Berlin-Schönefeld;13.53;52.38;46;2;20180406;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+427;Berlin-Schönefeld;13.53;52.38;46;2;20180406;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 5629;Wittenberg;12.64;51.89;105;2;19930511;20031231;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 5629;Wittenberg;12.64;51.89;105;2;20040101;20041206;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 5629;Wittenberg;12.64;51.89;105;2;20041110;20140820;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-5629;Wittenberg;12.64;51.89;105;2;20140716;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+5629;Wittenberg;12.64;51.89;105;2;20140716;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

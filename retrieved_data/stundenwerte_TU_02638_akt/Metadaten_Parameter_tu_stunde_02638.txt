@@ -6,7 +6,7 @@ Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Ein
 2638;20010404;20010406;Klippeneck;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten);Stundenwerte in UTC;;;eor;
 2638;20010406;20010407;Klippeneck;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
 2638;20010407;20010410;Klippeneck;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten);Stundenwerte in UTC;;;eor;
-2638;20010410;20200323;Klippeneck;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
+2638;20010410;20200325;Klippeneck;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
 2638;19650701;19921130;Klippeneck;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
 2638;19921201;19921231;Klippeneck;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten);Stundenwerte in UTC;;;eor;
 2638;19930101;20010401;Klippeneck;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten);Stundenwerte in UTC;;;eor;
@@ -14,6 +14,6 @@ Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Ein
 2638;20010404;20010406;Klippeneck;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten);Stundenwerte in UTC;;;eor;
 2638;20010406;20010407;Klippeneck;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
 2638;20010407;20010410;Klippeneck;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten);Stundenwerte in UTC;;;eor;
-2638;20010410;20200323;Klippeneck;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
+2638;20010410;20200325;Klippeneck;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
 Legende: FT  = Folgetag; GZ = Gesetzliche Zeit
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

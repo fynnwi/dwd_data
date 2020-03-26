@@ -3,5 +3,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 704;Bremervörde;9.14;53.45;10.57;2;20020530;20060705;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 704;Bremervörde;9.14;53.45;10.57;2;20060626;20140629;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 704;Bremervörde;9.14;53.45;10.57;2;20140630;20151226;EE33;Feuchtemessung, elektr.;eor;
-704;Bremervörde;9.14;53.45;10.57;2;20151230;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+704;Bremervörde;9.14;53.45;10.57;2;20151230;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

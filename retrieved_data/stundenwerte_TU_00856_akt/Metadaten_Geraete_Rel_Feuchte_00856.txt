@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 856;Chieming;12.54;47.89;549;2;20020101;20020627;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 856;Chieming;12.54;47.88;551.2;2;20020628;20040503;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 856;Chieming;12.54;47.88;551.2;2;20040504;20140727;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-856;Chieming;12.54;47.88;551.2;2;20140728;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+856;Chieming;12.54;47.88;551.2;2;20140728;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

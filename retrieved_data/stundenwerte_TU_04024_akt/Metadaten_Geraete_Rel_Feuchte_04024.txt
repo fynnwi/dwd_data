@@ -20,5 +20,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 4024;Putbus;13.48;54.36;39.5;2;20050620;20050625;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 4024;Putbus;13.48;54.36;39.5;2;20050706;20060607;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 4024;Putbus;13.48;54.36;39.5;2;20060608;20141007;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-4024;Putbus;13.48;54.36;39.5;2;20140702;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+4024;Putbus;13.48;54.36;39.5;2;20140702;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

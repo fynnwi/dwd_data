@@ -1,7 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-4039;Quickborn;TT_TU;11.01.1988-01:00;23.03.2020-23:00;13767;Gesamt_Messzeitraum;eor;                                                                                                                   
-4039;Quickborn;RF_TU;11.01.1988-01:00;23.03.2020-23:00;13770;Gesamt_Messzeitraum;eor;                                                                                                                   
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-4039;Quickborn;TT_TU;30.10.2019-06:00;30.10.2019-09:00;4;;eor;                                                                                                                                          
-4039;Quickborn;RF_TU;30.10.2019-06:00;30.10.2019-09:00;4;;eor;                                                                                                                                          
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

@@ -4,5 +4,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 3166;Marienberg;13.15;50.65;639;2;20021018;20141006;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 3166;Marienberg;13.15;50.65;639;2;20140723;20180611;EE33;Feuchtemessung, elektr.;eor;
 3166;Marienberg;13.15;50.65;639;2;20180611;20180927;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-3166;Marienberg;13.15;50.65;639;2;20180928;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+3166;Marienberg;13.15;50.65;639;2;20180928;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

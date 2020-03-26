@@ -3,5 +3,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 3668;Nürnberg;11.05;49.5;314;2;20050608;20060723;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 3668;Nürnberg;11.05;49.5;314;2;20060724;20060928;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 3668;Nürnberg;11.05;49.5;314;2;20060929;20150122;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-3668;Nürnberg;11.05;49.5;314;2;20150123;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+3668;Nürnberg;11.05;49.5;314;2;20150123;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

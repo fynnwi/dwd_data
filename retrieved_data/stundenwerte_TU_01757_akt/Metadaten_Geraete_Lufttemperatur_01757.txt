@@ -3,5 +3,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 1757;Greifswald;13.41;54.1;2;2;19910117;19930120;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 1757;Greifswald;13.41;54.1;2;2;19930126;19991207;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 1757;Greifswald;13.41;54.1;2;2;19991209;20060831;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-1757;Greifswald;13.41;54.1;2;2;20060901;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+1757;Greifswald;13.41;54.1;2;2;20060901;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

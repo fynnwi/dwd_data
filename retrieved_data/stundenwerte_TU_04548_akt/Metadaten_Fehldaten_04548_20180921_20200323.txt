@@ -1,7 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-4548;Selb/Oberfranken-Lauterbach;TT_TU;01.07.2007-00:00;23.03.2020-23:00;1221;Gesamt_Messzeitraum;eor;                                                                                                  
-4548;Selb/Oberfranken-Lauterbach;RF_TU;01.07.2007-00:00;23.03.2020-23:00;1222;Gesamt_Messzeitraum;eor;                                                                                                  
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-4548;Selb/Oberfranken-Lauterbach;TT_TU;08.06.2019-16:00;16.07.2019-10:00;907;;eor;                                                                                                                      
-4548;Selb/Oberfranken-Lauterbach;RF_TU;08.06.2019-16:00;16.07.2019-10:00;907;;eor;                                                                                                                      
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

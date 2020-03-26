@@ -15,7 +15,7 @@ Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Ein
 5100;20010901;20010930;Trier-Petrisberg;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
 5100;20010930;20011101;Trier-Petrisberg;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
 5100;20011101;20011130;Trier-Petrisberg;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
-5100;20011130;20200323;Trier-Petrisberg;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
+5100;20011130;20200325;Trier-Petrisberg;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
 5100;19410101;19991231;Trier-Petrisberg;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
 5100;20000101;20000902;Trier-Petrisberg;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
 5100;20000903;20000903;Trier-Petrisberg;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
@@ -34,6 +34,6 @@ Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Ein
 5100;20010901;20010930;Trier-Petrisberg;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
 5100;20010930;20011101;Trier-Petrisberg;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
 5100;20011101;20011130;Trier-Petrisberg;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
-5100;20011130;20200323;Trier-Petrisberg;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
+5100;20011130;20200325;Trier-Petrisberg;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
 Legende: FT  = Folgetag; GZ = Gesetzliche Zeit
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

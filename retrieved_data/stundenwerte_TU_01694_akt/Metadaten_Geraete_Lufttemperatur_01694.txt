@@ -9,5 +9,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 1694;Goldberg;12.1;53.61;58;2;20040323;20040422;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 1694;Goldberg;12.1;53.61;58;2;20040426;20050224;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 1694;Goldberg;12.1;53.61;58;2;20050228;20060614;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-1694;Goldberg;12.1;53.61;58;2;20060615;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+1694;Goldberg;12.1;53.61;58;2;20060615;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

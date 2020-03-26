@@ -1,4 +1,4 @@
 Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
 6314;Nossen;13.3;51.05;308;2;20050801;20190606;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-6314;Nossen;13.3;51.05;308;2;20190607;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+6314;Nossen;13.3;51.05;308;2;20190607;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

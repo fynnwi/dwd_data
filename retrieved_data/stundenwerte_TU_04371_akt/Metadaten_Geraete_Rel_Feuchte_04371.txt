@@ -1,5 +1,5 @@
 Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
 4371;Salzuflen, Bad;8.75;52.1;134.6;2;19920617;20071017;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 4371;Salzuflen, Bad;8.75;52.1;134.6;2;20071018;20150406;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-4371;Salzuflen, Bad;8.75;52.1;134.6;2;20140820;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+4371;Salzuflen, Bad;8.75;52.1;134.6;2;20140820;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

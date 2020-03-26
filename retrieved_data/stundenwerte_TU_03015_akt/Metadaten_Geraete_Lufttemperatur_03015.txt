@@ -7,5 +7,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 3015;Lindenberg;14.12;52.21;98;2;19860326;19890404;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 3015;Lindenberg;14.12;52.21;98;2;19890413;19920928;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 3015;Lindenberg;14.12;52.21;98;2;19920930;19930331;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-3015;Lindenberg;14.12;52.21;98;2;19930401;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+3015;Lindenberg;14.12;52.21;98;2;19930401;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

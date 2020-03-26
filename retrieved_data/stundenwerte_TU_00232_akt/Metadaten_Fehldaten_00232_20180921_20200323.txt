@@ -1,8 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-232;Augsburg;TT_TU;01.01.1955-01:00;23.03.2020-23:00;239;Gesamt_Messzeitraum;eor;                                                                                                                       
-232;Augsburg;RF_TU;01.01.1955-01:00;23.03.2020-23:00;284;Gesamt_Messzeitraum;eor;                                                                                                                       
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-232;Augsburg;TT_TU;22.07.2019-09:00;22.07.2019-12:00;4;;eor;                                                                                                                                            
-232;Augsburg;RF_TU;20.07.2019-10:00;20.07.2019-16:00;7;;eor;                                                                                                                                            
-232;Augsburg;RF_TU;22.07.2019-09:00;22.07.2019-12:00;4;;eor;                                                                                                                                            
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

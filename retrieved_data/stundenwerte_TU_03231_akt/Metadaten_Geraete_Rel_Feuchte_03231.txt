@@ -8,5 +8,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 3231;Meiningen;10.38;50.56;450;2;20110822;20121119;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 3231;Meiningen;10.38;50.56;450;2;20121120;20121206;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 3231;Meiningen;10.38;50.56;450;2;20121207;20141231;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-3231;Meiningen;10.38;50.56;450;2;20141001;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+3231;Meiningen;10.38;50.56;450;2;20141001;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

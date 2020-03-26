@@ -7,5 +7,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 3158;Manschnow;14.55;52.55;12.1;2;20030818;20040622;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 3158;Manschnow;14.55;52.55;12.1;2;20040624;20061018;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 3158;Manschnow;14.55;52.55;12;2;20061019;20080305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-3158;Manschnow;14.55;52.55;12;2;20080306;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+3158;Manschnow;14.55;52.55;12;2;20080306;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

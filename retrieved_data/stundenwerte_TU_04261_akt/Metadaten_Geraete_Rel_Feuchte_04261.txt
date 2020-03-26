@@ -1,4 +1,4 @@
 Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
 4261;Rosenheim;12.13;47.88;442;2;20060301;20160725;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-4261;Rosenheim;12.13;47.88;442;2;20160726;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+4261;Rosenheim;12.13;47.88;442;2;20160726;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

@@ -5,5 +5,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 1869;Grünow;13.93;53.32;55.9;2;20010508;20010918;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 1869;Grünow;13.93;53.32;55.9;2;20010924;20090218;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 1869;Grünow;13.93;53.32;55.9;2;20090219;20141014;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-1869;Grünow;13.93;53.32;55.9;2;20140820;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+1869;Grünow;13.93;53.32;55.9;2;20140820;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

@@ -1,0 +1,6 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+6344;Runkel-Ennerich;TT_TU;26.10.2018-08:00;26.10.2018-11:00;4;;eor;                                                                                                                                    
+6344;Runkel-Ennerich;TT_TU;01.12.2019-23:00;05.12.2019-08:00;82;;eor;                                                                                                                                   
+6344;Runkel-Ennerich;RF_TU;26.10.2018-08:00;26.10.2018-11:00;4;;eor;                                                                                                                                    
+6344;Runkel-Ennerich;RF_TU;01.12.2019-23:00;05.12.2019-08:00;82;;eor;                                                                                                                                   
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

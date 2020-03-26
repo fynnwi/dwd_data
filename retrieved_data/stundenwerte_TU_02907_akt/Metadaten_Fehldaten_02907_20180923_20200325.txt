@@ -1,0 +1,9 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+2907;Leck;TT_TU;01.04.1994-00:00;25.03.2020-23:00;17148;Gesamt_Messzeitraum;eor;                                                                                                                        
+2907;Leck;RF_TU;01.04.1994-00:00;25.03.2020-23:00;17201;Gesamt_Messzeitraum;eor;                                                                                                                        
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+2907;Leck;TT_TU;17.11.2018-13:00;19.11.2018-06:00;42;;eor;                                                                                                                                              
+2907;Leck;TT_TU;07.03.2019-12:00;07.03.2019-12:00;1;;eor;                                                                                                                                               
+2907;Leck;RF_TU;17.11.2018-13:00;19.11.2018-06:00;42;;eor;                                                                                                                                              
+2907;Leck;RF_TU;07.03.2019-12:00;07.03.2019-12:00;1;;eor;                                                                                                                                               
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

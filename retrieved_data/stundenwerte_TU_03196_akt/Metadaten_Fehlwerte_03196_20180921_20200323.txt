@@ -1,4 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-3196;Marnitz;TT_TU;20.02.2020-13:00;20.02.2020-13:00;1;;eor;                                                                                                                                            
-3196;Marnitz;RF_TU;20.02.2020-13:00;20.02.2020-13:00;1;;eor;                                                                                                                                            
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

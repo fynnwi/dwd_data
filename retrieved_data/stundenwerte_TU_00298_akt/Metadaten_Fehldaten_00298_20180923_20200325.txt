@@ -1,0 +1,7 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+298;Barth;TT_TU;01.01.1981-01:00;25.03.2020-23:00;751;Gesamt_Messzeitraum;eor;                                                                                                                          
+298;Barth;RF_TU;01.01.1991-01:00;25.03.2020-23:00;895;Gesamt_Messzeitraum;eor;                                                                                                                          
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+298;Barth;TT_TU;17.07.2019-15:00;24.07.2019-13:00;167;;eor;                                                                                                                                             
+298;Barth;RF_TU;17.07.2019-15:00;24.07.2019-13:00;167;;eor;                                                                                                                                             
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

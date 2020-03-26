@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 1766;Münster/Osnabrück;7.7;52.13;48.4;2;19891001;20070422;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 1766;Münster/Osnabrück;7.7;52.13;48.4;2;20070423;20091013;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 1766;Münster/Osnabrück;7.7;52.13;47.8;2;20091014;20141109;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-1766;Münster/Osnabrück;7.7;52.13;47.8;2;20140929;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+1766;Münster/Osnabrück;7.7;52.13;47.8;2;20140929;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

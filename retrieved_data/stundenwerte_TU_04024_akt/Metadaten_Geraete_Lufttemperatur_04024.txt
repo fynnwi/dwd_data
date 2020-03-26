@@ -17,5 +17,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 4024;Putbus;13.48;54.36;39.5;2;20050613;20050616;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 4024;Putbus;13.48;54.36;39.5;2;20050620;20050625;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 4024;Putbus;13.48;54.36;39.5;2;20050706;20060607;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-4024;Putbus;13.48;54.36;39.5;2;20060608;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+4024;Putbus;13.48;54.36;39.5;2;20060608;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

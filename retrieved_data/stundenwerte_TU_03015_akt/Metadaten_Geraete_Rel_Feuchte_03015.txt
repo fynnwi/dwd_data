@@ -15,5 +15,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 3015;Lindenberg;14.12;52.21;98;2;20080922;20140807;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 3015;Lindenberg;14.12;52.21;98;2;20140723;20150428;EE33;Feuchtemessung, elektr.;eor;
 3015;Lindenberg;14.12;52.21;98;2;20150310;20160108;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-3015;Lindenberg;14.12;52.21;98;2;20151116;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+3015;Lindenberg;14.12;52.21;98;2;20151116;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

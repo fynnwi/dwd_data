@@ -1,9 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-13711;Krölpa-Rockendorf;TT_TU;01.12.2007-00:00;23.03.2020-23:00;163;Gesamt_Messzeitraum;eor;                                                                                                            
-13711;Krölpa-Rockendorf;RF_TU;01.12.2007-00:00;23.03.2020-23:00;164;Gesamt_Messzeitraum;eor;                                                                                                            
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-13711;Krölpa-Rockendorf;TT_TU;09.11.2018-09:00;12.11.2018-12:00;76;;eor;                                                                                                                                
-13711;Krölpa-Rockendorf;TT_TU;13.11.2018-10:00;14.11.2018-09:00;24;;eor;                                                                                                                                
-13711;Krölpa-Rockendorf;RF_TU;09.11.2018-09:00;12.11.2018-12:00;76;;eor;                                                                                                                                
-13711;Krölpa-Rockendorf;RF_TU;13.11.2018-10:00;14.11.2018-09:00;24;;eor;                                                                                                                                
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

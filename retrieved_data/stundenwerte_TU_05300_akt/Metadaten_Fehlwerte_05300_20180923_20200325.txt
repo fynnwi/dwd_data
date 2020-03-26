@@ -1,0 +1,7 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+5300;Waldems-Reinborn;TT_TU;01.01.2019-12:00;07.01.2019-13:00;146;;eor;                                                                                                                                 
+5300;Waldems-Reinborn;TT_TU;18.02.2019-16:00;01.03.2019-10:00;259;;eor;                                                                                                                                 
+5300;Waldems-Reinborn;RF_TU;31.12.2018-13:00;31.12.2018-17:00;5;;eor;                                                                                                                                   
+5300;Waldems-Reinborn;RF_TU;01.01.2019-00:00;07.01.2019-13:00;158;;eor;                                                                                                                                 
+5300;Waldems-Reinborn;RF_TU;18.02.2019-12:00;01.03.2019-10:00;263;;eor;                                                                                                                                 
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

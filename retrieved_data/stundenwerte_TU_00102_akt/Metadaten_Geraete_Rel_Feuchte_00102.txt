@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 102;Leuchtturm Alte Weser;8.13;53.86;32;33.5;20020101;20111207;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 102;Leuchtturm Alte Weser;8.13;53.86;32;33.5;20120402;20141001;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 102;Leuchtturm Alte Weser;8.13;53.86;32;33.5;20141002;20160518;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-102;Leuchtturm Alte Weser;8.13;53.86;32;33.5;20160519;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+102;Leuchtturm Alte Weser;8.13;53.86;32;33.5;20160519;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 1420;Frankfurt/Main;8.6;50.04;112;2;19930301;20120216;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 1420;Frankfurt/Main;8.6;50.04;112;2;20120217;20141021;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 1420;Frankfurt/Main;8.52;50.03;99.7;2;20141022;20151204;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-1420;Frankfurt/Main;8.52;50.03;99.7;2;20151205;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+1420;Frankfurt/Main;8.52;50.03;99.7;2;20151205;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

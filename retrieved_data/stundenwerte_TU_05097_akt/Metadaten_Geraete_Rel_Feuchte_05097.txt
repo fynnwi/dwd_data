@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 5097;Tribsees;12.77;54.07;10;2;20050101;20110903;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 5097;Tribsees;12.77;54.07;10;2;20110904;20131023;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 5097;Tribsees;12.77;54.07;10;2;20131028;20160816;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-5097;Tribsees;12.77;54.07;10;2;20160817;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+5097;Tribsees;12.77;54.07;10;2;20160817;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

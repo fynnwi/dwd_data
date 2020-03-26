@@ -1,0 +1,4 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+4605;Schwarzburg;TT_TU;18.06.2019-08:00;18.06.2019-13:00;6;;eor;                                                                                                                                        
+4605;Schwarzburg;RF_TU;18.06.2019-08:00;18.06.2019-13:00;6;;eor;                                                                                                                                        
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

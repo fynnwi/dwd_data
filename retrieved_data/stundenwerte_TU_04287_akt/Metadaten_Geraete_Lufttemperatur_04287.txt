@@ -1,4 +1,4 @@
 Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
 4287;Rothenburg ob der Tauber;10.18;49.38;412;2;20050101;20081111;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-4287;Rothenburg ob der Tauber;10.17;49.38;415;2;20081112;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+4287;Rothenburg ob der Tauber;10.17;49.38;415;2;20081112;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

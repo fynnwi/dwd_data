@@ -6,5 +6,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 5009;Teterow;12.62;53.76;46;2;20020311;20030521;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 5009;Teterow;12.62;53.76;46;2;20030526;20030817;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 5009;Teterow;12.62;53.76;46;2;20030820;20040630;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-5009;Teterow;12.56;53.76;38;2;20040701;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+5009;Teterow;12.56;53.76;38;2;20040701;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 3155;Manderscheid;6.8;50.09;419;2;20040801;20090930;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 3155;Manderscheid-Sonnenhof;6.8;50.1;413;2;20091001;20100709;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 3155;Manderscheid-Sonnenhof;6.8;50.1;413;2;20100715;20170523;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-3155;Manderscheid-Sonnenhof;6.8;50.1;413;2;20170524;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+3155;Manderscheid-Sonnenhof;6.8;50.1;413;2;20170524;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

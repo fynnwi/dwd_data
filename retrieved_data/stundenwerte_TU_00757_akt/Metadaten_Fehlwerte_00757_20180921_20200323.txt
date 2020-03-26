@@ -1,4 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-757;Buchenbach;TT_TU;14.07.2019-03:00;18.07.2019-06:00;100;;eor;                                                                                                                                        
-757;Buchenbach;RF_TU;14.07.2019-03:00;18.07.2019-06:00;100;;eor;                                                                                                                                        
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

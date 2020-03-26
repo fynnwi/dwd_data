@@ -1,7 +1,7 @@
 Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-4271;Rostock-Warnemünde;12.08;54.18;4;2;19910201;19921101;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
 4271;Rostock-Warnemünde;12.08;54.18;4;2;19910201;19920408;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;2;19910201;19921101;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
 4271;Rostock-Warnemünde;12.08;54.18;4;2;19921007;20080523;HYGROMER MP300;Feuchtemessung, elektr.;eor;
 4271;Rostock-Warnemünde;12.08;54.18;4;2;20080424;20150206;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-4271;Rostock-Warnemünde;12.08;54.18;4;2;20140730;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+4271;Rostock-Warnemünde;12.08;54.18;4;2;20140730;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

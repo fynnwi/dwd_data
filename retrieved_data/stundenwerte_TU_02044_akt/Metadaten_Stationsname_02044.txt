@@ -1,2 +1,2 @@
 Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  2044;Harzgerode                              ;19450501;
+  2044;Harzgerode                              ;18700101;

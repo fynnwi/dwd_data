@@ -1,5 +1,5 @@
 Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
 1358;Fichtelberg;12.95;50.43;1213;2;19901009;20080731;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 1358;Fichtelberg;12.95;50.43;1213;2;20080801;20100903;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-1358;Fichtelberg;12.95;50.43;1213;2;20100904;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+1358;Fichtelberg;12.95;50.43;1213;2;20100904;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

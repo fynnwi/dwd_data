@@ -11,5 +11,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 298;Barth;12.71;54.34;7;2;20041202;20060825;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 298;Barth;12.71;54.34;7;2;20060828;20070430;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 298;Barth;12.71;54.34;3;2;20070501;20141111;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-298;Barth;12.71;54.34;3;2;20140728;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+298;Barth;12.71;54.34;3;2;20140728;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

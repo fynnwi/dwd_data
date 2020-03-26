@@ -1,0 +1,11 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+6347;Schonungen-Mainberg;TT_TU;01.03.2005-00:00;25.03.2020-23:00;277;Gesamt_Messzeitraum;eor;                                                                                                           
+6347;Schonungen-Mainberg;RF_TU;01.03.2005-00:00;25.03.2020-23:00;277;Gesamt_Messzeitraum;eor;                                                                                                           
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+6347;Schonungen-Mainberg;TT_TU;16.04.2019-12:00;16.04.2019-19:00;8;;eor;                                                                                                                                
+6347;Schonungen-Mainberg;TT_TU;23.01.2020-16:00;24.01.2020-09:00;18;;eor;                                                                                                                               
+6347;Schonungen-Mainberg;TT_TU;24.01.2020-12:00;26.01.2020-17:00;54;;eor;                                                                                                                               
+6347;Schonungen-Mainberg;RF_TU;16.04.2019-12:00;16.04.2019-19:00;8;;eor;                                                                                                                                
+6347;Schonungen-Mainberg;RF_TU;23.01.2020-16:00;24.01.2020-09:00;18;;eor;                                                                                                                               
+6347;Schonungen-Mainberg;RF_TU;24.01.2020-12:00;26.01.2020-17:00;54;;eor;                                                                                                                               
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

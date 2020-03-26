@@ -1,7 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-7350;Prackenbach-Neuhäusl;TT_TU;01.08.2006-00:00;23.03.2020-23:00;58;Gesamt_Messzeitraum;eor;                                                                                                           
-7350;Prackenbach-Neuhäusl;RF_TU;01.08.2006-00:00;23.03.2020-23:00;84;Gesamt_Messzeitraum;eor;                                                                                                           
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-7350;Prackenbach-Neuhäusl;TT_TU;11.02.2019-08:00;13.02.2019-11:00;52;;eor;                                                                                                                              
-7350;Prackenbach-Neuhäusl;RF_TU;11.02.2019-08:00;13.02.2019-11:00;52;;eor;                                                                                                                              
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

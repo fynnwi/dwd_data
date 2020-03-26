@@ -3,5 +3,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 1639;Gieﬂen/Wettenberg;8.64;50.6;202.7;2;20051111;20140427;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 1639;Gieﬂen/Wettenberg;8.64;50.6;202.7;2;20140428;20140616;EE33;Feuchtemessung, elektr.;eor;
 1639;Gieﬂen/Wettenberg;8.64;50.6;202.7;2;20140617;20150428;EE33;Feuchtemessung, elektr.;eor;
-1639;Gieﬂen/Wettenberg;8.64;50.6;202.7;2;20150512;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+1639;Gieﬂen/Wettenberg;8.64;50.6;202.7;2;20150512;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

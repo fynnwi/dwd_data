@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 4887;Stötten;9.86;48.67;733.76;2;19951020;20010814;HYGROMER MP101A;Feuchtemessung, elektr.;eor;
 4887;Stötten;9.86;48.67;733.76;2;20050630;20081001;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 4887;Stötten;9.86;48.67;733.76;2;20081002;20140901;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-4887;Stötten;9.86;48.67;733.76;2;20140902;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+4887;Stötten;9.86;48.67;733.76;2;20140902;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

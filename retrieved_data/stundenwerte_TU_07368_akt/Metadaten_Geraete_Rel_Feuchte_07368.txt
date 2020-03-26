@@ -1,4 +1,4 @@
 Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
 7368;Eisenach;10.36;51;312.4;2;20071101;20140903;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-7368;Eisenach;10.36;51;312.4;2;20140811;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+7368;Eisenach;10.36;51;312.4;2;20140811;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

@@ -1,0 +1,4 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+2211;Hilgenroth;TT_TU;12.06.2019-15:00;04.07.2019-10:00;524;;eor;                                                                                                                                       
+2211;Hilgenroth;RF_TU;12.06.2019-15:00;04.07.2019-10:00;524;;eor;                                                                                                                                       
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 2044;Harzgerode;11.14;51.65;404;2;20020404;20040301;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 2044;Harzgerode;11.14;51.65;404;2;20040302;20070630;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 2044;Harzgerode;11.14;51.65;404;2;20070701;20140929;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-2044;Harzgerode;11.14;51.65;404;2;20140827;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+2044;Harzgerode;11.14;51.65;404;2;20140827;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

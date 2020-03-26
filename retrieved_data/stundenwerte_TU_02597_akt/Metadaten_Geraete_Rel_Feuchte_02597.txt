@@ -3,5 +3,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 2597;Kissingen, Bad;10.08;50.22;281.8;2;20041221;20060620;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 2597;Kissingen, Bad;10.08;50.22;281.8;2;20060621;20090620;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 2597;Kissingen, Bad;10.08;50.22;281.8;2;20090621;20150610;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-2597;Kissingen, Bad;10.08;50.22;281.8;2;20150611;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+2597;Kissingen, Bad;10.08;50.22;281.8;2;20150611;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

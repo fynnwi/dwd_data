@@ -1,0 +1,6 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+2985;Lichtenhain-Mittelndorf;TT_TU;01.11.1991-03:00;25.03.2020-23:00;2272;Gesamt_Messzeitraum;eor;                                                                                                      
+2985;Lichtenhain-Mittelndorf;RF_TU;01.11.1991-03:00;25.03.2020-23:00;2277;Gesamt_Messzeitraum;eor;                                                                                                      
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+2985;Lichtenhain-Mittelndorf;RF_TU;10.03.2019-22:00;10.03.2019-22:00;1;;eor;                                                                                                                            
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

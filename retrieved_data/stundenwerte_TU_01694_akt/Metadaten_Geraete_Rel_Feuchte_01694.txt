@@ -1,8 +1,8 @@
 Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
 1694;Goldberg;12.1;53.6;58;2;19910101;19910930;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
 1694;Goldberg;12.1;53.6;58;2;19910101;19910930;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
-1694;Goldberg;12.1;53.61;58;2;19911001;19930126;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
 1694;Goldberg;12.1;53.61;58;2;19911001;19920121;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
+1694;Goldberg;12.1;53.61;58;2;19911001;19930126;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
 1694;Goldberg;12.1;53.61;58;2;19920907;19930126;HYGROMER MP300;Feuchtemessung, elektr.;eor;
 1694;Goldberg;12.1;53.61;58;2;19930128;19940315;HYGROMER MP300;Feuchtemessung, elektr.;eor;
 1694;Goldberg;12.1;53.61;58;2;19940319;19940716;HYGROMER MP300;Feuchtemessung, elektr.;eor;
@@ -16,5 +16,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 1694;Goldberg;12.1;53.61;58;2;20050221;20050224;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 1694;Goldberg;12.1;53.61;58;2;20050228;20060614;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 1694;Goldberg;12.1;53.61;58;2;20060615;20140927;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-1694;Goldberg;12.1;53.61;58;2;20140812;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+1694;Goldberg;12.1;53.61;58;2;20140812;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

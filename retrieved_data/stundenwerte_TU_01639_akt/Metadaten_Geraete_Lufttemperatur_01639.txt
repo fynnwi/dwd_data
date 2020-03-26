@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 1639;Gieﬂen, Liebigshˆhe;8.7;50.59;186;2;19961010;20051110;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 1639;Gieﬂen/Wettenberg;8.64;50.6;202.7;2;20051111;20140616;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 1639;Gieﬂen/Wettenberg;8.64;50.6;202.7;2;20140617;20181112;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-1639;Gieﬂen/Wettenberg;8.64;50.6;202.7;2;20181115;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+1639;Gieﬂen/Wettenberg;8.64;50.6;202.7;2;20181115;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

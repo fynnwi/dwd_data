@@ -3,5 +3,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 1358;Fichtelberg;12.95;50.43;1213;2;20040601;20080731;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 1358;Fichtelberg;12.95;50.43;1213;2;20080801;20100903;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 1358;Fichtelberg;12.95;50.43;1213;2;20100904;20180820;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-1358;Fichtelberg;12.95;50.43;1213;2;20180606;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+1358;Fichtelberg;12.95;50.43;1213;2;20180606;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

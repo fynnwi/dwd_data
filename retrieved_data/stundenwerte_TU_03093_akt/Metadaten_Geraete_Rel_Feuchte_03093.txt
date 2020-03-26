@@ -3,4 +3,4 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 3093;Lüchow;11.14;52.97;17;2;20040121;20070806;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 3093;Lüchow;11.14;52.97;16.21;2;20070807;20140624;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 3093;Lüchow;11.14;52.97;16.21;2;20140625;20191211;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

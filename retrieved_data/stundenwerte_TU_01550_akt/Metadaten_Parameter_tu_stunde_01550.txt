@@ -7,7 +7,7 @@ Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Ein
 1550;19920701;19920731;Garmisch-Partenkirchen;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten);Stundenwerte in UTC;;;eor;
 1550;19920801;19921001;Garmisch-Partenkirchen;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
 1550;19921001;20010401;Garmisch-Partenkirchen;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten);Stundenwerte in UTC;;;eor;
-1550;20010401;20200323;Garmisch-Partenkirchen;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
+1550;20010401;20200325;Garmisch-Partenkirchen;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
 1550;19480101;19901130;Garmisch-Partenkirchen;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
 1550;19901201;19901231;Garmisch-Partenkirchen;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten);Stundenwerte in UTC;;;eor;
 1550;19910101;19910630;Garmisch-Partenkirchen;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
@@ -16,6 +16,6 @@ Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Ein
 1550;19920701;19920731;Garmisch-Partenkirchen;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten);Stundenwerte in UTC;;;eor;
 1550;19920801;19921001;Garmisch-Partenkirchen;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
 1550;19921001;20010401;Garmisch-Partenkirchen;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) von automatischen Stationen der 1. Generation (MIRIAM/AFMS2, ESAU-Daten);Stundenwerte in UTC;;;eor;
-1550;20010401;20200323;Garmisch-Partenkirchen;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
+1550;20010401;20200325;Garmisch-Partenkirchen;TT_TU;Lufttemperatur;°C;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
 Legende: FT  = Folgetag; GZ = Gesetzliche Zeit
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

@@ -1,0 +1,26 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+5426;Weinbiet;TT_TU;01.01.1954-01:00;25.03.2020-23:00;58880;Gesamt_Messzeitraum;eor;                                                                                                                    
+5426;Weinbiet;RF_TU;01.01.1954-01:00;25.03.2020-23:00;58626;Gesamt_Messzeitraum;eor;                                                                                                                    
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+5426;Weinbiet;TT_TU;09.04.2019-10:00;16.04.2019-09:00;168;;eor;                                                                                                                                         
+5426;Weinbiet;TT_TU;19.06.2019-11:00;19.06.2019-15:00;5;;eor;                                                                                                                                           
+5426;Weinbiet;TT_TU;23.06.2019-13:00;23.06.2019-15:00;3;;eor;                                                                                                                                           
+5426;Weinbiet;TT_TU;24.06.2019-09:00;24.06.2019-09:00;1;;eor;                                                                                                                                           
+5426;Weinbiet;TT_TU;24.06.2019-11:00;24.06.2019-19:00;9;;eor;                                                                                                                                           
+5426;Weinbiet;TT_TU;25.06.2019-09:00;25.06.2019-20:00;12;;eor;                                                                                                                                          
+5426;Weinbiet;TT_TU;26.06.2019-08:00;27.06.2019-01:00;18;;eor;                                                                                                                                          
+5426;Weinbiet;TT_TU;27.06.2019-08:00;27.06.2019-22:00;15;;eor;                                                                                                                                          
+5426;Weinbiet;TT_TU;28.06.2019-08:00;01.07.2019-10:00;75;;eor;                                                                                                                                          
+5426;Weinbiet;RF_TU;19.10.2018-07:00;19.10.2018-08:00;2;;eor;                                                                                                                                           
+5426;Weinbiet;RF_TU;09.04.2019-10:00;16.04.2019-09:00;168;;eor;                                                                                                                                         
+5426;Weinbiet;RF_TU;07.06.2019-08:00;07.06.2019-08:00;1;;eor;                                                                                                                                           
+5426;Weinbiet;RF_TU;18.06.2019-11:00;18.06.2019-15:00;5;;eor;                                                                                                                                           
+5426;Weinbiet;RF_TU;19.06.2019-11:00;19.06.2019-15:00;5;;eor;                                                                                                                                           
+5426;Weinbiet;RF_TU;23.06.2019-13:00;23.06.2019-15:00;3;;eor;                                                                                                                                           
+5426;Weinbiet;RF_TU;24.06.2019-09:00;24.06.2019-09:00;1;;eor;                                                                                                                                           
+5426;Weinbiet;RF_TU;24.06.2019-11:00;24.06.2019-19:00;9;;eor;                                                                                                                                           
+5426;Weinbiet;RF_TU;25.06.2019-09:00;25.06.2019-20:00;12;;eor;                                                                                                                                          
+5426;Weinbiet;RF_TU;26.06.2019-08:00;27.06.2019-01:00;18;;eor;                                                                                                                                          
+5426;Weinbiet;RF_TU;27.06.2019-08:00;27.06.2019-22:00;15;;eor;                                                                                                                                          
+5426;Weinbiet;RF_TU;28.06.2019-08:00;01.07.2019-10:00;75;;eor;                                                                                                                                          
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

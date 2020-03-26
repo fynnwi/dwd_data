@@ -6,5 +6,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 232;Augsburg;10.94;48.43;462;2;20061213;20061214;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 232;Augsburg;10.94;48.43;461.4;2;20061215;20100309;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 232;Augsburg;10.94;48.43;461.4;2;20100310;20140716;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-232;Augsburg;10.94;48.43;461.4;2;20140717;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+232;Augsburg;10.94;48.43;461.4;2;20140717;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

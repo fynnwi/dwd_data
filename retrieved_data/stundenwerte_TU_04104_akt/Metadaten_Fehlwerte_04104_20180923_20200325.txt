@@ -1,0 +1,4 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+4104;Regensburg;RF_TU;13.05.2019-19:00;13.05.2019-22:00;4;;eor;                                                                                                                                         
+4104;Regensburg;RF_TU;16.07.2019-13:00;16.07.2019-16:00;4;;eor;                                                                                                                                         
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

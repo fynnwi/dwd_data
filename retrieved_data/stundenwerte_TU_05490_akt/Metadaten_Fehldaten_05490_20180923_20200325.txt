@@ -1,0 +1,7 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+5490;Wernigerode;TT_TU;01.01.1951-01:00;25.03.2020-23:00;62860;Gesamt_Messzeitraum;eor;                                                                                                                 
+5490;Wernigerode;RF_TU;01.01.1951-01:00;25.03.2020-23:00;151009;Gesamt_Messzeitraum;eor;                                                                                                                
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+5490;Wernigerode;TT_TU;24.09.2018-01:00;24.09.2018-09:00;9;;eor;                                                                                                                                        
+5490;Wernigerode;RF_TU;24.09.2018-01:00;24.09.2018-09:00;9;;eor;                                                                                                                                        
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

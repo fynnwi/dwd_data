@@ -1,4 +1,4 @@
 Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
 953;Deuselbach;7.05;49.76;480;2;19971127;20060508;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-953;Deuselbach;7.05;49.76;480.5;2;20060509;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+953;Deuselbach;7.05;49.76;480.5;2;20060509;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 5516;Westermarkelsdorf;11.06;54.53;3;2;19960605;20050915;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 5516;Westermarkelsdorf;11.06;54.53;3;2;20050916;20070630;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 5516;Fehmarn;11.06;54.53;3;2;20070701;20140512;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-5516;Fehmarn;11.06;54.53;3;2;20140513;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+5516;Fehmarn;11.06;54.53;3;2;20140513;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

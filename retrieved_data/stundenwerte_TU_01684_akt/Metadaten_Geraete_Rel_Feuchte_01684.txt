@@ -4,5 +4,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 1684;Görlitz;14.95;51.16;238;2;20070328;20070418;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 1684;Görlitz;14.95;51.16;238;2;20070330;20080731;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 1684;Görlitz;14.95;51.16;238;2;20080801;20150712;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-1684;Görlitz;14.95;51.16;238;2;20150901;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+1684;Görlitz;14.95;51.16;238;2;20150901;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

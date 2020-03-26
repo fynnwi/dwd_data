@@ -3,5 +3,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 1262;München-Flughafen;11.81;48.36;443.6;2;20020517;20040728;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 1262;München-Flughafen;11.81;48.36;443.6;2;20040518;20110920;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 1262;München-Flughafen;11.81;48.35;445.5;2;20110921;20140702;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-1262;München-Flughafen;11.81;48.35;445.5;2;20140703;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+1262;München-Flughafen;11.81;48.35;445.5;2;20140703;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

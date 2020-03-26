@@ -3,5 +3,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 298;Barth;12.71;54.34;7;2;19930715;19930823;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 298;Barth;12.71;54.34;7;2;19930825;20010626;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 298;Barth;12.71;54.34;7;2;20010628;20070430;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-298;Barth;12.71;54.34;3;2;20070501;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+298;Barth;12.71;54.34;3;2;20070501;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

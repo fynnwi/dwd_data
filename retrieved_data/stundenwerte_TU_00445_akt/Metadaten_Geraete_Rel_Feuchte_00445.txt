@@ -1,4 +1,4 @@
 Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
 445;Bernburg/Saale (Nord);11.71;51.82;84;2;20050701;20190826;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-445;Bernburg/Saale (Nord);11.71;51.82;84;2;20190827;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+445;Bernburg/Saale (Nord);11.71;51.82;84;2;20190827;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

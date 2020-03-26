@@ -7,5 +7,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 3196;Marnitz;11.93;53.32;81;2;20000214;20040929;HYGROMER MP300;Feuchtemessung, elektr.;eor;
 3196;Marnitz;11.93;53.32;81;2;20040929;20041010;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 3196;Marnitz;11.93;53.32;81;2;20041012;20141206;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-3196;Marnitz;11.93;53.32;81;2;20140923;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+3196;Marnitz;11.93;53.32;81;2;20140923;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

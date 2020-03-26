@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 232;Augsburg;10.93;48.43;461;2;19961109;19980318;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 232;Augsburg;10.94;48.43;462;2;19980319;20061214;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 232;Augsburg;10.94;48.43;461.4;2;20061215;20100309;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-232;Augsburg;10.94;48.43;461.4;2;20100310;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+232;Augsburg;10.94;48.43;461.4;2;20100310;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

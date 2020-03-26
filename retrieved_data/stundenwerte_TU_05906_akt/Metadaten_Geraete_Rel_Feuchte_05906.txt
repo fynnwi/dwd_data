@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 5906;Mannheim;8.55;49.51;96.1;2;20060531;20060606;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 5906;Mannheim;8.55;49.51;96.1;2;20060607;20150608;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 5906;Mannheim;8.55;49.51;96.1;2;20150609;20180402;EE33;Feuchtemessung, elektr.;eor;
-5906;Mannheim;8.56;49.51;98;2;20180403;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+5906;Mannheim;8.56;49.51;98;2;20180403;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

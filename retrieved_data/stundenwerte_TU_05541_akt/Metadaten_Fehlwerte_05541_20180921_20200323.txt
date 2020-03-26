@@ -1,5 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-5541;Wiesbaden-Auringen;TT_TU;20.03.2019-09:00;20.03.2019-15:00;7;;eor;                                                                                                                                 
-5541;Wiesbaden-Auringen;RF_TU;20.03.2019-09:00;20.03.2019-15:00;7;;eor;                                                                                                                                 
-5541;Wiesbaden-Auringen;RF_TU;19.12.2019-12:00;20.12.2019-08:00;21;;eor;                                                                                                                                
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

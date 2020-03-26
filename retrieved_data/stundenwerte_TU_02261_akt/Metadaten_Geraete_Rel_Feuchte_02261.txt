@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 2261;Hof;11.88;50.31;565.1;2;20020727;20080921;HYGROMER MP100;Feuchtemessung, elektr.;eor;
 2261;Hof;11.88;50.31;565.1;2;20040429;20100811;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 2261;Hof;11.88;50.31;565.1;2;20100812;20140706;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-2261;Hof;11.88;50.31;565.1;2;20140707;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+2261;Hof;11.88;50.31;565.1;2;20140707;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

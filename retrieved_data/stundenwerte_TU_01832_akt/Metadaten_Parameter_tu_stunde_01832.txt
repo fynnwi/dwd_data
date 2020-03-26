@@ -19,7 +19,7 @@ Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Ein
 1832;20010401;20010501;Groﬂer Arber;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
 1832;20010501;20010531;Groﬂer Arber;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
 1832;20010601;20010630;Groﬂer Arber;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
-1832;20010630;20200323;Groﬂer Arber;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
+1832;20010630;20200325;Groﬂer Arber;RF_TU;relative Feuchte;%;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
 1832;19821101;19980630;Groﬂer Arber;TT_TU;Lufttemperatur;∞C;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
 1832;19980701;19980731;Groﬂer Arber;TT_TU;Lufttemperatur;∞C;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
 1832;19980801;19990228;Groﬂer Arber;TT_TU;Lufttemperatur;∞C;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
@@ -41,6 +41,6 @@ Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Ein
 1832;20010401;20010501;Groﬂer Arber;TT_TU;Lufttemperatur;∞C;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
 1832;20010501;20010531;Groﬂer Arber;TT_TU;Lufttemperatur;∞C;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
 1832;20010601;20010630;Groﬂer Arber;TT_TU;Lufttemperatur;∞C;Daten der Temperatur und relativen Feuchte (Stundenwerte) aus analogen Registrierungen (Thermohygrograph);Stundenwerte in MEZ;;;eor;
-1832;20010630;20200323;Groﬂer Arber;TT_TU;Lufttemperatur;∞C;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
+1832;20010630;20200325;Groﬂer Arber;TT_TU;Lufttemperatur;∞C;Daten der Temperatur und relativen Feuchte (Stundenwerte) generiert aus SYNOP-Meldungen (nach dem 01.04.2001);Stundenwerte in UTC;;;eor;
 Legende: FT  = Folgetag; GZ = Gesetzliche Zeit
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

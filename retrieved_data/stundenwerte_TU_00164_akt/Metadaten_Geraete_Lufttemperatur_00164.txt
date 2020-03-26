@@ -2,5 +2,5 @@ Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m]
 164;Angermünde;13.99;53.03;56;2;19871201;19930715;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 164;Angermünde;13.99;53.03;56;2;19930722;20060913;PT 100 (Luft);Temperaturmessung, elektr.;eor;
 164;Angermünde;13.99;53.03;56;2;20060915;20161101;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-164;Angermünde;13.99;53.03;53.9;2;20161102;20200323;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+164;Angermünde;13.99;53.03;53.9;2;20161102;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --

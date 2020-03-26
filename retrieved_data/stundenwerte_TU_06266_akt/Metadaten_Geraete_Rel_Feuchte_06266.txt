@@ -1,5 +1,5 @@
 Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
 6266;Pabstorf;10.96;52.03;112;2;20040901;20160612;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
 6266;Pabstorf;10.96;52.03;112;2;20160609;20170228;EE33;Feuchtemessung, elektr.;eor;
-6266;Huy-Pabstorf;10.96;52.03;112;2;20170301;20200323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 24.03.2020 --  Deutscher Wetterdienst  --
+6266;Huy-Pabstorf;10.96;52.03;112;2;20170301;20200325;EE33;Feuchtemessung, elektr.;eor;
+generiert: 26.03.2020 --  Deutscher Wetterdienst  --
