@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-420;Berlin-Marzahn;TT_TU;01.08.2007-00:00;25.03.2020-23:00;271;Gesamt_Messzeitraum;eor;                                                                                                                 
-420;Berlin-Marzahn;RF_TU;01.08.2007-00:00;25.03.2020-23:00;286;Gesamt_Messzeitraum;eor;                                                                                                                 

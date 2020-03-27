@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  4339;Saarbrücken-Sankt Arnual                ;19460701;19550831
+  4339;Saarbrücken-Sankt Arnual                ;19570901;19830622
+  4339;Saarbrücken-Sankt Johann                ;19830623;20010331

@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3987;Potsdam;;;;;18930101;19451231;Gerätetyp unbekannt;Temperaturmessung, konv.;eor;
+3987;Potsdam;13.06;52.38;81;2;19460101;19841231;Thermograph;Temperaturmessung, konv.;eor;
+3987;Potsdam;13.06;52.38;81;2;19850101;20030115;Thermograph;Temperaturmessung, konv.;eor;
+3987;Potsdam;13.06;52.38;81;2;19860401;19911001;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3987;Potsdam;13.06;52.38;81;2;19920812;19921117;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3987;Potsdam;13.06;52.38;81;2;19921120;20050131;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3987;Potsdam;13.06;52.38;81;2;20050202;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

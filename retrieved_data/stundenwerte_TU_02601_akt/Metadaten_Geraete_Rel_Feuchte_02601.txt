@@ -1,6 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-2601;Kleiner Feldberg/Taunus;8.45;50.22;805;2;19921001;20060509;HYGROMER MP100;Feuchtemessung, elektr.;eor;
-2601;Kleiner Feldberg/Taunus;8.45;50.22;825.6;2;20060510;20060510;HYGROMER MP100;Feuchtemessung, elektr.;eor;
-2601;Kleiner Feldberg/Taunus;8.45;50.22;825.6;2;20060510;20150322;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-2601;Kleiner Feldberg/Taunus;8.45;50.22;825.6;2;20150323;20200325;EE33;Feuchtemessung, elektr.;eor;
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --

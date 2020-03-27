@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  5300;Waldems-Steinfischbach                  ;18920801;19991231
+  5300;Waldems-Steinfischbach                  ;20030424;20040630
+  5300;Waldems-Reinborn                        ;20040701;

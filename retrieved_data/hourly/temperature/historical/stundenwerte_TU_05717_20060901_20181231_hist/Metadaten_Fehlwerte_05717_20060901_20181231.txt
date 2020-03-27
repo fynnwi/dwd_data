@@ -1,0 +1,24 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+5717;Wuppertal-Buchenhofen;TT_TU;01.07.2009-00:00;01.07.2009-00:00;1;;eor;                                                                                                                              
+5717;Wuppertal-Buchenhofen;TT_TU;21.01.2010-11:00;21.01.2010-12:00;2;;eor;                                                                                                                              
+5717;Wuppertal-Buchenhofen;TT_TU;23.06.2010-12:00;24.06.2010-06:00;19;;eor;                                                                                                                             
+5717;Wuppertal-Buchenhofen;TT_TU;13.11.2010-00:00;13.11.2010-00:00;1;;eor;                                                                                                                              
+5717;Wuppertal-Buchenhofen;TT_TU;13.11.2010-21:00;13.11.2010-21:00;1;;eor;                                                                                                                              
+5717;Wuppertal-Buchenhofen;TT_TU;02.07.2016-05:00;02.07.2016-05:00;1;;eor;                                                                                                                              
+5717;Wuppertal-Buchenhofen;TT_TU;30.11.2017-11:00;01.12.2017-07:00;21;;eor;                                                                                                                             
+5717;Wuppertal-Buchenhofen;TT_TU;13.01.2018-08:00;15.01.2018-07:00;48;;eor;                                                                                                                             
+5717;Wuppertal-Buchenhofen;TT_TU;26.01.2018-15:00;29.01.2018-07:00;65;;eor;                                                                                                                             
+5717;Wuppertal-Buchenhofen;TT_TU;16.05.2018-08:00;24.05.2018-08:00;193;;eor;                                                                                                                            
+5717;Wuppertal-Buchenhofen;TT_TU;24.07.2018-09:00;01.08.2018-09:00;193;;eor;                                                                                                                            
+5717;Wuppertal-Buchenhofen;RF_TU;01.07.2009-00:00;01.07.2009-00:00;1;;eor;                                                                                                                              
+5717;Wuppertal-Buchenhofen;RF_TU;21.01.2010-11:00;21.01.2010-12:00;2;;eor;                                                                                                                              
+5717;Wuppertal-Buchenhofen;RF_TU;23.06.2010-12:00;24.06.2010-06:00;19;;eor;                                                                                                                             
+5717;Wuppertal-Buchenhofen;RF_TU;13.11.2010-00:00;13.11.2010-00:00;1;;eor;                                                                                                                              
+5717;Wuppertal-Buchenhofen;RF_TU;13.11.2010-21:00;13.11.2010-21:00;1;;eor;                                                                                                                              
+5717;Wuppertal-Buchenhofen;RF_TU;02.07.2016-05:00;02.07.2016-05:00;1;;eor;                                                                                                                              
+5717;Wuppertal-Buchenhofen;RF_TU;30.11.2017-11:00;01.12.2017-07:00;21;;eor;                                                                                                                             
+5717;Wuppertal-Buchenhofen;RF_TU;13.01.2018-08:00;15.01.2018-07:00;48;;eor;                                                                                                                             
+5717;Wuppertal-Buchenhofen;RF_TU;26.01.2018-15:00;29.01.2018-07:00;65;;eor;                                                                                                                             
+5717;Wuppertal-Buchenhofen;RF_TU;16.05.2018-08:00;24.05.2018-08:00;193;;eor;                                                                                                                            
+5717;Wuppertal-Buchenhofen;RF_TU;24.07.2018-09:00;01.08.2018-09:00;193;;eor;                                                                                                                            
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

@@ -1,0 +1,24 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+6266;Huy-Pabstorf;TT_TU;25.10.2004-07:00;25.10.2004-07:00;1;;eor;                                                                                                                                       
+6266;Huy-Pabstorf;TT_TU;10.11.2004-07:00;10.11.2004-07:00;1;;eor;                                                                                                                                       
+6266;Huy-Pabstorf;TT_TU;05.07.2006-09:00;05.07.2006-09:00;1;;eor;                                                                                                                                       
+6266;Huy-Pabstorf;TT_TU;16.10.2007-14:00;16.10.2007-14:00;1;;eor;                                                                                                                                       
+6266;Huy-Pabstorf;TT_TU;07.10.2008-16:00;07.10.2008-16:00;1;;eor;                                                                                                                                       
+6266;Huy-Pabstorf;TT_TU;13.11.2010-21:00;13.11.2010-21:00;1;;eor;                                                                                                                                       
+6266;Huy-Pabstorf;TT_TU;15.12.2010-08:00;21.12.2010-14:00;151;;eor;                                                                                                                                     
+6266;Huy-Pabstorf;TT_TU;15.05.2013-13:00;16.05.2013-05:00;17;;eor;                                                                                                                                      
+6266;Huy-Pabstorf;TT_TU;19.06.2013-08:00;24.06.2013-09:00;122;;eor;                                                                                                                                     
+6266;Huy-Pabstorf;TT_TU;08.06.2016-10:00;09.06.2016-08:00;23;;eor;                                                                                                                                      
+6266;Huy-Pabstorf;TT_TU;02.07.2016-05:00;02.07.2016-05:00;1;;eor;                                                                                                                                       
+6266;Huy-Pabstorf;RF_TU;25.10.2004-07:00;25.10.2004-07:00;1;;eor;                                                                                                                                       
+6266;Huy-Pabstorf;RF_TU;10.11.2004-07:00;10.11.2004-07:00;1;;eor;                                                                                                                                       
+6266;Huy-Pabstorf;RF_TU;05.07.2006-09:00;05.07.2006-09:00;1;;eor;                                                                                                                                       
+6266;Huy-Pabstorf;RF_TU;16.10.2007-14:00;16.10.2007-14:00;1;;eor;                                                                                                                                       
+6266;Huy-Pabstorf;RF_TU;07.10.2008-16:00;07.10.2008-16:00;1;;eor;                                                                                                                                       
+6266;Huy-Pabstorf;RF_TU;13.11.2010-21:00;13.11.2010-21:00;1;;eor;                                                                                                                                       
+6266;Huy-Pabstorf;RF_TU;15.12.2010-08:00;21.12.2010-14:00;151;;eor;                                                                                                                                     
+6266;Huy-Pabstorf;RF_TU;15.05.2013-13:00;16.05.2013-05:00;17;;eor;                                                                                                                                      
+6266;Huy-Pabstorf;RF_TU;19.06.2013-08:00;24.06.2013-09:00;122;;eor;                                                                                                                                     
+6266;Huy-Pabstorf;RF_TU;08.06.2016-10:00;09.06.2016-08:00;23;;eor;                                                                                                                                      
+6266;Huy-Pabstorf;RF_TU;02.07.2016-05:00;02.07.2016-05:00;1;;eor;                                                                                                                                       
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   603;  159.00; 50.7355;  7.1936;19860701;19891231;Bonn-Roleber
+   603;  159.00; 50.7355;  7.1936;19900101;19990301;Bonn-Roleber
+   603;  159.00; 50.7349;  7.1931;19990302;20071101;Bonn-Roleber
+   603;  159.00; 50.7349;  7.1931;20071102;        ;Bonn-Roleber

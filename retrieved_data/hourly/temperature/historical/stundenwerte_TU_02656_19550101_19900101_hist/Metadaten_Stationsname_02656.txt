@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  2656;Koblenz                                 ;19490501;19891231

@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  4377;Sandberg-Langenleiten                   ;19220301;19850512
+  4377;Sandberg-Kilianshof                     ;19850513;20050831
+  4377;Sandberg                                ;20050901;

@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3552;Neuruppin;12.81;52.9;38;2;19730101;19930101;Thermograph;Temperaturmessung, konv.;eor;
+3552;Neuruppin;12.81;52.9;38;2;19760101;19990927;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3552;Neuruppin;12.81;52.9;38;2;19930101;19990927;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+3552;Neuruppin;12.81;52.9;38;2;19990928;20080904;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+3552;Neuruppin;12.81;52.9;38;2;19990928;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

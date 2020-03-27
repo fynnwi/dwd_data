@@ -1,0 +1,3 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+2503;Kaltennordheim;TT_TU;01.01.1951-01:00;05.05.2003-15:00;27231;Gesamt_Messzeitraum;eor;                                                                                                              
+2503;Kaltennordheim;RF_TU;01.01.1951-01:00;05.05.2003-15:00;106036;Gesamt_Messzeitraum;eor;                                                                                                             

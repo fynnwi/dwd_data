@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  4371;Salzuflen, Bad                          ;19350101;

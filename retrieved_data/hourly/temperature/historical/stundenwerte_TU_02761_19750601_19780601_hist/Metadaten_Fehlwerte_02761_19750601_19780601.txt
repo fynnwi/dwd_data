@@ -1,0 +1,9 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+2761;Krumbach-Edenhausen;TT_TU;13.10.1975-09:00;01.01.1976-07:00;1919;;eor;                                                                                                                             
+2761;Krumbach-Edenhausen;TT_TU;14.04.1976-15:00;19.04.1976-09:00;115;;eor;                                                                                                                              
+2761;Krumbach-Edenhausen;TT_TU;22.05.1976-11:00;23.05.1976-08:00;22;;eor;                                                                                                                               
+2761;Krumbach-Edenhausen;TT_TU;01.09.1976-08:00;01.10.1976-08:00;721;;eor;                                                                                                                              
+2761;Krumbach-Edenhausen;RF_TU;13.10.1975-08:00;01.01.1976-08:00;1921;;eor;                                                                                                                             
+2761;Krumbach-Edenhausen;RF_TU;22.05.1976-10:00;23.05.1976-07:00;22;;eor;                                                                                                                               
+2761;Krumbach-Edenhausen;RF_TU;01.09.1976-09:00;01.10.1976-08:00;720;;eor;                                                                                                                              
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

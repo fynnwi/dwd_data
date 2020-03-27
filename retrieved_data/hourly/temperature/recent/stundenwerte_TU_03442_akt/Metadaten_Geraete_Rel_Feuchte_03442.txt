@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3442;Nauheim, Bad;8.75;50.36;148.5;2;20041001;20160413;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3442;Nauheim, Bad;8.75;50.36;148.5;2;20160414;20200326;EE33;Feuchtemessung, elektr.;eor;
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --

@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3093;Lüchow (Mühle);11.18;52.97;21;2;19541201;19711124;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+3093;Lüchow (Mühle);11.18;52.97;21;2;19541201;19711124;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+3093;Lüchow;11.14;52.97;17;2;19711125;20020630;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+3093;Lüchow;11.14;52.97;17;2;19930924;20040120;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+3093;Lüchow;11.14;52.97;17;2;19990601;20020630;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+3093;Lüchow;11.14;52.97;17;2;20040121;20070806;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3093;Lüchow;11.14;52.97;16.21;2;20070807;20140624;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3093;Lüchow;11.14;52.97;16.21;2;20140625;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

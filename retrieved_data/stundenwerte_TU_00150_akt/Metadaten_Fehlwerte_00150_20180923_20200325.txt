@@ -1,9 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-150;Alzey;TT_TU;22.04.2019-10:00;22.04.2019-18:00;9;;eor;                                                                                                                                               
-150;Alzey;TT_TU;24.04.2019-09:00;24.04.2019-11:00;3;;eor;                                                                                                                                               
-150;Alzey;TT_TU;12.06.2019-03:00;12.06.2019-08:00;6;;eor;                                                                                                                                               
-150;Alzey;RF_TU;21.04.2019-15:00;21.04.2019-19:00;5;;eor;                                                                                                                                               
-150;Alzey;RF_TU;22.04.2019-10:00;22.04.2019-18:00;9;;eor;                                                                                                                                               
-150;Alzey;RF_TU;24.04.2019-09:00;24.04.2019-11:00;3;;eor;                                                                                                                                               
-150;Alzey;RF_TU;12.06.2019-03:00;12.06.2019-08:00;6;;eor;                                                                                                                                               
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

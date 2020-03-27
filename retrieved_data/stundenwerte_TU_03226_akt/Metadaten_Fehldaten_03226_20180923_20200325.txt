@@ -1,7 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-3226;Aschersleben-Mehringen;TT_TU;01.08.2006-00:00;25.03.2020-23:00;8;Gesamt_Messzeitraum;eor;                                                                                                          
-3226;Aschersleben-Mehringen;RF_TU;01.08.2006-00:00;25.03.2020-23:00;8;Gesamt_Messzeitraum;eor;                                                                                                          
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-3226;Aschersleben-Mehringen;TT_TU;29.04.2019-09:00;29.04.2019-12:00;4;;eor;                                                                                                                             
-3226;Aschersleben-Mehringen;RF_TU;29.04.2019-09:00;29.04.2019-12:00;4;;eor;                                                                                                                             
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

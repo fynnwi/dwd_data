@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  5676;Wolfsburg-Fallersleben                  ;19810401;19901031
+  5676;Wolfsburg-Sülfeld                       ;19901101;20100831
+  5676;Wolfsburg (Südwest)                     ;20100901;

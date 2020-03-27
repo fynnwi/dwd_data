@@ -1,9 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-5676;Wolfsburg (Südwest);TT_TU;01.09.2010-00:00;25.03.2020-23:00;998;Gesamt_Messzeitraum;eor;                                                                                                           
-5676;Wolfsburg (Südwest);RF_TU;01.09.2010-00:00;25.03.2020-23:00;998;Gesamt_Messzeitraum;eor;                                                                                                           
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-5676;Wolfsburg (Südwest);TT_TU;03.06.2019-17:00;13.06.2019-10:00;234;;eor;                                                                                                                              
-5676;Wolfsburg (Südwest);TT_TU;14.06.2019-12:00;27.06.2019-13:00;314;;eor;                                                                                                                              
-5676;Wolfsburg (Südwest);RF_TU;03.06.2019-17:00;13.06.2019-10:00;234;;eor;                                                                                                                              
-5676;Wolfsburg (Südwest);RF_TU;14.06.2019-12:00;27.06.2019-13:00;314;;eor;                                                                                                                              
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

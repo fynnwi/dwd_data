@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+   553;Bocholt (Marienschule)                  ;19010101;19741231

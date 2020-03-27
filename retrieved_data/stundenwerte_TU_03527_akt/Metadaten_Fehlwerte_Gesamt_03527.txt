@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-3527;Neukirchen-Hauptschwenda;TT_TU;01.05.2004-00:00;25.03.2020-23:00;703;Gesamt_Messzeitraum;eor;                                                                                                      
-3527;Neukirchen-Hauptschwenda;RF_TU;01.05.2004-00:00;25.03.2020-23:00;713;Gesamt_Messzeitraum;eor;                                                                                                      

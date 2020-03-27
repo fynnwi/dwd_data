@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+399;Berlin-Alexanderplatz;;;;;19691201;19870430;Gerätetyp unbekannt;Temperaturmessung, konv.;eor;
+399;Berlin-Alexanderplatz;13.41;52.52;35.8;2;19870501;20081212;Thermograph;Temperaturmessung, konv.;eor;
+399;Berlin-Alexanderplatz;13.41;52.52;35.8;2;19940901;20081212;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+399;Berlin-Alexanderplatz;13.41;52.52;35.8;2;20081212;20110801;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+399;Berlin-Alexanderplatz;13.41;52.52;35.8;2;20150701;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

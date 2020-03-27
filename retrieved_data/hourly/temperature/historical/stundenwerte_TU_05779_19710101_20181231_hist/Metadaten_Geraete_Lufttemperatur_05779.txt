@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5779;Zinnwald-Georgenfeld;13.75;50.73;877;2;19710101;20100228;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+5779;Zinnwald-Georgenfeld;13.75;50.73;877;2;19920625;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+5779;Zinnwald-Georgenfeld;13.75;50.73;877;2;20100322;20141231;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3659;Nürburg;6.95;50.34;611;2;19510101;19560702;Thermograph;Temperaturmessung, konv.;eor;
+3659;Nürburg;6.95;50.34;627;2;19560703;19950331;Thermograph;Temperaturmessung, konv.;eor;
+3659;Nürburg;6.95;50.34;627;2;19720701;19950331;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

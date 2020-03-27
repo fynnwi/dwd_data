@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1612;Gera-Leumnitz;12.13;50.88;311;2;19920908;20060517;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+1612;Gera-Leumnitz;12.13;50.88;311;2;20060518;20200326;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --

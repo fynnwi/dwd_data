@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  4169;Rheinau-Freistett-Maiwald               ;19570926;19690630
+  4169;Rheinau-Freistett-Memprechrechtshofen   ;19690701;19720921
+  4169;Rheinau-Memprechtshofen                 ;19720922;

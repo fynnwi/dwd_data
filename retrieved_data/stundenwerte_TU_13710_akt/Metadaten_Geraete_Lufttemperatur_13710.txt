@@ -1,5 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-13710;Landshut-Reithof;12.26;48.57;490;2;20080401;20181116;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-13710;Landshut-Reithof;12.26;48.57;490;2;20181122;20190101;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-13710;Landshut-Reithof;12.26;48.57;490;2;20190105;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --

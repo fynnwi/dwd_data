@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+   377;Bergzabern, Bad                         ;19261101;

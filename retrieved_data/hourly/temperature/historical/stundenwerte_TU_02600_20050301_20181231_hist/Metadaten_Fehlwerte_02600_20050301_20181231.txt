@@ -1,0 +1,14 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+2600;Kitzingen;TT_TU;16.05.2006-07:00;16.05.2006-07:00;1;;eor;                                                                                                                                          
+2600;Kitzingen;TT_TU;16.10.2007-14:00;16.10.2007-14:00;1;;eor;                                                                                                                                          
+2600;Kitzingen;TT_TU;06.08.2008-16:00;06.08.2008-16:00;1;;eor;                                                                                                                                          
+2600;Kitzingen;TT_TU;01.09.2011-06:00;08.09.2011-11:00;174;;eor;                                                                                                                                        
+2600;Kitzingen;TT_TU;25.09.2013-16:00;01.10.2013-10:00;139;;eor;                                                                                                                                        
+2600;Kitzingen;TT_TU;02.07.2016-05:00;02.07.2016-05:00;1;;eor;                                                                                                                                          
+2600;Kitzingen;RF_TU;16.05.2006-07:00;16.05.2006-07:00;1;;eor;                                                                                                                                          
+2600;Kitzingen;RF_TU;16.10.2007-14:00;16.10.2007-14:00;1;;eor;                                                                                                                                          
+2600;Kitzingen;RF_TU;06.08.2008-16:00;06.08.2008-16:00;1;;eor;                                                                                                                                          
+2600;Kitzingen;RF_TU;01.09.2011-06:00;08.09.2011-11:00;174;;eor;                                                                                                                                        
+2600;Kitzingen;RF_TU;25.09.2013-16:00;01.10.2013-10:00;139;;eor;                                                                                                                                        
+2600;Kitzingen;RF_TU;02.07.2016-05:00;02.07.2016-05:00;1;;eor;                                                                                                                                          
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

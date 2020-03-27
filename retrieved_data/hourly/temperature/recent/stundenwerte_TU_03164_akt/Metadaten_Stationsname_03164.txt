@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  3164;Marburg                                 ;18660101;19910117
+  3164;Marburg-Wehrda                          ;19930401;20000731
+  3164;Marburg-Wehrda                          ;20060316;20060630
+  3164;Cölbe, Kr. Marburg-Biedenkopf           ;20060701;

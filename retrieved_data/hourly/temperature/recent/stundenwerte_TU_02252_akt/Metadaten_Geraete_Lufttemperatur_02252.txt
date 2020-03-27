@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2252;Bertsdorf-Hörnitz;14.75;50.9;270;2;20050701;20080731;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+2252;Bertsdorf-Hörnitz;14.75;50.9;270;2;20080801;20200326;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --

@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3660;Nürburg-Barweiler;6.87;50.36;485;2;19950302;20060924;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+3660;Nürburg-Barweiler;6.87;50.36;485;2;19950302;20060924;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+3660;Nürburg-Barweiler;6.87;50.36;485;2;20060925;20091124;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3660;Nürburg-Barweiler;6.87;50.36;485;2;20091125;20150318;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3660;Nürburg-Barweiler;6.87;50.36;485;2;20150319;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+   390;Berleburg, Bad-Stünzel                  ;19861126;

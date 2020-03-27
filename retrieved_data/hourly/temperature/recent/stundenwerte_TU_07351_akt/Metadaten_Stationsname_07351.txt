@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  7351;Feldberg/Mecklenburg                    ;20050901;

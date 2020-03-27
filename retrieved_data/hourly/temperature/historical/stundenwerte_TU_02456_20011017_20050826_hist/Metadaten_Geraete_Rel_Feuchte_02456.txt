@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2456;Jever;7.88;53.53;7;2;20011017;20190305;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+2456;Jever;7.88;53.53;7;2;20011017;20190305;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3575;Neustadt/Weinstraﬂe;8.14;49.36;140;2;19540101;19570930;Thermograph;Temperaturmessung, konv.;eor;
+3575;Neustadt/Weinstraﬂe;8.14;49.36;163;2;19571001;19830110;Thermograph;Temperaturmessung, konv.;eor;
+3575;Neustadt/Weinstraﬂe;8.14;49.36;163;2;19650601;19830110;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

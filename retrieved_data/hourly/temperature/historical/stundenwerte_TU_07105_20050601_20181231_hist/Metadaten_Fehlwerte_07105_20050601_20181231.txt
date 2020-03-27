@@ -1,0 +1,14 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+7105;Siegsdorf-Höll;TT_TU;18.01.2007-23:00;25.01.2007-11:00;157;;eor;                                                                                                                                   
+7105;Siegsdorf-Höll;TT_TU;16.10.2007-14:00;16.10.2007-14:00;1;;eor;                                                                                                                                     
+7105;Siegsdorf-Höll;TT_TU;03.06.2010-05:00;07.06.2010-10:00;102;;eor;                                                                                                                                   
+7105;Siegsdorf-Höll;TT_TU;15.08.2013-12:00;19.08.2013-09:00;94;;eor;                                                                                                                                    
+7105;Siegsdorf-Höll;TT_TU;01.12.2013-17:00;02.12.2013-06:00;14;;eor;                                                                                                                                    
+7105;Siegsdorf-Höll;TT_TU;02.12.2013-09:00;04.12.2013-10:00;50;;eor;                                                                                                                                    
+7105;Siegsdorf-Höll;RF_TU;18.01.2007-23:00;25.01.2007-11:00;157;;eor;                                                                                                                                   
+7105;Siegsdorf-Höll;RF_TU;16.10.2007-14:00;16.10.2007-14:00;1;;eor;                                                                                                                                     
+7105;Siegsdorf-Höll;RF_TU;03.06.2010-05:00;07.06.2010-10:00;102;;eor;                                                                                                                                   
+7105;Siegsdorf-Höll;RF_TU;15.08.2013-12:00;19.08.2013-09:00;94;;eor;                                                                                                                                    
+7105;Siegsdorf-Höll;RF_TU;01.12.2013-17:00;02.12.2013-06:00;14;;eor;                                                                                                                                    
+7105;Siegsdorf-Höll;RF_TU;02.12.2013-09:00;04.12.2013-10:00;50;;eor;                                                                                                                                    
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

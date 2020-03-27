@@ -1,0 +1,3 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+2315;Holzdorf (Flugplatz);TT_TU;01.11.2002-01:00;06.03.2019-23:00;439;Gesamt_Messzeitraum;eor;                                                                                                          
+2315;Holzdorf (Flugplatz);RF_TU;01.11.2002-01:00;06.03.2019-23:00;454;Gesamt_Messzeitraum;eor;                                                                                                          

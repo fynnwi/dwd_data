@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  7099;Liebenburg-Othfresen                    ;20040325;

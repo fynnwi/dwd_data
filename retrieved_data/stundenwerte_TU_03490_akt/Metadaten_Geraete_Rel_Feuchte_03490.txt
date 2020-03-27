@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-3490;Neuenahr, Bad-Ahrweiler;7.09;50.53;111;2;20040901;20200325;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --

@@ -1,0 +1,14 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+2947;Lennestadt-Theten;TT_TU;24.07.2008-04:00;24.07.2008-04:00;1;;eor;                                                                                                                                  
+2947;Lennestadt-Theten;TT_TU;14.11.2010-09:00;15.11.2010-11:00;27;;eor;                                                                                                                                 
+2947;Lennestadt-Theten;TT_TU;05.06.2011-19:00;06.06.2011-05:00;11;;eor;                                                                                                                                 
+2947;Lennestadt-Theten;TT_TU;15.09.2017-22:00;19.09.2017-12:00;87;;eor;                                                                                                                                 
+2947;Lennestadt-Theten;TT_TU;20.10.2017-10:00;22.10.2017-07:00;46;;eor;                                                                                                                                 
+2947;Lennestadt-Theten;TT_TU;24.01.2018-15:00;25.01.2018-11:00;21;;eor;                                                                                                                                 
+2947;Lennestadt-Theten;RF_TU;24.07.2008-04:00;24.07.2008-04:00;1;;eor;                                                                                                                                  
+2947;Lennestadt-Theten;RF_TU;14.11.2010-09:00;15.11.2010-11:00;27;;eor;                                                                                                                                 
+2947;Lennestadt-Theten;RF_TU;05.06.2011-19:00;06.06.2011-05:00;11;;eor;                                                                                                                                 
+2947;Lennestadt-Theten;RF_TU;15.09.2017-22:00;19.09.2017-12:00;87;;eor;                                                                                                                                 
+2947;Lennestadt-Theten;RF_TU;20.10.2017-10:00;22.10.2017-07:00;46;;eor;                                                                                                                                 
+2947;Lennestadt-Theten;RF_TU;24.01.2018-15:00;25.01.2018-11:00;21;;eor;                                                                                                                                 
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

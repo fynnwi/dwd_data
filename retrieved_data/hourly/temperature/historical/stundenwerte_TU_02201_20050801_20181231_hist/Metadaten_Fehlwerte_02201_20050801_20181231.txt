@@ -1,0 +1,18 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+2201;Hiddensee-Vitte;TT_TU;30.09.2005-21:00;30.09.2005-21:00;1;;eor;                                                                                                                                    
+2201;Hiddensee-Vitte;TT_TU;16.10.2007-14:00;16.10.2007-14:00;1;;eor;                                                                                                                                    
+2201;Hiddensee-Vitte;TT_TU;11.11.2008-04:00;11.11.2008-08:00;5;;eor;                                                                                                                                    
+2201;Hiddensee-Vitte;TT_TU;11.11.2008-10:00;11.11.2008-10:00;1;;eor;                                                                                                                                    
+2201;Hiddensee-Vitte;TT_TU;02.02.2009-10:00;02.02.2009-10:00;1;;eor;                                                                                                                                    
+2201;Hiddensee-Vitte;TT_TU;07.10.2009-17:00;09.10.2009-09:00;41;;eor;                                                                                                                                   
+2201;Hiddensee-Vitte;TT_TU;25.05.2017-23:00;31.05.2017-05:00;127;;eor;                                                                                                                                  
+2201;Hiddensee-Vitte;RF_TU;30.09.2005-21:00;30.09.2005-21:00;1;;eor;                                                                                                                                    
+2201;Hiddensee-Vitte;RF_TU;16.10.2007-14:00;16.10.2007-14:00;1;;eor;                                                                                                                                    
+2201;Hiddensee-Vitte;RF_TU;11.11.2008-04:00;11.11.2008-08:00;5;;eor;                                                                                                                                    
+2201;Hiddensee-Vitte;RF_TU;11.11.2008-10:00;11.11.2008-10:00;1;;eor;                                                                                                                                    
+2201;Hiddensee-Vitte;RF_TU;02.02.2009-10:00;02.02.2009-10:00;1;;eor;                                                                                                                                    
+2201;Hiddensee-Vitte;RF_TU;07.10.2009-17:00;09.10.2009-09:00;41;;eor;                                                                                                                                   
+2201;Hiddensee-Vitte;RF_TU;29.04.2015-11:00;30.04.2015-07:00;21;;eor;                                                                                                                                   
+2201;Hiddensee-Vitte;RF_TU;08.08.2016-13:00;12.08.2016-05:00;89;;eor;                                                                                                                                   
+2201;Hiddensee-Vitte;RF_TU;25.05.2017-23:00;31.05.2017-05:00;127;;eor;                                                                                                                                  
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

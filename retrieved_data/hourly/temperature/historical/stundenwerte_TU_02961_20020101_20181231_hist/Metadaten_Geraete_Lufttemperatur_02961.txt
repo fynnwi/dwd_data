@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2961;Leuchtturm Kiel;10.27;54.5;30.75;23;20020101;20070227;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+2961;Leuchtturm Kiel;10.27;54.5;30.75;32;20070228;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

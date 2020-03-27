@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  3575;Neustadt/Weinstraﬂe                     ;19490616;19830110

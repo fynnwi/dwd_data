@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-4508;Schneifelforsthaus;6.42;50.3;649;2;20040801;20190111;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-4508;Schneifelforsthaus;6.42;50.3;649;2;20190119;20200325;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --

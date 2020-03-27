@@ -1,0 +1,7 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+3591;Nideggen-Schmidt;TT_TU;01.06.2004-00:00;26.03.2020-23:00;145;Gesamt_Messzeitraum;eor;                                                                                                              
+3591;Nideggen-Schmidt;RF_TU;01.06.2004-00:00;26.03.2020-23:00;145;Gesamt_Messzeitraum;eor;                                                                                                              
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+3591;Nideggen-Schmidt;TT_TU;16.08.2019-22:00;17.08.2019-06:00;9;;eor;                                                                                                                                   
+3591;Nideggen-Schmidt;RF_TU;16.08.2019-22:00;17.08.2019-06:00;9;;eor;                                                                                                                                   
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

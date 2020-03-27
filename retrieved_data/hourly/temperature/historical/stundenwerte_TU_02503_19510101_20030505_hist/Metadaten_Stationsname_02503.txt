@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  2503;Kaltennordheim                          ;19460501;20030505

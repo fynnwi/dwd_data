@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+13710;Landshut-Reithof;12.26;48.57;490;2;20080401;20181116;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+13710;Landshut-Reithof;12.26;48.57;490;2;20181122;20190101;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+13710;Landshut-Reithof;12.26;48.57;490;2;20190105;20190305;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+348;Bendorf;7.59;50.41;127;2;19900329;20070904;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+348;Bendorf;7.59;50.41;127;2;20070905;20080622;HYGROMER MP101A;Feuchtemessung, elektr.;eor;
+348;Bendorf;7.59;50.41;127;2;20080623;20110901;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

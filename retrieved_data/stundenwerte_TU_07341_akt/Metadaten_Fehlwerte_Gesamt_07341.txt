@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-7341;Offenbach-Wetterpark;TT_TU;16.07.2005-06:00;25.03.2020-23:00;574;Gesamt_Messzeitraum;eor;                                                                                                          
-7341;Offenbach-Wetterpark;RF_TU;16.07.2005-06:00;25.03.2020-23:00;621;Gesamt_Messzeitraum;eor;                                                                                                          

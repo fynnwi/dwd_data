@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+ 13904;Nordseeboje 2                           ;20080401;20100831

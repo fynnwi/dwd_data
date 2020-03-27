@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+    52;Ahrensburg-Wulfsdorf                    ;19730101;20011231

@@ -1,0 +1,12 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+5731;Wutöschingen-Ofteringen;TT_TU;25.10.2004-07:00;25.10.2004-07:00;1;;eor;                                                                                                                            
+5731;Wutöschingen-Ofteringen;TT_TU;24.06.2005-14:00;24.06.2005-14:00;1;;eor;                                                                                                                            
+5731;Wutöschingen-Ofteringen;TT_TU;19.05.2006-19:00;19.05.2006-19:00;1;;eor;                                                                                                                            
+5731;Wutöschingen-Ofteringen;TT_TU;01.07.2009-00:00;01.07.2009-00:00;1;;eor;                                                                                                                            
+5731;Wutöschingen-Ofteringen;TT_TU;06.07.2015-00:00;06.07.2015-09:00;10;;eor;                                                                                                                           
+5731;Wutöschingen-Ofteringen;RF_TU;25.10.2004-07:00;25.10.2004-07:00;1;;eor;                                                                                                                            
+5731;Wutöschingen-Ofteringen;RF_TU;24.06.2005-14:00;24.06.2005-14:00;1;;eor;                                                                                                                            
+5731;Wutöschingen-Ofteringen;RF_TU;19.05.2006-19:00;19.05.2006-19:00;1;;eor;                                                                                                                            
+5731;Wutöschingen-Ofteringen;RF_TU;01.07.2009-00:00;01.07.2009-00:00;1;;eor;                                                                                                                            
+5731;Wutöschingen-Ofteringen;RF_TU;06.07.2015-00:00;06.07.2015-09:00;10;;eor;                                                                                                                           
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

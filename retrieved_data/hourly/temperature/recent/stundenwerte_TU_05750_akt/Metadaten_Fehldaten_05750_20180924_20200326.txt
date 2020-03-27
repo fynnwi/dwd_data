@@ -1,0 +1,11 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+5750;Zeitz;TT_TU;01.03.2006-00:00;26.03.2020-23:00;485;Gesamt_Messzeitraum;eor;                                                                                                                         
+5750;Zeitz;RF_TU;01.03.2006-00:00;26.03.2020-23:00;485;Gesamt_Messzeitraum;eor;                                                                                                                         
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+5750;Zeitz;TT_TU;24.02.2019-07:00;27.02.2019-11:00;77;;eor;                                                                                                                                             
+5750;Zeitz;TT_TU;27.04.2019-11:00;30.04.2019-10:00;72;;eor;                                                                                                                                             
+5750;Zeitz;TT_TU;26.07.2019-14:00;26.07.2019-14:00;1;;eor;                                                                                                                                              
+5750;Zeitz;RF_TU;24.02.2019-07:00;27.02.2019-11:00;77;;eor;                                                                                                                                             
+5750;Zeitz;RF_TU;27.04.2019-11:00;30.04.2019-10:00;72;;eor;                                                                                                                                             
+5750;Zeitz;RF_TU;26.07.2019-14:00;26.07.2019-14:00;1;;eor;                                                                                                                                              
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

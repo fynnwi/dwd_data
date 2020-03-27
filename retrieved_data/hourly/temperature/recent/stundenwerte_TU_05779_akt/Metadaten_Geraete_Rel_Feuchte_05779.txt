@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5779;Zinnwald-Georgenfeld;13.75;50.73;877;2;19920625;20060717;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+5779;Zinnwald-Georgenfeld;13.75;50.73;877;2;20060623;20140909;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+5779;Zinnwald-Georgenfeld;13.75;50.73;877;2;20140808;20190618;EE33;Feuchtemessung, elektr.;eor;
+5779;Zinnwald-Georgenfeld;13.75;50.73;877;2;20191028;20200326;EE33;Feuchtemessung, elektr.;eor;
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --

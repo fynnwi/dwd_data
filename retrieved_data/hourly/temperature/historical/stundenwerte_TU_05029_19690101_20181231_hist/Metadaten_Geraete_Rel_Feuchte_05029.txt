@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5029;Tholey;7.05;49.48;396;2;19750515;20070531;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+5029;Tholey;7.04;49.47;385.9;2;20070601;20150311;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+5029;Tholey;7.04;49.47;385.9;2;20150312;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

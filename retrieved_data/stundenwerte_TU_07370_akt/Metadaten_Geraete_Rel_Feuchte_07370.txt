@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-7370;Waldmünchen;12.68;49.39;498.85;2;20061211;20140708;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-7370;Waldmünchen;12.68;49.39;498.85;2;20140709;20200325;EE33;Feuchtemessung, elektr.;eor;
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --

@@ -1,0 +1,15 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+2211;Hilgenroth;TT_TU;25.10.2004-07:00;25.10.2004-07:00;1;;eor;                                                                                                                                         
+2211;Hilgenroth;TT_TU;18.01.2007-13:00;22.01.2007-10:00;94;;eor;                                                                                                                                        
+2211;Hilgenroth;TT_TU;16.10.2007-14:00;16.10.2007-14:00;1;;eor;                                                                                                                                         
+2211;Hilgenroth;TT_TU;15.11.2007-08:00;19.11.2007-10:00;99;;eor;                                                                                                                                        
+2211;Hilgenroth;TT_TU;20.11.2007-15:00;27.11.2007-11:00;165;;eor;                                                                                                                                       
+2211;Hilgenroth;TT_TU;09.07.2011-18:00;14.07.2011-09:00;112;;eor;                                                                                                                                       
+2211;Hilgenroth;RF_TU;25.10.2004-07:00;25.10.2004-07:00;1;;eor;                                                                                                                                         
+2211;Hilgenroth;RF_TU;18.01.2007-13:00;22.01.2007-10:00;94;;eor;                                                                                                                                        
+2211;Hilgenroth;RF_TU;16.10.2007-14:00;16.10.2007-14:00;1;;eor;                                                                                                                                         
+2211;Hilgenroth;RF_TU;15.11.2007-08:00;19.11.2007-10:00;99;;eor;                                                                                                                                        
+2211;Hilgenroth;RF_TU;20.11.2007-15:00;27.11.2007-11:00;165;;eor;                                                                                                                                       
+2211;Hilgenroth;RF_TU;09.07.2011-18:00;14.07.2011-09:00;112;;eor;                                                                                                                                       
+2211;Hilgenroth;RF_TU;16.08.2016-07:00;16.08.2016-08:00;2;;eor;                                                                                                                                         
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

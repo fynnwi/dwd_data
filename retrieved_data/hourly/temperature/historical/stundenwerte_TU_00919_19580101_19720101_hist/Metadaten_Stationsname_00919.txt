@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+   919;Darmstadt-Botanischer Garten            ;19370101;19740731

@@ -1,0 +1,6 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+5099;Trier-Zewen;TT_TU;07.03.2009-10:00;07.03.2009-11:00;2;;eor;                                                                                                                                        
+5099;Trier-Zewen;TT_TU;02.07.2016-05:00;02.07.2016-05:00;1;;eor;                                                                                                                                        
+5099;Trier-Zewen;RF_TU;07.03.2009-10:00;07.03.2009-11:00;2;;eor;                                                                                                                                        
+5099;Trier-Zewen;RF_TU;02.07.2016-05:00;02.07.2016-05:00;1;;eor;                                                                                                                                        
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

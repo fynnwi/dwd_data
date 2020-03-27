@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+   410;Berlin-Kaniswall                        ;19960501;

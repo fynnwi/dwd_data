@@ -1,0 +1,24 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4024;Putbus;13.48;54.36;39.5;2;19910101;19940111;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;19910101;19920407;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;19931222;19951103;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;19951105;19960318;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;19960320;20010823;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;20010829;20020124;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;20020126;20020301;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;20020303;20020404;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;20020408;20020520;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;20020522;20020523;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;20020528;20020721;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;20020724;20040525;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;20040526;20050311;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;20050317;20050325;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;20050329;20050504;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;20050506;20050603;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;20050606;20050611;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;20050613;20050616;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;20050620;20050625;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;20050706;20060607;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;20060608;20141007;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+4024;Putbus;13.48;54.36;39.5;2;20140702;20200326;EE33;Feuchtemessung, elektr.;eor;
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --

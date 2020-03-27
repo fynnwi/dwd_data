@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1421;Frankfurt/Main (Stadt)                  ;19611107;19840906

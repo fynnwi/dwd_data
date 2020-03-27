@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  3382;München-Bogenhausen                     ;19120801;19540531

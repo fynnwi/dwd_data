@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-3925;Pforzheim-Ispringen;TT_TU;01.09.2005-00:00;25.03.2020-23:00;453;Gesamt_Messzeitraum;eor;                                                                                                           
-3925;Pforzheim-Ispringen;RF_TU;01.09.2005-00:00;25.03.2020-23:00;454;Gesamt_Messzeitraum;eor;                                                                                                           

@@ -1,5 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-4709;Simmern-Wahlbach;7.6;50;445;2;20111101;20141111;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-4709;Simmern-Wahlbach;7.6;50;445;9999;20141112;20150415;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-4709;Simmern-Wahlbach;7.6;50;445;2;20150416;20200325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --

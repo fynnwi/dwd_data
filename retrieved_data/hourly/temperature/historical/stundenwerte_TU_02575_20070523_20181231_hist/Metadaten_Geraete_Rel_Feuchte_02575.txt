@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2575;Kirchberg/Jagst-Herboldshausen;9.98;49.18;426;2;20070601;20160621;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+2575;Kirchberg/Jagst-Herboldshausen;9.98;49.18;426;2;20160622;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

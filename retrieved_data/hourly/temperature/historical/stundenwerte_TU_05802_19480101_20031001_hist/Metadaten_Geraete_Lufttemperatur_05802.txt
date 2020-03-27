@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5802;Zwiesel;13.23;49.02;590;2;19480101;19490331;Thermograph;Temperaturmessung, konv.;eor;
+5802;Zwiesel;13.25;49.02;566;2;19490401;19520430;Thermograph;Temperaturmessung, konv.;eor;
+5802;Zwiesel;13.24;49.01;604;2;19520501;19540129;Thermograph;Temperaturmessung, konv.;eor;
+5802;Zwiesel;13.24;49.01;590;2;19540130;19570423;Thermograph;Temperaturmessung, konv.;eor;
+5802;Zwiesel;13.24;49.01;590;2;19570424;19620831;Thermograph;Temperaturmessung, konv.;eor;
+5802;Zwiesel;13.22;49.02;590;2;19620901;19621130;Thermograph;Temperaturmessung, konv.;eor;
+5802;Zwiesel;13.22;49.02;575;2;19621201;19641208;Thermograph;Temperaturmessung, konv.;eor;
+5802;Zwieselberg;13.21;49;615;2;19641209;19830731;Thermograph;Temperaturmessung, konv.;eor;
+5802;Zwieselberg;13.21;49;615;2;19830801;20030930;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+ 13710;Landshut-Reithof                        ;20070901;

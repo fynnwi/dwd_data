@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  3139;Maisach-Gernlinden                      ;19831101;20041231

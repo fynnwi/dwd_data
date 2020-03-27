@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4625;Schwerin;11.39;53.64;59;2;19880425;19951021;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;2;19951023;19990226;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;2;19990301;20041224;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;2;20041228;20130212;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+4625;Schwerin;11.39;53.64;59;2;20130213;20200326;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --

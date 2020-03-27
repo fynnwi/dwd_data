@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3244;Memmingen;10.19;47.99;595;2;19750601;19830630;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+3244;Memmingen;10.19;47.99;595;2;19830701;19991231;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+3244;Memmingen;10.14;47.98;610;2;20000201;20090731;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+3244;Memmingen;10.14;47.98;615;2;20090801;20160607;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3244;Memmingen;10.14;47.98;615;2;20160608;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

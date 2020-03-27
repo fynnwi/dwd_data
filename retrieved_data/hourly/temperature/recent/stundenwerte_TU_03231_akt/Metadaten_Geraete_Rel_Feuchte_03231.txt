@@ -1,0 +1,12 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3231;Meiningen;10.38;50.56;450;2;19790101;20090701;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;2;20080626;20090701;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;2;20090702;20100728;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;2;20090702;20100728;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;2;20100729;20100812;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;2;20100729;20110821;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;2;20110822;20121119;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;2;20121120;20121206;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;2;20121207;20141231;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;2;20141001;20200326;EE33;Feuchtemessung, elektr.;eor;
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --

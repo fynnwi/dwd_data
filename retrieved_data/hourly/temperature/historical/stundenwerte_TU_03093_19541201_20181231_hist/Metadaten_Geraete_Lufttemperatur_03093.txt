@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3093;Lüchow (Mühle);11.18;52.97;21;2;19541201;19711124;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+3093;Lüchow (Mühle);11.18;52.97;21;2;19541201;19711124;Thermograph;Temperaturmessung, konv.;eor;
+3093;Lüchow;11.14;52.97;17;2;19711125;20020630;Thermograph;Temperaturmessung, konv.;eor;
+3093;Lüchow;11.14;52.97;17;2;19930924;20070806;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3093;Lüchow;11.14;52.97;17;2;19990601;20020630;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+3093;Lüchow;11.14;52.97;16.21;2;20070807;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

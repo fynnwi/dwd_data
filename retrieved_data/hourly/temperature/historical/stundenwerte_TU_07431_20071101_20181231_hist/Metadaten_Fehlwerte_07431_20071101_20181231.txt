@@ -1,0 +1,10 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+7431;Oberhaching-Laufzorn;TT_TU;31.10.2008-04:00;31.10.2008-04:00;1;;eor;                                                                                                                               
+7431;Oberhaching-Laufzorn;TT_TU;23.07.2014-11:00;28.07.2014-10:00;120;;eor;                                                                                                                             
+7431;Oberhaching-Laufzorn;TT_TU;20.01.2016-13:00;25.01.2016-11:00;119;;eor;                                                                                                                             
+7431;Oberhaching-Laufzorn;TT_TU;01.09.2017-15:00;01.09.2017-15:00;1;;eor;                                                                                                                               
+7431;Oberhaching-Laufzorn;RF_TU;31.10.2008-04:00;31.10.2008-04:00;1;;eor;                                                                                                                               
+7431;Oberhaching-Laufzorn;RF_TU;23.07.2014-11:00;28.07.2014-10:00;120;;eor;                                                                                                                             
+7431;Oberhaching-Laufzorn;RF_TU;20.01.2016-13:00;25.01.2016-11:00;119;;eor;                                                                                                                             
+7431;Oberhaching-Laufzorn;RF_TU;01.09.2017-15:00;01.09.2017-15:00;1;;eor;                                                                                                                               
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

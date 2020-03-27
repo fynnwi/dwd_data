@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  6262;Schwäbisch Gmünd-Weiler                 ;20000508;

@@ -1,0 +1,4 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+982;Dillingen/Donau;TT_TU;17.03.1976-09:00;01.04.1976-07:00;359;;eor;                                                                                                                                   
+982;Dillingen/Donau;RF_TU;17.03.1976-09:00;01.04.1976-07:00;359;;eor;                                                                                                                                   
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

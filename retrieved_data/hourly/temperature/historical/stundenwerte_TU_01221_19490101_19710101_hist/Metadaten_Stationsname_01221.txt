@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1221;Emden-Wolthusen                         ;19460101;19740304

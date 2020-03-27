@@ -1,0 +1,3 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+4377;Sandberg;TT_TU;01.09.2005-00:00;06.03.2019-23:00;11;Gesamt_Messzeitraum;eor;                                                                                                                       
+4377;Sandberg;RF_TU;01.09.2005-00:00;06.03.2019-23:00;12;Gesamt_Messzeitraum;eor;                                                                                                                       

@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+ 14003;  728.30; 47.8619; 10.6144;19390820;19450228;Kaufbeuren (Flugplatz)
+ 14003;  728.30; 47.8619; 10.6144;19571214;19920630;Kaufbeuren (Flugplatz)

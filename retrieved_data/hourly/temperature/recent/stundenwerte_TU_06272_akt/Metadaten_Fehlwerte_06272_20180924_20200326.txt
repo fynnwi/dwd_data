@@ -1,0 +1,9 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+6272;Moorgrund Gräfen-Nitzendorf;TT_TU;15.05.2019-09:00;15.05.2019-14:00;6;;eor;                                                                                                                        
+6272;Moorgrund Gräfen-Nitzendorf;TT_TU;22.08.2019-12:00;23.08.2019-07:00;20;;eor;                                                                                                                       
+6272;Moorgrund Gräfen-Nitzendorf;TT_TU;24.08.2019-12:00;26.08.2019-07:00;44;;eor;                                                                                                                       
+6272;Moorgrund Gräfen-Nitzendorf;RF_TU;30.04.2019-12:00;30.04.2019-17:00;6;;eor;                                                                                                                        
+6272;Moorgrund Gräfen-Nitzendorf;RF_TU;15.05.2019-09:00;15.05.2019-14:00;6;;eor;                                                                                                                        
+6272;Moorgrund Gräfen-Nitzendorf;RF_TU;22.08.2019-12:00;23.08.2019-07:00;20;;eor;                                                                                                                       
+6272;Moorgrund Gräfen-Nitzendorf;RF_TU;24.08.2019-12:00;26.08.2019-07:00;44;;eor;                                                                                                                       
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

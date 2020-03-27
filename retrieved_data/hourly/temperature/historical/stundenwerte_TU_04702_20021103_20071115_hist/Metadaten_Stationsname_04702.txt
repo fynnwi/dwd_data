@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  4702;Sigmaringen (Flugplatz)                 ;19940703;20071116

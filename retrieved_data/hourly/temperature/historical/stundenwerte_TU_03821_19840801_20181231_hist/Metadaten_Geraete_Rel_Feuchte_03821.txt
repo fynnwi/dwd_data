@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3821;Osterfeld;11.94;51.08;262;2;19910101;19991130;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+3821;Osterfeld;11.93;51.09;246;2;19991201;20031231;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+3821;Osterfeld;11.93;51.09;246;2;19991201;20031231;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+3821;Osterfeld;11.93;51.09;246;2;20040101;20040412;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+3821;Osterfeld;11.93;51.09;246;2;20040101;20060913;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+3821;Osterfeld;11.93;51.09;246;2;20040413;20140708;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3821;Osterfeld;11.93;51.09;246;2;20140708;20180820;EE33;Feuchtemessung, elektr.;eor;
+3821;Osterfeld;11.93;51.09;246;2;20180827;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1103;Ebersberg                               ;19000101;19890930
+  1103;Ebersberg                               ;19900101;20060930
+  1103;Ebersberg-Halbing                       ;20061001;

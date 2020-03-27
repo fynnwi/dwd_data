@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3231;Meiningen;10.38;50.56;450;2;19790101;19810331;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+3231;Meiningen;10.38;50.56;450;2;19790101;20100728;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;2;19810301;20080625;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+3231;Meiningen;10.38;50.56;450;2;20080626;20100728;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;2;20100729;20141001;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;2;20100729;20100729;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+3231;Meiningen;10.38;50.56;450;2;20141001;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,2 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+175;Ansbach;RF_TU;01.01.1955-01:00;31.12.1975-23:00;17;Gesamt_Messzeitraum;eor;                                                                                                                         

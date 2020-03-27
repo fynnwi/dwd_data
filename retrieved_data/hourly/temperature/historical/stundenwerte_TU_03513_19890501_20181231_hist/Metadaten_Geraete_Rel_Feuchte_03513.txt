@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3513;Neuhaus am Rennweg;11.13;50.5;845;2;19890501;20060705;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+3513;Neuhaus am Rennweg;11.13;50.5;845;2;19921112;20050329;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+3513;Neuhaus am Rennweg;11.13;50.5;845;2;20050329;20060705;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3513;Neuhaus am Rennweg;11.13;50.5;845;2;20060706;20140715;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3513;Neuhaus am Rennweg;11.13;50.5;845;2;20140715;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

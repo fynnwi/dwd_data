@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+ 13700;Gevelsberg-Oberbröking                  ;20070801;

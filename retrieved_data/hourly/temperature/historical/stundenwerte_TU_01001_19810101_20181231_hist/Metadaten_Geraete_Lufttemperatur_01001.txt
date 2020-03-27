@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1001;Doberlug-Kirchhain;13.57;51.65;96.8;2;19810101;19811130;Thermograph;Temperaturmessung, konv.;eor;
+1001;Doberlug-Kirchhain;13.57;51.65;96.8;2;19810101;20051111;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+1001;Doberlug-Kirchhain;13.57;51.65;96.8;2;19820106;20051102;Thermograph;Temperaturmessung, konv.;eor;
+1001;Doberlug-Kirchhain;13.57;51.65;96.8;2;20051112;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

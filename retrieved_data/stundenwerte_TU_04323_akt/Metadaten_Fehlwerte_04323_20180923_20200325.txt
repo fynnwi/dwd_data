@@ -1,7 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-4323;Ruppertsecken;TT_TU;10.04.2019-12:00;10.04.2019-13:00;2;;eor;                                                                                                                                      
-4323;Ruppertsecken;TT_TU;26.04.2019-11:00;29.04.2019-07:00;69;;eor;                                                                                                                                     
-4323;Ruppertsecken;RF_TU;10.04.2019-12:00;10.04.2019-13:00;2;;eor;                                                                                                                                      
-4323;Ruppertsecken;RF_TU;26.04.2019-11:00;29.04.2019-07:00;69;;eor;                                                                                                                                     
-4323;Ruppertsecken;RF_TU;06.05.2019-07:00;06.05.2019-12:00;6;;eor;                                                                                                                                      
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

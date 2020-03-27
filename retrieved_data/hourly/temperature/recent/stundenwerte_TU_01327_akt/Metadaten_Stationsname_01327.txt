@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1327;Euskirchen                              ;18920501;20030930
+  1327;Weilerswist-Lommersum                   ;20040422;20040731
+  1327;Weilerswist-Lommersum                   ;20040801;

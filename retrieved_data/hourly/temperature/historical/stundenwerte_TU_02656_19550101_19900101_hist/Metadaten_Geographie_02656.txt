@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2656;   96.00; 50.3519;  7.5906;19490501;19891231;Koblenz

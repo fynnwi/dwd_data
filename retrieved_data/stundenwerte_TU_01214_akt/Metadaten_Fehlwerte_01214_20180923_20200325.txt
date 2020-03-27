@@ -1,4 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-1214;Elzach-Fisnacht;TT_TU;23.10.2019-08:00;28.10.2019-09:00;122;;eor;                                                                                                                                  
-1214;Elzach-Fisnacht;RF_TU;23.10.2019-08:00;28.10.2019-09:00;122;;eor;                                                                                                                                  
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

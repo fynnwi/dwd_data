@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  3577;Neustrelitz                             ;18810101;20051231

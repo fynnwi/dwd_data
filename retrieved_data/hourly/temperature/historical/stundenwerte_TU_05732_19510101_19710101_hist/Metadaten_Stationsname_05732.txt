@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  5732;Wyk/Föhr                                ;18870701;19720331
+  5732;Wrixum/Foehr                            ;19720401;19760630
+  5732;Wyk/Föhr                                ;19760701;20030630
+  5732;Wrixum/Föhr                             ;20050409;

@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3946;Plauen;12.13;50.48;386;2;19821014;20020612;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+3946;Plauen;12.13;50.48;386;2;20020613;20080731;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3946;Plauen;12.13;50.48;386;2;20080801;20140908;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3946;Plauen;12.13;50.48;386;2;20140819;20200326;EE33;Feuchtemessung, elektr.;eor;
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --

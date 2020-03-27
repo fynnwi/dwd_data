@@ -1,0 +1,13 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+856;Chieming;TT_TU;01.01.2002-00:00;26.03.2020-23:00;32694;Gesamt_Messzeitraum;eor;                                                                                                                     
+856;Chieming;RF_TU;01.01.2002-00:00;26.03.2020-23:00;32781;Gesamt_Messzeitraum;eor;                                                                                                                     
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+856;Chieming;TT_TU;17.03.2019-14:00;17.03.2019-18:00;5;;eor;                                                                                                                                            
+856;Chieming;TT_TU;23.03.2019-15:00;23.03.2019-23:00;9;;eor;                                                                                                                                            
+856;Chieming;TT_TU;24.03.2019-13:00;25.03.2019-05:00;17;;eor;                                                                                                                                           
+856;Chieming;TT_TU;29.11.2019-23:00;03.12.2019-09:00;83;;eor;                                                                                                                                           
+856;Chieming;RF_TU;17.03.2019-14:00;17.03.2019-19:00;6;;eor;                                                                                                                                            
+856;Chieming;RF_TU;23.03.2019-13:00;24.03.2019-00:00;12;;eor;                                                                                                                                           
+856;Chieming;RF_TU;24.03.2019-12:00;25.03.2019-05:00;18;;eor;                                                                                                                                           
+856;Chieming;RF_TU;29.11.2019-23:00;03.12.2019-09:00;83;;eor;                                                                                                                                           
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

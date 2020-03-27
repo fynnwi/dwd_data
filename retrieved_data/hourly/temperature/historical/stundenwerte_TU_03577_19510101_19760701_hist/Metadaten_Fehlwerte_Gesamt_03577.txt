@@ -1,0 +1,2 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+3577;Neustrelitz;TT_TU;01.01.1951-01:00;01.07.1976-00:00;14640;Gesamt_Messzeitraum;eor;                                                                                                                 

@@ -1,0 +1,12 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+379;Berka, Bad (Flugplatz);TT_TU;31.03.2018-15:00;03.04.2018-09:00;67;;eor;                                                                                                                             
+379;Berka, Bad (Flugplatz);TT_TU;18.04.2018-01:00;26.04.2018-08:00;200;;eor;                                                                                                                            
+379;Berka, Bad (Flugplatz);TT_TU;03.05.2018-08:00;11.05.2018-10:00;195;;eor;                                                                                                                            
+379;Berka, Bad (Flugplatz);TT_TU;19.05.2018-15:00;28.05.2018-09:00;211;;eor;                                                                                                                            
+379;Berka, Bad (Flugplatz);TT_TU;24.07.2018-07:00;25.07.2018-06:00;24;;eor;                                                                                                                             
+379;Berka, Bad (Flugplatz);RF_TU;31.03.2018-15:00;03.04.2018-09:00;67;;eor;                                                                                                                             
+379;Berka, Bad (Flugplatz);RF_TU;18.04.2018-01:00;26.04.2018-08:00;200;;eor;                                                                                                                            
+379;Berka, Bad (Flugplatz);RF_TU;03.05.2018-08:00;11.05.2018-10:00;195;;eor;                                                                                                                            
+379;Berka, Bad (Flugplatz);RF_TU;19.05.2018-15:00;28.05.2018-09:00;211;;eor;                                                                                                                            
+379;Berka, Bad (Flugplatz);RF_TU;24.07.2018-07:00;25.07.2018-06:00;24;;eor;                                                                                                                             
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

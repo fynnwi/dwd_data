@@ -1,0 +1,3 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1766;Greven                                  ;19010601;19890930
+  1766;Münster/Osnabrück                       ;19891001;

@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  7187;Freudenberg/Main-Boxtal                 ;20040804;

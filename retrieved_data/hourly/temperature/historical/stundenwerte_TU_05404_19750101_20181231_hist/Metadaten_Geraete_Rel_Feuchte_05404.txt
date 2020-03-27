@@ -1,0 +1,12 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5404;Weihenstephan;11.72;48.4;467;2;19750101;19870131;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+5404;Weihenstephan;11.72;48.4;467;2;19750101;19870131;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+5404;Weihenstephan;11.69;48.4;470;2;19870201;20081109;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+5404;Weihenstephan;11.69;48.4;470;2;19870201;20081109;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+5404;Weihenstephan;11.69;48.4;470;2;20040715;20081109;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+5404;Weihenstephan-Dürnast;11.69;48.4;470;2;20081110;20081116;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+5404;Weihenstephan-Dürnast;11.69;48.4;470;2;20081110;20081116;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+5404;Weihenstephan-Dürnast;11.69;48.4;470;2;20081110;20081116;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+5404;Weihenstephan-Dürnast;11.69;48.4;477.1;2;20081117;20140624;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+5404;Weihenstephan-Dürnast;11.69;48.4;477.1;2;20140625;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

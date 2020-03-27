@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  2323;Holzminden                              ;19510101;19910731
+  2323;Bevern, Kr.Holzminden                   ;20060405;20060630
+  2323;Bevern, Kr. Holzminden                  ;20060701;

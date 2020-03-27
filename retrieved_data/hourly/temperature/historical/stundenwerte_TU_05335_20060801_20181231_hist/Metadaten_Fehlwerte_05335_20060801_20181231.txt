@@ -1,0 +1,12 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+5335;Waltershausen;TT_TU;01.01.2007-00:00;01.01.2007-00:00;1;;eor;                                                                                                                                      
+5335;Waltershausen;TT_TU;13.11.2008-17:00;13.11.2008-17:00;1;;eor;                                                                                                                                      
+5335;Waltershausen;TT_TU;06.01.2011-20:00;10.01.2011-12:00;89;;eor;                                                                                                                                     
+5335;Waltershausen;TT_TU;23.05.2016-13:00;24.05.2016-12:00;24;;eor;                                                                                                                                     
+5335;Waltershausen;TT_TU;25.07.2018-10:00;25.07.2018-10:00;1;;eor;                                                                                                                                      
+5335;Waltershausen;RF_TU;01.01.2007-00:00;01.01.2007-00:00;1;;eor;                                                                                                                                      
+5335;Waltershausen;RF_TU;13.11.2008-17:00;13.11.2008-17:00;1;;eor;                                                                                                                                      
+5335;Waltershausen;RF_TU;06.01.2011-20:00;10.01.2011-12:00;89;;eor;                                                                                                                                     
+5335;Waltershausen;RF_TU;23.05.2016-13:00;24.05.2016-12:00;24;;eor;                                                                                                                                     
+5335;Waltershausen;RF_TU;25.07.2018-10:00;25.07.2018-10:00;1;;eor;                                                                                                                                      
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

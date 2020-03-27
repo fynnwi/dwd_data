@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-3093;Lüchow;11.14;52.97;17;2;19930924;20070806;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-3093;Lüchow;11.14;52.97;16.21;2;20070807;20191211;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --

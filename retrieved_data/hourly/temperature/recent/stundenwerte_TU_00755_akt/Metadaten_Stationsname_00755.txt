@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+   755;Buchen, Kr. Neckar-Odenwald             ;18681201;

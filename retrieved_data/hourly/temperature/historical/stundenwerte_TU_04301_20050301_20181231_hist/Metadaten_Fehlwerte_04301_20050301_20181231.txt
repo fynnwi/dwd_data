@@ -1,0 +1,25 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+4301;Kreuznach, Bad;TT_TU;05.07.2006-17:00;05.07.2006-20:00;4;;eor;                                                                                                                                     
+4301;Kreuznach, Bad;TT_TU;14.07.2006-07:00;14.07.2006-07:00;1;;eor;                                                                                                                                     
+4301;Kreuznach, Bad;TT_TU;23.04.2008-13:00;23.04.2008-14:00;2;;eor;                                                                                                                                     
+4301;Kreuznach, Bad;TT_TU;06.06.2008-18:00;07.06.2008-11:00;18;;eor;                                                                                                                                    
+4301;Kreuznach, Bad;TT_TU;07.11.2008-04:00;07.11.2008-04:00;1;;eor;                                                                                                                                     
+4301;Kreuznach, Bad;TT_TU;11.01.2014-13:00;14.01.2014-14:00;74;;eor;                                                                                                                                    
+4301;Kreuznach, Bad;TT_TU;30.10.2015-12:00;31.10.2015-10:00;23;;eor;                                                                                                                                    
+4301;Kreuznach, Bad;TT_TU;02.07.2016-05:00;02.07.2016-05:00;1;;eor;                                                                                                                                     
+4301;Kreuznach, Bad;TT_TU;04.05.2018-20:00;05.05.2018-06:00;11;;eor;                                                                                                                                    
+4301;Kreuznach, Bad;TT_TU;31.05.2018-17:00;02.06.2018-07:00;39;;eor;                                                                                                                                    
+4301;Kreuznach, Bad;TT_TU;29.09.2018-08:00;01.10.2018-16:00;57;;eor;                                                                                                                                    
+4301;Kreuznach, Bad;RF_TU;05.07.2006-17:00;05.07.2006-20:00;4;;eor;                                                                                                                                     
+4301;Kreuznach, Bad;RF_TU;14.07.2006-07:00;14.07.2006-07:00;1;;eor;                                                                                                                                     
+4301;Kreuznach, Bad;RF_TU;23.04.2008-13:00;23.04.2008-14:00;2;;eor;                                                                                                                                     
+4301;Kreuznach, Bad;RF_TU;06.06.2008-18:00;07.06.2008-11:00;18;;eor;                                                                                                                                    
+4301;Kreuznach, Bad;RF_TU;07.11.2008-04:00;07.11.2008-04:00;1;;eor;                                                                                                                                     
+4301;Kreuznach, Bad;RF_TU;10.01.2014-02:00;10.01.2014-11:00;10;;eor;                                                                                                                                    
+4301;Kreuznach, Bad;RF_TU;11.01.2014-13:00;14.01.2014-14:00;74;;eor;                                                                                                                                    
+4301;Kreuznach, Bad;RF_TU;30.10.2015-12:00;31.10.2015-10:00;23;;eor;                                                                                                                                    
+4301;Kreuznach, Bad;RF_TU;02.07.2016-05:00;02.07.2016-05:00;1;;eor;                                                                                                                                     
+4301;Kreuznach, Bad;RF_TU;04.05.2018-20:00;05.05.2018-06:00;11;;eor;                                                                                                                                    
+4301;Kreuznach, Bad;RF_TU;31.05.2018-17:00;02.06.2018-07:00;39;;eor;                                                                                                                                    
+4301;Kreuznach, Bad;RF_TU;29.09.2018-08:00;01.10.2018-16:00;57;;eor;                                                                                                                                    
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

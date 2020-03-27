@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+7364;Jeﬂnitz;12.3;51.68;74;2;20070101;20160609;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+7364;Jeﬂnitz;12.3;51.68;74;2;20160609;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

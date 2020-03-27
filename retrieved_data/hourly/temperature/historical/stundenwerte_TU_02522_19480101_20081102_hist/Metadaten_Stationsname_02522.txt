@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  2522;Karlsruhe                               ;19460501;20081101

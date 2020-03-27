@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+102;Leuchtturm Alte Weser;8.13;53.86;32;33.5;20020101;20111207;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+102;Leuchtturm Alte Weser;8.13;53.86;32;33.5;20120402;20141001;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+102;Leuchtturm Alte Weser;8.13;53.86;32;33.5;20141002;20160518;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+102;Leuchtturm Alte Weser;8.13;53.86;32;33.5;20160519;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

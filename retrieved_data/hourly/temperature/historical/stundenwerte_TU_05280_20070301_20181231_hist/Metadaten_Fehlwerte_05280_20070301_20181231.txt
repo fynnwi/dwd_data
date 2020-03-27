@@ -1,0 +1,6 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+5280;Wittenborn;TT_TU;18.06.2008-16:00;18.06.2008-16:00;1;;eor;                                                                                                                                         
+5280;Wittenborn;TT_TU;21.10.2008-16:00;21.10.2008-16:00;1;;eor;                                                                                                                                         
+5280;Wittenborn;RF_TU;18.06.2008-16:00;18.06.2008-16:00;1;;eor;                                                                                                                                         
+5280;Wittenborn;RF_TU;21.10.2008-16:00;21.10.2008-16:00;1;;eor;                                                                                                                                         
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

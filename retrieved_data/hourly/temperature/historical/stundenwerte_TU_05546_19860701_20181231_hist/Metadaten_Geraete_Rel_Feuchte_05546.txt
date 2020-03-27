@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5546;Wiesenburg;12.46;52.12;187;2;19910101;19920326;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+5546;Wiesenburg;12.46;52.12;187;2;19910101;19920514;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+5546;Wiesenburg;12.46;52.12;187;2;19910101;19911031;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
+5546;Wiesenburg;12.46;52.12;187;2;19920326;20071107;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+5546;Wiesenburg;12.46;52.12;187;2;19920514;20071107;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+5546;Wiesenburg;12.46;52.12;187;2;20071107;20140716;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+5546;Wiesenburg;12.46;52.12;187;2;20140716;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,9 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+4841;Steinau, Kr. Cuxhaven;TT_TU;10.11.2004-07:00;10.11.2004-07:00;1;;eor;                                                                                                                              
+4841;Steinau, Kr. Cuxhaven;TT_TU;28.11.2008-05:00;28.11.2008-05:00;1;;eor;                                                                                                                              
+4841;Steinau, Kr. Cuxhaven;TT_TU;03.10.2018-06:00;03.10.2018-15:00;10;;eor;                                                                                                                             
+4841;Steinau, Kr. Cuxhaven;RF_TU;10.11.2004-07:00;10.11.2004-07:00;1;;eor;                                                                                                                              
+4841;Steinau, Kr. Cuxhaven;RF_TU;28.11.2008-05:00;28.11.2008-05:00;1;;eor;                                                                                                                              
+4841;Steinau, Kr. Cuxhaven;RF_TU;22.08.2013-08:00;22.08.2013-08:00;1;;eor;                                                                                                                              
+4841;Steinau, Kr. Cuxhaven;RF_TU;03.10.2018-06:00;03.10.2018-15:00;10;;eor;                                                                                                                             
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

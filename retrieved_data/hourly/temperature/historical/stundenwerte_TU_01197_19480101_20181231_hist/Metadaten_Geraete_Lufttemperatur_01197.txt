@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1197;Ellwangen/Jagst;;;;;19480101;19480331;Gerätetyp unbekannt;Temperaturmessung, konv.;eor;
+1197;Ellwangen/Jagst;10.12;48.97;439;2;19480401;19510131;Thermograph;Temperaturmessung, konv.;eor;
+1197;Ellwangen/Jagst;10.13;48.97;443;2;19700601;20021031;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+1197;Ellwangen/Jagst;10.13;48.97;443;2;20020910;20021031;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+1197;Ellwangen-Rindelbach;10.13;48.99;460;2;20021101;20021120;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+1197;Ellwangen-Rindelbach;10.13;48.99;460;2;20021101;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

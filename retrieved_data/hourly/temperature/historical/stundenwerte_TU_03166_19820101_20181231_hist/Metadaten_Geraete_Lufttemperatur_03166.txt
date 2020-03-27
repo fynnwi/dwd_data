@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3166;Marienberg;;;;;19820101;19921130;Gerätetyp unbekannt;Temperaturmessung, konv.;eor;
+3166;Marienberg;13.15;50.65;639;2;19820101;20021017;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+3166;Marienberg;13.15;50.65;639;2;19921201;20021017;Thermograph;Temperaturmessung, konv.;eor;
+3166;Marienberg;13.15;50.65;639;2;20021017;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

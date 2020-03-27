@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1279;Erlangen (Stadt)                        ;18790101;19581202
+  1279;Erlangen                                ;19581203;20060630
+  1279;Möhrendorf-Kleinseebach                 ;20060701;

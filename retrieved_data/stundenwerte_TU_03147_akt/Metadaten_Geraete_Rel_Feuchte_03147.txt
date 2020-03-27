@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-3147;Mallersdorf-Pfaffenberg/Niederbayern;12.22;48.77;417.5;2.15;20130901;20151117;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-3147;Mallersdorf-Pfaffenberg/Niederbayern;12.22;48.77;417.5;2;20151118;20200325;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --

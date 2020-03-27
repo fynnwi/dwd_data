@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  3034;Lobenstein                              ;19000601;19600331
+  3034;Lobenstein                              ;19610401;20061231
+  3034;Lobenstein, Bad                         ;20070101;

@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4169;Rheinau-Memprechtshofen;7.99;48.67;131;2;20021101;20030527;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+4169;Rheinau-Memprechtshofen;7.99;48.67;131;2;20021101;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

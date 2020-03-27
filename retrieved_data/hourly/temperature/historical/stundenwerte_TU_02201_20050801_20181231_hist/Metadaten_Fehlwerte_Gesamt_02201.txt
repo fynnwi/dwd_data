@@ -1,0 +1,3 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+2201;Hiddensee-Vitte;TT_TU;01.08.2005-00:00;06.03.2019-23:00;177;Gesamt_Messzeitraum;eor;                                                                                                               
+2201;Hiddensee-Vitte;RF_TU;01.08.2005-00:00;06.03.2019-23:00;287;Gesamt_Messzeitraum;eor;                                                                                                               

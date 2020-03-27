@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+ 15555;Kaufbeuren-Oberbeuren                   ;20160405;

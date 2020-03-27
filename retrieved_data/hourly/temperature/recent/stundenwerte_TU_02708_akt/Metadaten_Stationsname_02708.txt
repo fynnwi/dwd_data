@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  2708;Kohlgrub, Bad (Rosshof)                 ;19910801;

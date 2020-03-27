@@ -1,0 +1,2 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+ 13965;  619.00; 48.2639;  8.8134;20081017;        ;Balingen-Bronnhaupten

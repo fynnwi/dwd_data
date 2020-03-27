@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   181;   30.00; 52.8761; 11.5042;19970301;20070630;Arendsee
+   181;   30.00; 52.8761; 11.5042;20070701;        ;Arendsee

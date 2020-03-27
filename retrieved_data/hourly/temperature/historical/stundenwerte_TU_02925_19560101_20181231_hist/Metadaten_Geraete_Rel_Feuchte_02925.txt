@@ -1,0 +1,12 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2925;Leinefelde;;;;;19560101;19560731;Gerätetyp unbekannt;Feuchteregistrieung, konv.;eor;
+2925;Leinefelde;10.32;51.38;353;2;19560801;19730528;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+2925;Leinefelde;10.32;51.38;353;2;19730528;19751231;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+2925;Leinefelde;10.31;51.39;356;2;19760101;20060901;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+2925;Leinefelde;10.31;51.39;356;2;19770501;19900331;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+2925;Leinefelde;10.31;51.39;356;2;19800501;19900330;Elektrisches Aspirationspsychrometer-1 (EAP-1);Feuchtemessung, elektr.;eor;
+2925;Leinefelde;10.31;51.39;356;2;19900401;20040610;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+2925;Leinefelde;10.31;51.39;356;2;20040611;20070201;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+2925;Leinefelde;10.31;51.39;356;2;20070202;20141113;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+2925;Leinefelde;10.31;51.39;356;2;20141113;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

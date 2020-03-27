@@ -1,0 +1,15 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3987;Potsdam;;;;;18930101;19781231;Gerätetyp unbekannt;Feuchteregistrieung, konv.;eor;
+3987;Potsdam;13.06;52.38;81;2;19780301;19841231;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+3987;Potsdam;13.06;52.38;81;2;19781111;19841231;Elektrisches Aspirationspsychrometer-1 (EAP-1);Feuchtemessung, elektr.;eor;
+3987;Potsdam;13.06;52.38;81;2;19790101;19841231;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+3987;Potsdam;13.06;52.38;81;2;19850101;19860401;Elektrisches Aspirationspsychrometer-1 (EAP-1);Feuchtemessung, elektr.;eor;
+3987;Potsdam;13.06;52.38;81;2;19850101;19911001;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+3987;Potsdam;13.06;52.38;81;2;19850101;20080220;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+3987;Potsdam;13.06;52.38;81;2;19860401;19911031;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
+3987;Potsdam;13.06;52.38;81;2;19920812;19921117;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+3987;Potsdam;13.06;52.38;81;2;19921120;20050131;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+3987;Potsdam;13.06;52.38;81;2;20050202;20090311;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+3987;Potsdam;13.06;52.38;81;2;20090311;20151104;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3987;Potsdam;13.06;52.38;81;2;20151104;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

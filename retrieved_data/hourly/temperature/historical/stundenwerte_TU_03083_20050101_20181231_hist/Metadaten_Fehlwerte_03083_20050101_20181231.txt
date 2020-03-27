@@ -1,0 +1,19 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+3083;Lübben-Blumenfelde;TT_TU;06.06.2008-20:00;06.06.2008-20:00;1;;eor;                                                                                                                                 
+3083;Lübben-Blumenfelde;TT_TU;25.07.2008-13:00;29.07.2008-09:00;93;;eor;                                                                                                                                
+3083;Lübben-Blumenfelde;TT_TU;21.09.2008-16:00;21.09.2008-16:00;1;;eor;                                                                                                                                 
+3083;Lübben-Blumenfelde;TT_TU;11.01.2009-01:00;11.01.2009-01:00;1;;eor;                                                                                                                                 
+3083;Lübben-Blumenfelde;TT_TU;23.08.2010-01:00;23.08.2010-13:00;13;;eor;                                                                                                                                
+3083;Lübben-Blumenfelde;TT_TU;12.10.2015-13:00;15.10.2015-15:00;75;;eor;                                                                                                                                
+3083;Lübben-Blumenfelde;TT_TU;15.10.2015-18:00;16.10.2015-07:00;14;;eor;                                                                                                                                
+3083;Lübben-Blumenfelde;TT_TU;26.11.2015-07:00;26.11.2015-14:00;8;;eor;                                                                                                                                 
+3083;Lübben-Blumenfelde;TT_TU;10.04.2017-08:00;11.04.2017-08:00;25;;eor;                                                                                                                                
+3083;Lübben-Blumenfelde;RF_TU;06.06.2008-20:00;06.06.2008-20:00;1;;eor;                                                                                                                                 
+3083;Lübben-Blumenfelde;RF_TU;25.07.2008-13:00;29.07.2008-09:00;93;;eor;                                                                                                                                
+3083;Lübben-Blumenfelde;RF_TU;21.09.2008-16:00;21.09.2008-16:00;1;;eor;                                                                                                                                 
+3083;Lübben-Blumenfelde;RF_TU;11.01.2009-01:00;11.01.2009-01:00;1;;eor;                                                                                                                                 
+3083;Lübben-Blumenfelde;RF_TU;23.08.2010-01:00;23.08.2010-13:00;13;;eor;                                                                                                                                
+3083;Lübben-Blumenfelde;RF_TU;12.10.2015-13:00;16.10.2015-07:00;91;;eor;                                                                                                                                
+3083;Lübben-Blumenfelde;RF_TU;26.11.2015-07:00;26.11.2015-14:00;8;;eor;                                                                                                                                 
+3083;Lübben-Blumenfelde;RF_TU;10.04.2017-08:00;11.04.2017-08:00;25;;eor;                                                                                                                                
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

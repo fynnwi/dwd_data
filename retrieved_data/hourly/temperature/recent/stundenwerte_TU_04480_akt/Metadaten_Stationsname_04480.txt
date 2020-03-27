@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  4480;Schlüchtern                             ;18840601;19530901
+  4480;Schlüchtern                             ;19851001;19960731
+  4480;Schlüchtern-Niederzell                  ;19960801;20040831
+  4480;Schlüchtern-Herolz                      ;20040901;

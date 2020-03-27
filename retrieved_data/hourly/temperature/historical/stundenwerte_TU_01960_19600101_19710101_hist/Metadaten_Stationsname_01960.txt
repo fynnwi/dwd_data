@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1960;Halle (Stadt)                           ;18510101;19901231

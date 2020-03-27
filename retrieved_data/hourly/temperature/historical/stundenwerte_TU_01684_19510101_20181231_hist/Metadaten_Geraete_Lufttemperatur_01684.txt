@@ -1,0 +1,12 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1684;Görlitz;14.95;51.16;213.6;2;19510101;19621231;Thermograph;Temperaturmessung, konv.;eor;
+1684;Görlitz;14.95;51.16;213.6;2;19510101;19621231;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+1684;Görlitz;14.96;51.16;232.2;2;19630101;19940525;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+1684;Görlitz;14.96;51.16;232.2;2;19630101;19860331;Thermograph;Temperaturmessung, konv.;eor;
+1684;Görlitz;14.96;51.16;232.2;2;19901030;19940525;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+1684;Görlitz;14.95;51.16;238;2;19940526;20070327;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+1684;Görlitz;14.95;51.16;238;2;19940526;20070327;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+1684;Görlitz;14.95;51.16;238;2;20070328;20070330;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+1684;Görlitz;14.95;51.16;238;2;20070328;20080731;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+1684;Görlitz;14.95;51.16;238;2;20080801;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

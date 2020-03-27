@@ -1,7 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-4377;Sandberg;TT_TU;01.09.2005-00:00;25.03.2020-23:00;11;Gesamt_Messzeitraum;eor;                                                                                                                       
-4377;Sandberg;RF_TU;01.09.2005-00:00;25.03.2020-23:00;63;Gesamt_Messzeitraum;eor;                                                                                                                       
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-4377;Sandberg;RF_TU;26.11.2019-07:00;28.11.2019-05:00;47;;eor;                                                                                                                                          
-4377;Sandberg;RF_TU;28.11.2019-07:00;28.11.2019-10:00;4;;eor;                                                                                                                                           
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

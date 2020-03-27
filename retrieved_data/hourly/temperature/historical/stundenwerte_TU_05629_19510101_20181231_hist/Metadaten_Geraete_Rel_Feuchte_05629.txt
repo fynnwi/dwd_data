@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5629;Wittenberg;12.64;51.89;105;2;19510101;20031231;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+5629;Wittenberg;12.64;51.89;105;2;19930511;20031231;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+5629;Wittenberg;12.64;51.89;105;2;20040101;20041110;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+5629;Wittenberg;12.64;51.89;105;2;20040101;20061123;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+5629;Wittenberg;12.64;51.89;105;2;20041110;20140716;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+5629;Wittenberg;12.64;51.89;105;2;20140716;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

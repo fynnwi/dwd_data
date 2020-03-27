@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-5792;Zugspitze;TT_TU;01.01.1950-01:00;25.03.2020-23:00;36;Gesamt_Messzeitraum;eor;                                                                                                                      
-5792;Zugspitze;RF_TU;01.01.1950-01:00;25.03.2020-23:00;299;Gesamt_Messzeitraum;eor;                                                                                                                     

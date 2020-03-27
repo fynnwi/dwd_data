@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1001;Doberlug-Kirchhain;13.57;51.65;96.8;2;19910101;19920708;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+1001;Doberlug-Kirchhain;13.57;51.65;96.8;2;19910101;19920708;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
+1001;Doberlug-Kirchhain;13.57;51.65;96.8;2;19920525;19930803;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+1001;Doberlug-Kirchhain;13.57;51.65;96.8;2;19930809;19990723;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+1001;Doberlug-Kirchhain;13.57;51.65;96.8;2;19990726;20051103;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+1001;Doberlug-Kirchhain;13.57;51.65;96.8;2;20051102;20051111;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+1001;Doberlug-Kirchhain;13.57;51.65;96.8;2;20051112;20150119;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+1001;Doberlug-Kirchhain;13.57;51.65;96.8;2;20140715;20200326;EE33;Feuchtemessung, elektr.;eor;
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --

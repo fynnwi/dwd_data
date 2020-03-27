@@ -1,0 +1,15 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2928;Leipzig;;;;;19510101;19901231;Gerätetyp unbekannt;Feuchteregistrieung, konv.;eor;
+2928;Leipzig;12.41;51.32;148;2;19510101;19631014;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+2928;Leipzig;12.41;51.31;148;2;19631015;19900331;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+2928;Leipzig;12.41;51.32;148;2;19900401;20040605;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+2928;Leipzig;12.41;51.32;148;2;19910101;20040605;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+2928;Leipzig;12.41;51.32;148;2;19970401;20040605;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+2928;Leipzig-Holzhausen;12.41;51.32;148;2;20040606;20040607;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+2928;Leipzig-Holzhausen;12.41;51.32;148;2;20040606;20040607;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+2928;Leipzig-Holzhausen;12.41;51.32;148;2;20040606;20040607;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+2928;Leipzig-Holzhausen;12.45;51.32;138;2;20040608;20051211;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+2928;Leipzig-Holzhausen;12.45;51.32;138;2;20051211;20051211;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+2928;Leipzig-Holzhausen;12.45;51.32;138;2;20051212;20140711;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+2928;Leipzig-Holzhausen;12.45;51.32;138;2;20140711;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,16 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+1473;Freystadt-Oberndorf;TT_TU;03.10.2008-16:00;03.10.2008-16:00;1;;eor;                                                                                                                                
+1473;Freystadt-Oberndorf;TT_TU;01.07.2009-00:00;01.07.2009-00:00;1;;eor;                                                                                                                                
+1473;Freystadt-Oberndorf;TT_TU;05.07.2012-23:00;06.07.2012-04:00;6;;eor;                                                                                                                                
+1473;Freystadt-Oberndorf;TT_TU;07.06.2015-01:00;07.06.2015-06:00;6;;eor;                                                                                                                                
+1473;Freystadt-Oberndorf;TT_TU;26.03.2017-12:00;27.03.2017-05:00;18;;eor;                                                                                                                               
+1473;Freystadt-Oberndorf;TT_TU;27.03.2017-12:00;03.04.2017-09:00;166;;eor;                                                                                                                              
+1473;Freystadt-Oberndorf;TT_TU;17.05.2017-08:00;17.05.2017-10:00;3;;eor;                                                                                                                                
+1473;Freystadt-Oberndorf;RF_TU;03.10.2008-16:00;03.10.2008-16:00;1;;eor;                                                                                                                                
+1473;Freystadt-Oberndorf;RF_TU;01.07.2009-00:00;01.07.2009-00:00;1;;eor;                                                                                                                                
+1473;Freystadt-Oberndorf;RF_TU;05.07.2012-23:00;06.07.2012-04:00;6;;eor;                                                                                                                                
+1473;Freystadt-Oberndorf;RF_TU;07.06.2015-01:00;07.06.2015-06:00;6;;eor;                                                                                                                                
+1473;Freystadt-Oberndorf;RF_TU;26.03.2017-12:00;27.03.2017-05:00;18;;eor;                                                                                                                               
+1473;Freystadt-Oberndorf;RF_TU;27.03.2017-12:00;03.04.2017-09:00;166;;eor;                                                                                                                              
+1473;Freystadt-Oberndorf;RF_TU;17.05.2017-08:00;17.05.2017-10:00;3;;eor;                                                                                                                                
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

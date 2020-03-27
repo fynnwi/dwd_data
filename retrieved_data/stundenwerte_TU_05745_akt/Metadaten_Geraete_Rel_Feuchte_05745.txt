@@ -1,6 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-5745;Zehdenick;13.35;52.98;46;2;19910101;19920229;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
-5745;Zehdenick;13.35;52.98;46;2;19910101;19920229;Elektrisches Aspirationspsychrometer-1 (EAP-1);Feuchtemessung, elektr.;eor;
-5745;Zehdenick;13.33;52.97;51;2;20040601;20200303;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-5745;Zehdenick;13.33;52.97;51;2;20190815;20200325;EE33;Feuchtemessung, elektr.;eor;
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --

@@ -1,0 +1,6 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+4160;Renningen-Ihinger Hof;TT_TU;08.08.2008-05:00;08.08.2008-05:00;1;;eor;                                                                                                                              
+4160;Renningen-Ihinger Hof;TT_TU;24.10.2018-07:00;25.10.2018-08:00;26;;eor;                                                                                                                             
+4160;Renningen-Ihinger Hof;RF_TU;08.08.2008-05:00;08.08.2008-05:00;1;;eor;                                                                                                                              
+4160;Renningen-Ihinger Hof;RF_TU;24.10.2018-07:00;25.10.2018-08:00;26;;eor;                                                                                                                             
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

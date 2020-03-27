@@ -1,5 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-5397;Weiden;12.18;49.67;438;2;19910702;20060628;HYGROMER MP100;Feuchtemessung, elektr.;eor;
-5397;Weiden;12.18;49.67;439.6;2;20060629;20140709;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-5397;Weiden;12.18;49.67;439.6;2;20140710;20200325;EE33;Feuchtemessung, elektr.;eor;
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --

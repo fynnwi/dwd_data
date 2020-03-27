@@ -1,0 +1,2 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+1426;Frankfurt/Oder;TT_TU;01.01.1961-01:00;01.01.1985-00:00;32904;Gesamt_Messzeitraum;eor;                                                                                                              

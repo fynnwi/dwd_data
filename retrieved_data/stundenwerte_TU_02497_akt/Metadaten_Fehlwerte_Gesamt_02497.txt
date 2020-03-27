@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-2497;Kall-Sistig;TT_TU;01.08.2004-00:00;25.03.2020-23:00;150;Gesamt_Messzeitraum;eor;                                                                                                                   
-2497;Kall-Sistig;RF_TU;01.08.2004-00:00;25.03.2020-23:00;200;Gesamt_Messzeitraum;eor;                                                                                                                   

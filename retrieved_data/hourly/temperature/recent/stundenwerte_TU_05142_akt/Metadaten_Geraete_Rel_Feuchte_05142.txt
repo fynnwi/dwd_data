@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5142;Ueckermünde;14.07;53.74;1;2;19750401;19920819;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+5142;Ueckermünde;14.07;53.74;1;2;19800601;19920819;Elektrisches Aspirationspsychrometer-1 (EAP-1);Feuchtemessung, elektr.;eor;
+5142;Ueckermünde;14.07;53.74;1;2;19920820;20051115;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+5142;Ueckermünde;14.07;53.74;1;2;20051110;20060426;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+5142;Ueckermünde;14.07;53.74;1.2;2;20060427;20140921;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+5142;Ueckermünde;14.07;53.74;1.2;2;20140917;20200326;EE33;Feuchtemessung, elektr.;eor;
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --

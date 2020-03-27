@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  5282;Wahnsdorf bei Dresden                   ;19160901;20001231

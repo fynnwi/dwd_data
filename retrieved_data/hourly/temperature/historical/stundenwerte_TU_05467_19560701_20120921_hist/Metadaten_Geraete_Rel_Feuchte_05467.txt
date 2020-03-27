@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5467;Wendelstein (Wendelsteinhaus);12.01;47.7;1734.6;2;19560701;19600131;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+5467;Wendelstein (Wendelsteinhaus);12.01;47.7;1734.6;2;19600201;19630321;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+5467;Wendelstein;12.01;47.7;1832;2;19630322;20050810;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+5467;Wendelstein;12.01;47.7;1832;2;19901029;20040126;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+5467;Wendelstein;12.01;47.7;1832;2;20040127;20050622;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+5467;Wendelstein;12.01;47.7;1832;2;20050622;20060502;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+5467;Wendelstein;12.01;47.7;1832;2;20060503;20110621;HYGROMER MP101A;Feuchtemessung, elektr.;eor;
+5467;Wendelstein;12.01;47.7;1832;2;20110622;20120921;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

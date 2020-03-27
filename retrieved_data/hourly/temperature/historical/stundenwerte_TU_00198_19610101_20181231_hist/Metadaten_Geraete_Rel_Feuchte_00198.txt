@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+198;Artern;11.29;51.37;164;2;19610101;19740331;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+198;Artern;11.29;51.37;164;2;19740401;19891227;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+198;Artern;11.29;51.37;164;2;19891228;20040123;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+198;Artern;11.29;51.37;164;2;20040123;20140929;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+198;Artern;11.29;51.37;164;2;20140929;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

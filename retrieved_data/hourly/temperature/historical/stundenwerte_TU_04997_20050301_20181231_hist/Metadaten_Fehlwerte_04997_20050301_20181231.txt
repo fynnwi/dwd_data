@@ -1,0 +1,15 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+4997;Starkenberg-Tegkwitz;TT_TU;27.05.2005-02:00;27.05.2005-02:00;1;;eor;                                                                                                                               
+4997;Starkenberg-Tegkwitz;TT_TU;20.10.2008-17:00;20.10.2008-17:00;1;;eor;                                                                                                                               
+4997;Starkenberg-Tegkwitz;TT_TU;02.07.2016-05:00;02.07.2016-05:00;1;;eor;                                                                                                                               
+4997;Starkenberg-Tegkwitz;TT_TU;19.07.2017-23:00;20.07.2017-15:00;17;;eor;                                                                                                                              
+4997;Starkenberg-Tegkwitz;TT_TU;01.08.2017-20:00;02.08.2017-07:00;12;;eor;                                                                                                                              
+4997;Starkenberg-Tegkwitz;TT_TU;19.10.2018-08:00;19.10.2018-11:00;4;;eor;                                                                                                                               
+4997;Starkenberg-Tegkwitz;RF_TU;27.05.2005-02:00;27.05.2005-02:00;1;;eor;                                                                                                                               
+4997;Starkenberg-Tegkwitz;RF_TU;20.10.2008-17:00;20.10.2008-17:00;1;;eor;                                                                                                                               
+4997;Starkenberg-Tegkwitz;RF_TU;02.07.2016-05:00;02.07.2016-05:00;1;;eor;                                                                                                                               
+4997;Starkenberg-Tegkwitz;RF_TU;19.07.2017-23:00;20.07.2017-15:00;17;;eor;                                                                                                                              
+4997;Starkenberg-Tegkwitz;RF_TU;01.08.2017-20:00;02.08.2017-07:00;12;;eor;                                                                                                                              
+4997;Starkenberg-Tegkwitz;RF_TU;19.10.2018-08:00;19.10.2018-11:00;4;;eor;                                                                                                                               
+4997;Starkenberg-Tegkwitz;RF_TU;22.10.2018-09:00;22.10.2018-09:00;1;;eor;                                                                                                                               
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

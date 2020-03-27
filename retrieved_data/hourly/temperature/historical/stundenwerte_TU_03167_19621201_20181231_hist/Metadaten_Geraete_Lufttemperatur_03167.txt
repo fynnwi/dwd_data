@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3167;Marienberg, Bad;7.96;50.66;547;2;19621201;20080921;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+3167;Marienberg, Bad;7.96;50.66;547;2;19990601;20120709;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3167;Marienberg, Bad;7.96;50.66;546.6;2;20120710;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

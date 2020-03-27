@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1758;Greifswald-Wieck                        ;19390101;19771231

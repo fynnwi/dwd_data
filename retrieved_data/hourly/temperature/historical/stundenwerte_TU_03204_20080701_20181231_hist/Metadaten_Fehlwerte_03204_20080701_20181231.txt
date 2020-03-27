@@ -1,0 +1,7 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+3204;Martinroda;TT_TU;19.10.2008-16:00;19.10.2008-16:00;1;;eor;                                                                                                                                         
+3204;Martinroda;TT_TU;19.07.2017-21:00;20.07.2017-18:00;22;;eor;                                                                                                                                        
+3204;Martinroda;RF_TU;19.10.2008-16:00;19.10.2008-16:00;1;;eor;                                                                                                                                         
+3204;Martinroda;RF_TU;01.11.2016-11:00;01.11.2016-11:00;1;;eor;                                                                                                                                         
+3204;Martinroda;RF_TU;19.07.2017-21:00;20.07.2017-18:00;22;;eor;                                                                                                                                        
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

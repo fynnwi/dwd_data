@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+361;Berchtesgaden;13;47.63;542;2;19480101;19590430;Thermograph;Temperaturmessung, konv.;eor;
+361;Berchtesgaden;13.01;47.64;542;2;19590501;19751231;Thermograph;Temperaturmessung, konv.;eor;
+361;Berchtesgaden (KKst);13.01;47.63;550;2;19811201;19981231;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

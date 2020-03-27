@@ -1,0 +1,12 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+2362;Hümmerich;TT_TU;17.11.2005-21:00;17.11.2005-21:00;1;;eor;                                                                                                                                          
+2362;Hümmerich;TT_TU;16.05.2006-07:00;16.05.2006-07:00;1;;eor;                                                                                                                                          
+2362;Hümmerich;TT_TU;16.10.2007-14:00;16.10.2007-14:00;1;;eor;                                                                                                                                          
+2362;Hümmerich;TT_TU;28.02.2010-14:00;02.03.2010-10:00;45;;eor;                                                                                                                                         
+2362;Hümmerich;TT_TU;19.09.2017-09:00;19.09.2017-10:00;2;;eor;                                                                                                                                          
+2362;Hümmerich;RF_TU;17.11.2005-21:00;17.11.2005-21:00;1;;eor;                                                                                                                                          
+2362;Hümmerich;RF_TU;16.05.2006-07:00;16.05.2006-07:00;1;;eor;                                                                                                                                          
+2362;Hümmerich;RF_TU;16.10.2007-14:00;16.10.2007-14:00;1;;eor;                                                                                                                                          
+2362;Hümmerich;RF_TU;28.02.2010-14:00;02.03.2010-10:00;45;;eor;                                                                                                                                         
+2362;Hümmerich;RF_TU;19.09.2017-09:00;19.09.2017-10:00;2;;eor;                                                                                                                                          
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

@@ -1,0 +1,5 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+1834;Grosser Inselsberg;RF_TU;18.11.1967-14:00;18.11.1967-15:00;2;;eor;                                                                                                                                 
+1834;Grosser Inselsberg;RF_TU;18.11.1967-17:00;18.11.1967-17:00;1;;eor;                                                                                                                                 
+1834;Grosser Inselsberg;RF_TU;18.10.1973-03:00;18.10.1973-03:00;1;;eor;                                                                                                                                 
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

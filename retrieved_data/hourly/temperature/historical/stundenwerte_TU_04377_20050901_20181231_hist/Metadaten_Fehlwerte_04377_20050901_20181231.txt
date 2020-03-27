@@ -1,0 +1,9 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+4377;Sandberg;TT_TU;21.09.2008-16:00;21.09.2008-16:00;1;;eor;                                                                                                                                           
+4377;Sandberg;TT_TU;02.07.2012-07:00;02.07.2012-15:00;9;;eor;                                                                                                                                           
+4377;Sandberg;TT_TU;02.07.2016-05:00;02.07.2016-05:00;1;;eor;                                                                                                                                           
+4377;Sandberg;RF_TU;21.09.2008-16:00;21.09.2008-16:00;1;;eor;                                                                                                                                           
+4377;Sandberg;RF_TU;02.07.2012-07:00;02.07.2012-15:00;9;;eor;                                                                                                                                           
+4377;Sandberg;RF_TU;02.07.2016-05:00;02.07.2016-05:00;1;;eor;                                                                                                                                           
+4377;Sandberg;RF_TU;22.12.2017-08:00;22.12.2017-08:00;1;;eor;                                                                                                                                           
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

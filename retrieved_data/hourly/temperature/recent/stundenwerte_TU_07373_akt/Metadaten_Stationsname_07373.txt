@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  7373;Borkum-Flugplatz                        ;20051001;

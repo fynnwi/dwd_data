@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-4336;Saarbrücken-Ensheim;TT_TU;01.05.1962-01:00;25.03.2020-23:00;24;Gesamt_Messzeitraum;eor;                                                                                                            
-4336;Saarbrücken-Ensheim;RF_TU;01.05.1962-01:00;25.03.2020-23:00;1738;Gesamt_Messzeitraum;eor;                                                                                                          

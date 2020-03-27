@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1869;Grünow;13.93;53.32;55.9;2;19910101;19921215;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+1869;Grünow;13.93;53.32;55.9;2;19910101;19920227;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
+1869;Grünow;13.93;53.32;55.9;2;19920827;20010819;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+1869;Grünow;13.93;53.32;55.9;2;20010508;20010918;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+1869;Grünow;13.93;53.32;55.9;2;20010924;20090218;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+1869;Grünow;13.93;53.32;55.9;2;20090219;20141014;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+1869;Grünow;13.93;53.32;55.9;2;20140820;20200326;EE33;Feuchtemessung, elektr.;eor;
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --

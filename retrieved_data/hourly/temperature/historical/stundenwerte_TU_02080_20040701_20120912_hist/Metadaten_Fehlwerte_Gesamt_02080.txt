@@ -1,0 +1,3 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+2080;Heidelberg;TT_TU;01.07.2004-00:00;12.09.2012-07:00;19;Gesamt_Messzeitraum;eor;                                                                                                                     
+2080;Heidelberg;RF_TU;01.07.2004-00:00;12.09.2012-07:00;31;Gesamt_Messzeitraum;eor;                                                                                                                     

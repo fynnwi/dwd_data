@@ -1,7 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-4464;Schleiz;TT_TU;01.08.1989-01:00;25.03.2020-23:00;2790;Gesamt_Messzeitraum;eor;                                                                                                                      
-4464;Schleiz;RF_TU;01.01.1991-01:00;25.03.2020-23:00;5232;Gesamt_Messzeitraum;eor;                                                                                                                      
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-4464;Schleiz;TT_TU;26.07.2019-10:00;30.07.2019-06:00;93;;eor;                                                                                                                                           
-4464;Schleiz;RF_TU;26.07.2019-10:00;30.07.2019-06:00;93;;eor;                                                                                                                                           
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

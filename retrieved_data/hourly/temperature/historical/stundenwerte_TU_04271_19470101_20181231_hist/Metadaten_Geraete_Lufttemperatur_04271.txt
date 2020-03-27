@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;2;19470101;19510531;Thermograph;Temperaturmessung, konv.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;2;19510601;19991231;Thermograph;Temperaturmessung, konv.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4;2;19910201;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

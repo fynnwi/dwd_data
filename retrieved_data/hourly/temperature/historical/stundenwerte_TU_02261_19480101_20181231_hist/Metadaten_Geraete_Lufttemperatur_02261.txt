@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2261;Hof;11.88;50.31;565.1;2;19480101;19910518;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+2261;Hof;11.88;50.31;565.1;2;19480101;20020425;Thermograph;Temperaturmessung, konv.;eor;
+2261;Hof;11.88;50.31;565.1;2;19980210;20100811;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+2261;Hof;11.88;50.31;565.1;2;20100812;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

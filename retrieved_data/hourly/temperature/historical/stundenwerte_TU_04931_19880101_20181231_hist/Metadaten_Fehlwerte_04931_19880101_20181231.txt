@@ -1,0 +1,11 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+4931;Stuttgart-Echterdingen;TT_TU;01.06.2001-00:00;01.06.2001-00:00;1;;eor;                                                                                                                             
+4931;Stuttgart-Echterdingen;TT_TU;01.09.2002-00:00;01.09.2002-00:00;1;;eor;                                                                                                                             
+4931;Stuttgart-Echterdingen;TT_TU;02.11.2006-07:00;02.11.2006-07:00;1;;eor;                                                                                                                             
+4931;Stuttgart-Echterdingen;TT_TU;10.10.2008-08:00;10.10.2008-08:00;1;;eor;                                                                                                                             
+4931;Stuttgart-Echterdingen;RF_TU;13.05.1997-21:00;15.05.1997-17:00;45;;eor;                                                                                                                            
+4931;Stuttgart-Echterdingen;RF_TU;01.06.2001-00:00;01.06.2001-00:00;1;;eor;                                                                                                                             
+4931;Stuttgart-Echterdingen;RF_TU;01.09.2002-00:00;01.09.2002-00:00;1;;eor;                                                                                                                             
+4931;Stuttgart-Echterdingen;RF_TU;02.11.2006-07:00;02.11.2006-07:00;1;;eor;                                                                                                                             
+4931;Stuttgart-Echterdingen;RF_TU;10.10.2008-08:00;10.10.2008-08:00;1;;eor;                                                                                                                             
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

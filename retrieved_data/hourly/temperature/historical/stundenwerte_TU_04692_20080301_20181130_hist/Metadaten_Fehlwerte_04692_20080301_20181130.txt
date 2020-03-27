@@ -1,0 +1,6 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+4692;Siegen (Kläranlage);TT_TU;10.10.2008-16:00;10.10.2008-16:00;1;;eor;                                                                                                                                
+4692;Siegen (Kläranlage);TT_TU;20.10.2008-17:00;20.10.2008-17:00;1;;eor;                                                                                                                                
+4692;Siegen (Kläranlage);RF_TU;10.10.2008-16:00;10.10.2008-16:00;1;;eor;                                                                                                                                
+4692;Siegen (Kläranlage);RF_TU;20.10.2008-17:00;20.10.2008-17:00;1;;eor;                                                                                                                                
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

@@ -1,0 +1,14 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2932;Leipzig-Schkeuditz;12.22;51.42;131;2;19720501;19891014;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+2932;Leipzig-Schkeuditz;12.22;51.42;133;2;19891015;19940118;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+2932;Leipzig-Schkeuditz;12.23;51.41;144;2;19940119;20000229;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+2932;Leipzig-Schkeuditz;12.23;51.41;144;2;19940119;20000229;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+2932;Leipzig-Schkeuditz;12.24;51.43;131;2;20000301;20040309;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+2932;Leipzig-Schkeuditz;12.24;51.43;131;2;20000301;20080317;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+2932;Leipzig-Schkeuditz;12.24;51.43;131;2;20040310;20040801;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+2932;Leipzig-Schkeuditz;12.24;51.43;131;2;20040802;20081112;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+2932;Leipzig-Schkeuditz;12.24;51.43;131;2;20081112;20081231;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+2932;Leipzig-Schkeuditz;12.24;51.43;131;2;20090101;20091231;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+2932;Leipzig/Halle;12.24;51.43;131;2;20100101;20180917;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+2932;Leipzig/Halle;12.24;51.43;131;2;20181122;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

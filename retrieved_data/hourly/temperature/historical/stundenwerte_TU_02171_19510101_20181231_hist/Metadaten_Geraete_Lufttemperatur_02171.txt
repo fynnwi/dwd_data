@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2171;Hersfeld, Bad;;;;;19510101;19520831;Gerätetyp unbekannt;Temperaturmessung, konv.;eor;
+2171;Hersfeld, Bad;9.7;50.86;216;2;19520901;19610622;Thermograph;Temperaturmessung, konv.;eor;
+2171;Hersfeld, Bad;9.72;50.87;212;2;19610623;19941220;Thermograph;Temperaturmessung, konv.;eor;
+2171;Hersfeld, Bad;9.74;50.85;272.2;2;19941221;20060516;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+2171;Hersfeld, Bad;9.74;50.85;272.2;2;19941221;20060516;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+2171;Hersfeld, Bad;9.74;50.85;272.2;2;19941221;20060516;Thermograph;Temperaturmessung, konv.;eor;
+2171;Hersfeld, Bad;9.74;50.85;272.2;2;20060517;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

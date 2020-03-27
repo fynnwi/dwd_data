@@ -1,0 +1,11 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+5822;Bassum;TT_TU;26.06.2006-09:00;26.06.2006-09:00;1;;eor;                                                                                                                                             
+5822;Bassum;TT_TU;11.10.2008-04:00;11.10.2008-04:00;1;;eor;                                                                                                                                             
+5822;Bassum;TT_TU;01.07.2009-00:00;01.07.2009-00:00;1;;eor;                                                                                                                                             
+5822;Bassum;TT_TU;03.10.2018-10:00;03.10.2018-13:00;4;;eor;                                                                                                                                             
+5822;Bassum;RF_TU;26.06.2006-09:00;26.06.2006-09:00;1;;eor;                                                                                                                                             
+5822;Bassum;RF_TU;11.10.2008-04:00;11.10.2008-04:00;1;;eor;                                                                                                                                             
+5822;Bassum;RF_TU;01.07.2009-00:00;01.07.2009-00:00;1;;eor;                                                                                                                                             
+5822;Bassum;RF_TU;27.04.2014-15:00;29.04.2014-08:00;42;;eor;                                                                                                                                            
+5822;Bassum;RF_TU;03.10.2018-10:00;03.10.2018-13:00;4;;eor;                                                                                                                                             
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

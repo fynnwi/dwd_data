@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+ 13675;Hameln-Hastenbeck                       ;20070301;

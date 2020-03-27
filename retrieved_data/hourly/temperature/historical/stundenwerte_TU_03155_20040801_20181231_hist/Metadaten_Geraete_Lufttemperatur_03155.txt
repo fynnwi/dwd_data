@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3155;Manderscheid;6.8;50.09;419;2;20040801;20090930;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3155;Manderscheid-Sonnenhof;6.8;50.1;413;2;20091001;20100709;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3155;Manderscheid-Sonnenhof;6.8;50.1;413;2;20100715;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

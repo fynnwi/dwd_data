@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+7319;Donauwörth-Osterweiler;10.74;48.74;434;2;20050301;20170801;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+7319;Donauwörth-Osterweiler;10.74;48.74;435;2;20181101;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

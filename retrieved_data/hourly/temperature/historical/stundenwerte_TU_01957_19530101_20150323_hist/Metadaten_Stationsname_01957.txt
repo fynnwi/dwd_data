@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1957;Halle-Kröllwitz                         ;19510101;20150326

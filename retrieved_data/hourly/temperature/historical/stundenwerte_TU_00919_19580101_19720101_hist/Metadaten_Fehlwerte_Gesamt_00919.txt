@@ -1,0 +1,2 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+919;Darmstadt-Botanischer Garten;TT_TU;01.01.1958-01:00;01.01.1972-00:00;6;Gesamt_Messzeitraum;eor;                                                                                                     

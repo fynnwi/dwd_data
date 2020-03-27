@@ -1,0 +1,20 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+2088;Heidenheim/Brenz;TT_TU;05.06.2004-14:00;05.06.2004-14:00;1;;eor;                                                                                                                                   
+2088;Heidenheim/Brenz;TT_TU;08.06.2004-00:00;08.06.2004-00:00;1;;eor;                                                                                                                                   
+2088;Heidenheim/Brenz;TT_TU;09.06.2004-10:00;09.06.2004-10:00;1;;eor;                                                                                                                                   
+2088;Heidenheim/Brenz;TT_TU;10.06.2004-14:00;10.06.2004-14:00;1;;eor;                                                                                                                                   
+2088;Heidenheim/Brenz;TT_TU;12.06.2004-23:00;12.06.2004-23:00;1;;eor;                                                                                                                                   
+2088;Heidenheim/Brenz;TT_TU;13.06.2004-05:00;13.06.2004-05:00;1;;eor;                                                                                                                                   
+2088;Heidenheim/Brenz;TT_TU;14.06.2004-05:00;14.06.2004-05:00;1;;eor;                                                                                                                                   
+2088;Heidenheim/Brenz;TT_TU;14.06.2004-21:00;14.06.2004-21:00;1;;eor;                                                                                                                                   
+2088;Heidenheim/Brenz;TT_TU;25.10.2004-07:00;25.10.2004-07:00;1;;eor;                                                                                                                                   
+2088;Heidenheim/Brenz;RF_TU;05.06.2004-14:00;05.06.2004-14:00;1;;eor;                                                                                                                                   
+2088;Heidenheim/Brenz;RF_TU;08.06.2004-00:00;08.06.2004-00:00;1;;eor;                                                                                                                                   
+2088;Heidenheim/Brenz;RF_TU;09.06.2004-10:00;09.06.2004-10:00;1;;eor;                                                                                                                                   
+2088;Heidenheim/Brenz;RF_TU;10.06.2004-14:00;10.06.2004-14:00;1;;eor;                                                                                                                                   
+2088;Heidenheim/Brenz;RF_TU;12.06.2004-23:00;12.06.2004-23:00;1;;eor;                                                                                                                                   
+2088;Heidenheim/Brenz;RF_TU;13.06.2004-05:00;13.06.2004-05:00;1;;eor;                                                                                                                                   
+2088;Heidenheim/Brenz;RF_TU;14.06.2004-05:00;14.06.2004-05:00;1;;eor;                                                                                                                                   
+2088;Heidenheim/Brenz;RF_TU;14.06.2004-21:00;14.06.2004-21:00;1;;eor;                                                                                                                                   
+2088;Heidenheim/Brenz;RF_TU;25.10.2004-07:00;25.10.2004-07:00;1;;eor;                                                                                                                                   
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

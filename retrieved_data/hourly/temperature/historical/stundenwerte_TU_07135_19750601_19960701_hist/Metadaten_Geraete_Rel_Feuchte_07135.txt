@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+7135;Aulendorf;9.64;47.96;571;2;19750601;19811021;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+7135;Aulendorf;9.64;47.96;571;2;19811022;19930531;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+7135;Aulendorf-Spiegler;9.67;47.97;560;2;19930601;20041231;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

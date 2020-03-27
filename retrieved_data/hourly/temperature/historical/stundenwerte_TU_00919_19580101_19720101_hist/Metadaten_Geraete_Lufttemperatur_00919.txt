@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+919;Darmstadt-Botanischer Garten;8.68;49.88;169;2;19580101;19580930;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+919;Darmstadt-Botanischer Garten;8.68;49.87;169;2;19581001;19740731;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,14 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+880;Cottbus;14.32;51.78;69;2;19610101;19900212;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+880;Cottbus;14.32;51.78;69;2;19880810;19910401;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
+880;Cottbus;14.32;51.78;69;2;19880810;19921201;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+880;Cottbus;14.32;51.78;69;2;19901022;19991231;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+880;Cottbus;14.32;51.78;69;2;19910415;19911101;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
+880;Cottbus;14.32;51.78;69;2;19921201;19950303;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+880;Cottbus;14.32;51.78;69;2;19950306;19950606;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+880;Cottbus;14.32;51.78;69;2;19950608;20010421;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+880;Cottbus;14.32;51.78;69;2;20010425;20040815;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+880;Cottbus;14.32;51.78;69;2;20040818;20071214;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+880;Cottbus;14.32;51.78;69;2;20040926;20140807;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+880;Cottbus;14.32;51.78;69;2;20140807;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

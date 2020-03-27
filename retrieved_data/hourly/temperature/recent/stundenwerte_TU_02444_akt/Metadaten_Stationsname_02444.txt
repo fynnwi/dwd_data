@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  2444;Jena (Sternwarte)                       ;18131011;

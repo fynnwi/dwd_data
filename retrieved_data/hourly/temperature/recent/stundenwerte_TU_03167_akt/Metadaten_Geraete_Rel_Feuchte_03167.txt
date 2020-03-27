@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3167;Marienberg, Bad;7.96;50.66;547;2;19990601;20031021;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+3167;Marienberg, Bad;7.96;50.66;547;2;20031022;20080107;HYGROMER MP101A;Feuchtemessung, elektr.;eor;
+3167;Marienberg, Bad;7.96;50.66;547;2;20080108;20120709;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3167;Marienberg, Bad;7.96;50.66;546.6;2;20120710;20150324;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3167;Marienberg, Bad;7.96;50.66;546.6;2;20150325;20200326;EE33;Feuchtemessung, elektr.;eor;
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --

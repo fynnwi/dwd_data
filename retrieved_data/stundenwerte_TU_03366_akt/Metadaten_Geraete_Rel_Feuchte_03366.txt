@@ -1,6 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-3366;Mühldorf;12.5;48.28;405;2;19890501;20031212;HYGROMER MP100;Feuchtemessung, elektr.;eor;
-3366;Mühldorf;12.5;48.28;405;2;20031213;20060510;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-3366;Mühldorf;12.5;48.28;405.6;2;20060511;20140629;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-3366;Mühldorf;12.5;48.28;405.6;2;20140630;20200325;EE33;Feuchtemessung, elektr.;eor;
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --

@@ -1,0 +1,10 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+6263;Singen;TT_TU;16.02.2005-13:00;16.02.2005-13:00;1;;eor;                                                                                                                                             
+6263;Singen;TT_TU;16.10.2007-14:00;16.10.2007-14:00;1;;eor;                                                                                                                                             
+6263;Singen;TT_TU;31.07.2008-15:00;31.07.2008-15:00;1;;eor;                                                                                                                                             
+6263;Singen;TT_TU;01.07.2009-01:00;01.07.2009-01:00;1;;eor;                                                                                                                                             
+6263;Singen;RF_TU;16.02.2005-13:00;16.02.2005-13:00;1;;eor;                                                                                                                                             
+6263;Singen;RF_TU;16.10.2007-14:00;16.10.2007-14:00;1;;eor;                                                                                                                                             
+6263;Singen;RF_TU;31.07.2008-15:00;31.07.2008-15:00;1;;eor;                                                                                                                                             
+6263;Singen;RF_TU;01.07.2009-01:00;01.07.2009-01:00;1;;eor;                                                                                                                                             
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

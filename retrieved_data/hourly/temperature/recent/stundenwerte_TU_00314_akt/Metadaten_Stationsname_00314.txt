@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+   314;Bautzen                                 ;18631201;19230228
+   314;Bautzen                                 ;19450606;19530528
+   314;Bautzen                                 ;19550301;19981130
+   314;Kubschütz, Kr. Bautzen                  ;19981201;

@@ -1,0 +1,6 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+3730;Oberstdorf;TT_TU;01.01.1948-01:00;26.03.2020-23:00;68;Gesamt_Messzeitraum;eor;                                                                                                                     
+3730;Oberstdorf;RF_TU;01.01.1948-01:00;26.03.2020-23:00;83;Gesamt_Messzeitraum;eor;                                                                                                                     
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+3730;Oberstdorf;RF_TU;08.07.2019-19:00;09.07.2019-03:00;9;;eor;                                                                                                                                         
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

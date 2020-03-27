@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  5822;Bassum (Luftschutz-Warnamt)             ;19751001;19951130
+  5822;Bassum                                  ;19951201;20000930
+  5822;Bassum                                  ;20030522;

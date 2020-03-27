@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-3032;List auf Sylt;TT_TU;01.01.1949-01:00;25.03.2020-23:00;456;Gesamt_Messzeitraum;eor;                                                                                                                 
-3032;List auf Sylt;RF_TU;01.01.1949-01:00;25.03.2020-23:00;497;Gesamt_Messzeitraum;eor;                                                                                                                 

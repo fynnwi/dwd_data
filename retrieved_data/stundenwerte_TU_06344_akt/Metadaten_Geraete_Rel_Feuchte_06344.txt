@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-6344;Runkel-Ennerich;8.14;50.39;168;2;20041201;20180502;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-6344;Runkel-Ennerich;8.14;50.39;168;2;20180503;20200325;EE33;Feuchtemessung, elektr.;eor;
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --

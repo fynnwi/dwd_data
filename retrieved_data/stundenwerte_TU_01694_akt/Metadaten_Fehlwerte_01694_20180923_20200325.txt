@@ -1,4 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-1694;Goldberg;TT_TU;08.01.2019-10:00;10.01.2019-11:00;50;;eor;                                                                                                                                          
-1694;Goldberg;RF_TU;08.01.2019-10:00;10.01.2019-11:00;50;;eor;                                                                                                                                          
-generiert: 26.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

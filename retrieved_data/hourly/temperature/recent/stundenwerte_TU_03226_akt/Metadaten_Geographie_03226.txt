@@ -1,0 +1,5 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  3226;  109.00; 51.7285; 11.5149;19031001;19850630;Aschersleben-Mehringen
+  3226;  110.00; 51.7284; 11.5167;19850701;20021231;Aschersleben-Mehringen
+  3226;  107.00; 51.7259; 11.5111;20060511;20070630;Aschersleben-Mehringen
+  3226;  107.00; 51.7259; 11.5109;20070701;        ;Aschersleben-Mehringen

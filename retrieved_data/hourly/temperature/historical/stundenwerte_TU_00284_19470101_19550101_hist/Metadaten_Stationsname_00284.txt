@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+   284;Bamberg (Sternwarte)                    ;18790101;19901201

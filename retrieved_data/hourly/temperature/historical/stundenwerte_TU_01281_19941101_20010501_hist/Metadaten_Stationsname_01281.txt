@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1281;Erlangen-Frauenaurach                   ;19820101;20010430

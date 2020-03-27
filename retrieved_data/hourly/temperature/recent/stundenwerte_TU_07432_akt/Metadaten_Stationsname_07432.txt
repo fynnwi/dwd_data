@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  7432;Wittingen-Vorhop                        ;20060901;

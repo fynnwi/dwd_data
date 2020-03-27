@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4104;Regensburg;12.05;49.02;337.5;2;19480101;19600405;Thermograph;Temperaturmessung, konv.;eor;
+4104;Regensburg;12.06;49.02;340.4;2;19600406;19620625;Thermograph;Temperaturmessung, konv.;eor;
+4104;Regensburg;12.07;49.01;376;2;19620627;19691031;Thermograph;Temperaturmessung, konv.;eor;
+4104;Regensburg;12.07;49.01;376;2;19691101;19780917;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+4104;Regensburg;12.1;49.04;366;2;19780918;20061219;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+4104;Regensburg;12.1;49.04;366;2;19940315;20061219;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+4104;Regensburg;12.1;49.04;365.4;2;20061220;20100308;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+4104;Regensburg;12.1;49.04;365.4;2;20100309;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

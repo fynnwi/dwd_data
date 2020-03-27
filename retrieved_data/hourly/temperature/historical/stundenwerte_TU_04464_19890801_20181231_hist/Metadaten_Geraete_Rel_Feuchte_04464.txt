@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4464;Schleiz;11.8;50.57;501;2;19910101;20000915;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+4464;Schleiz;11.8;50.57;501;2;20000915;20060803;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+4464;Schleiz;11.8;50.57;501;2;20060803;20140716;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+4464;Schleiz;11.8;50.57;501;2;20140716;20170718;EE33;Feuchtemessung, elektr.;eor;
+4464;Schleiz;11.8;50.57;501;2;20170720;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

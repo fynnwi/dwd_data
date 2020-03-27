@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  7135;Aulendorf                               ;19500901;19930531
+  7135;Aulendorf-Spiegler                      ;19930601;20041231
+  7135;Aulendorf-Haslach                       ;20050101;20160517

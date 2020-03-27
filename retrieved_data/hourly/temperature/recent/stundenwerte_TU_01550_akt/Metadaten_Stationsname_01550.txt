@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1550;Garmisch-Partenkirchen                  ;19411201;

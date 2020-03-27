@@ -1,0 +1,7 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+2618;Kleiner Inselsberg;TT_TU;01.10.2004-00:00;26.03.2020-23:00;342;Gesamt_Messzeitraum;eor;                                                                                                            
+2618;Kleiner Inselsberg;RF_TU;01.10.2004-00:00;26.03.2020-23:00;342;Gesamt_Messzeitraum;eor;                                                                                                            
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+2618;Kleiner Inselsberg;TT_TU;02.07.2019-07:00;02.07.2019-14:00;8;;eor;                                                                                                                                 
+2618;Kleiner Inselsberg;RF_TU;02.07.2019-07:00;02.07.2019-14:00;8;;eor;                                                                                                                                 
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

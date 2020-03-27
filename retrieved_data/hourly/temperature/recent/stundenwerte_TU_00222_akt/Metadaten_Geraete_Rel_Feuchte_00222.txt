@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+222;Aue;12.71;50.59;391;2;20080701;20080701;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+222;Aue;12.71;50.59;387;2;20080702;20180910;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+222;Aue;12.71;50.59;387;2;20170816;20200326;EE33;Feuchtemessung, elektr.;eor;
+generiert: 27.03.2020 --  Deutscher Wetterdienst  --

@@ -1,0 +1,2 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+ 13711;Krölpa-Rockendorf                       ;20071201;

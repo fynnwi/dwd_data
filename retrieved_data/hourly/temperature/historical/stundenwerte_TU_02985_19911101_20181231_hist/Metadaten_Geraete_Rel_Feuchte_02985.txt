@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+2985;Lichtenhain-Mittelndorf;14.21;50.94;318;2;19911101;20071210;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+2985;Lichtenhain-Mittelndorf;14.21;50.94;318;2;19911101;20071210;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+2985;Lichtenhain-Mittelndorf;14.21;50.94;318;2;20041006;20071130;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+2985;Lichtenhain-Mittelndorf;14.21;50.94;321;2;20071211;20071211;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+2985;Lichtenhain-Mittelndorf;14.21;50.94;321;2;20071211;20091231;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+2985;Lichtenhain-Mittelndorf;14.21;50.94;321;2;20071211;20071211;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+2985;Lichtenhain-Mittelndorf;14.21;50.94;321;2;20100101;20140731;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+2985;Lichtenhain-Mittelndorf;14.21;50.94;321;2;20140731;20190305;EE33;Feuchtemessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --

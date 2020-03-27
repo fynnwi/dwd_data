@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1803;Groß Lüsewitz;12.32;54.07;34;2;19910101;19911231;Thermograph;Temperaturmessung, konv.;eor;
+1803;Groß Lüsewitz;12.32;54.07;34;2;19920201;19921015;Thermograph;Temperaturmessung, konv.;eor;
+1803;Groß Lüsewitz;12.32;54.07;34;2;19921015;20040630;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+1803;Groß Lüsewitz;12.32;54.07;34;2;20040901;20110903;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+1803;Groß Lüsewitz;12.32;54.07;34;2;20110904;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --
