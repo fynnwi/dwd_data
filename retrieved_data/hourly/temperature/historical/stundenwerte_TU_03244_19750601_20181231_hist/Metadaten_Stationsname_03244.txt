@@ -1,2 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  3244;Memmingen                               ;18790101;

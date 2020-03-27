@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-1583;Geisingberg;13.77;50.77;823;2;19510101;19701231;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

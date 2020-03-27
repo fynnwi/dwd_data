@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-3147;Mallersdorf-Pfaffenberg/Niederbayern;TT_TU;01.01.1985-01:00;06.03.2019-23:00;119538;Gesamt_Messzeitraum;eor;                                                                                       
-3147;Mallersdorf-Pfaffenberg/Niederbayern;RF_TU;01.01.1985-01:00;06.03.2019-23:00;119425;Gesamt_Messzeitraum;eor;                                                                                       

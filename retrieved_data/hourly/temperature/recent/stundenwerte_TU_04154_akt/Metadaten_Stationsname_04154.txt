@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  4154;Remscheid-Lennep                        ;18820101;19981231
-  4154;Remscheid-Lennep                        ;20101207;20181231

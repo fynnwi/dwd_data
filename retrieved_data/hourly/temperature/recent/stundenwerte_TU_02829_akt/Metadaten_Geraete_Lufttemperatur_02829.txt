@@ -1,6 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-2829;Landsberg (Flugplatz);10.9;48.07;621;2;19660101;20070614;Psychrometerthermometer (feucht);Temperatur/Feuchtemessung, konv.;eor;
-2829;Landsberg (Flugplatz);10.9;48.07;621;2;19660101;20070614;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
-2829;Landsberg (Flugplatz);10.91;48.08;621;2;20070615;20180710;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
-2829;Landsberg (Flugplatz);10.91;48.08;621;2;20070615;20180710;Psychrometerthermometer (feucht);Temperatur/Feuchtemessung, konv.;eor;
-generiert: 11.01.2020 --  Deutscher Wetterdienst  --

@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-4301;Kreuznach, Bad;7.87;49.85;102;2;20050301;20190305;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

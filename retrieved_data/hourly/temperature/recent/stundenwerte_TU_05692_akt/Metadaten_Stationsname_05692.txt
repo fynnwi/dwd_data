@@ -1,2 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  5692;Worms                                   ;18900101;

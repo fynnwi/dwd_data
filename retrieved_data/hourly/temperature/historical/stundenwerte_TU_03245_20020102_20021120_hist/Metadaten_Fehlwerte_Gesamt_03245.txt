@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-3245;Memmingen (Flugplatz);TT_TU;02.01.2002-07:00;20.11.2002-17:00;5302;Gesamt_Messzeitraum;eor;                                                                                                        
-3245;Memmingen (Flugplatz);RF_TU;02.01.2002-07:00;20.11.2002-17:00;5302;Gesamt_Messzeitraum;eor;                                                                                                        

@@ -1,6 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-198;Artern;11.29;51.37;164;2;19610101;19640228;Thermograph;Temperaturmessung, konv.;eor;
-198;Artern;11.29;51.37;164;2;19640301;19850114;Thermograph;Temperaturmessung, konv.;eor;
-198;Artern;11.29;51.37;164;2;19850117;19900620;Thermograph;Temperaturmessung, konv.;eor;
-198;Artern;11.29;51.37;164;2;19900621;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

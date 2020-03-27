@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  4445;Schierke                                ;19311101;20090630
-  4445;Wernigerode-Schierke                    ;20090701;

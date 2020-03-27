@@ -1,5 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  3679;Oberaudorf                              ;18990105;19880430
-  3679;Kiefersfelden                           ;19880501;19960531
-  3679;Oberaudorf                              ;19960601;20061031
-  3679;Kiefersfelden-Gach                      ;20061101;

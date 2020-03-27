@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  1048;Dresden-Heller                          ;19260401;19350710
-  1048;Dresden-Klotzsche                       ;19350711;

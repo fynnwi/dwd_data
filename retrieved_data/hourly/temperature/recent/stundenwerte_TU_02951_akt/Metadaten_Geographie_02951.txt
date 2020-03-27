@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  2951;   17.00; 53.0985; 11.4652;18900101;19940930;Lenzen/Elbe
-  2951;   20.00; 53.1007; 11.4864;19941001;        ;Lenzen/Elbe

@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  3257;Mergentheim, Bad                        ;18360101;19781231
-  3257;Mergentheim, Bad-Neunkirchen            ;19790101;

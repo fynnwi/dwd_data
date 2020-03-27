@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-3170;Marienleuchte;TT_TU;01.01.2002-12:00;21.12.2012-15:00;82917;Gesamt_Messzeitraum;eor;                                                                                                               
-3170;Marienleuchte;RF_TU;01.01.2002-12:00;21.12.2012-15:00;83006;Gesamt_Messzeitraum;eor;                                                                                                               

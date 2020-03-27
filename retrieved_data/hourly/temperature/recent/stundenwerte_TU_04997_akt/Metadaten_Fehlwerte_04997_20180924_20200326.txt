@@ -1,8 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-4997;Starkenberg-Tegkwitz;TT_TU;19.10.2018-08:00;19.10.2018-11:00;4;;eor;                                                                                                                               
-4997;Starkenberg-Tegkwitz;TT_TU;23.10.2019-09:00;25.10.2019-15:00;55;;eor;                                                                                                                              
-4997;Starkenberg-Tegkwitz;RF_TU;19.10.2018-08:00;19.10.2018-11:00;4;;eor;                                                                                                                               
-4997;Starkenberg-Tegkwitz;RF_TU;22.10.2018-09:00;22.10.2018-09:00;1;;eor;                                                                                                                               
-4997;Starkenberg-Tegkwitz;RF_TU;23.10.2019-09:00;25.10.2019-15:00;55;;eor;                                                                                                                              
-4997;Starkenberg-Tegkwitz;RF_TU;10.11.2019-07:00;10.11.2019-07:00;1;;eor;                                                                                                                               
-generiert: 27.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-4926;Stuttgart (Neckartal);TT_TU;01.04.1979-01:00;14.05.2013-07:00;190449;Gesamt_Messzeitraum;eor;                                                                                                      
-4926;Stuttgart (Neckartal);RF_TU;01.04.1979-01:00;14.05.2013-07:00;190449;Gesamt_Messzeitraum;eor;                                                                                                      

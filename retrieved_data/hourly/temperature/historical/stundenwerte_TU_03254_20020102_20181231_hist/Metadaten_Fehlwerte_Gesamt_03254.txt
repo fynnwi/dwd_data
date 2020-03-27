@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-3254;Meppen;TT_TU;02.01.2002-05:00;06.03.2019-23:00;75015;Gesamt_Messzeitraum;eor;                                                                                                                      
-3254;Meppen;RF_TU;02.01.2002-05:00;06.03.2019-23:00;75022;Gesamt_Messzeitraum;eor;                                                                                                                      

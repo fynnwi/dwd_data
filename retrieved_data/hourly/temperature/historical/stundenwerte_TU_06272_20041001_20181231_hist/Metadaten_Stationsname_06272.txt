@@ -1,2 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  6272;Moorgrund Gräfen-Nitzendorf             ;20010327;

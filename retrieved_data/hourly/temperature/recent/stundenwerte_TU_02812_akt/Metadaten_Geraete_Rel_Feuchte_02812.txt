@@ -1,5 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-2812;Lahr;7.83;48.37;155;2;19960417;20061120;HYGROMER MP100;Feuchtemessung, elektr.;eor;
-2812;Lahr;7.83;48.36;155.74;2;20061121;20140908;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-2812;Lahr;7.83;48.36;155.74;2;20140909;20200326;EE33;Feuchtemessung, elektr.;eor;
-generiert: 27.03.2020 --  Deutscher Wetterdienst  --

@@ -1,9 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-3761;Öhringen;9.51;49.2;248;2;19550101;19660223;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
-3761;Öhringen;9.52;49.21;276;2;19660224;19750131;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
-3761;Öhringen;9.52;49.21;276;2;19750101;20060516;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-3761;Öhringen;9.52;49.21;276;2;19920701;20060516;HYGROMER MP100;Feuchtemessung, elektr.;eor;
-3761;Öhringen;9.52;49.21;276;2;20060517;20060530;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-3761;Öhringen;9.52;49.21;275.9;2;20060531;20140630;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-3761;Öhringen;9.52;49.21;275.9;2;20140701;20190305;EE33;Feuchtemessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

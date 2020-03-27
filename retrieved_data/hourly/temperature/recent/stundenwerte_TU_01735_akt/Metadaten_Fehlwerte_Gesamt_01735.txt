@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-1735;Grainet-Rehberg;TT_TU;01.03.2005-00:00;26.03.2020-23:00;136;Gesamt_Messzeitraum;eor;                                                                                                               
-1735;Grainet-Rehberg;RF_TU;01.03.2005-00:00;26.03.2020-23:00;136;Gesamt_Messzeitraum;eor;                                                                                                               

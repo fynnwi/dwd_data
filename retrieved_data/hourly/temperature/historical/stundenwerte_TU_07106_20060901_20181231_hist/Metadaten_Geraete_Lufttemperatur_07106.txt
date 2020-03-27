@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-7106;Bielefeld-Deppendorf;8.46;52.07;105;2;20060901;20120725;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-7106;Bielefeld-Deppendorf;8.46;52.07;105;2;20130726;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

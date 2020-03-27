@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-4127;Reichshof-Eckenhagen;TT_TU;01.01.2005-00:00;06.03.2019-23:00;446;Gesamt_Messzeitraum;eor;                                                                                                          
-4127;Reichshof-Eckenhagen;RF_TU;01.01.2005-00:00;06.03.2019-23:00;447;Gesamt_Messzeitraum;eor;                                                                                                          

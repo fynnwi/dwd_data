@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  3319;Mönchberg                               ;19360401;20051231
-  3319;Röllbach                                ;20060427;

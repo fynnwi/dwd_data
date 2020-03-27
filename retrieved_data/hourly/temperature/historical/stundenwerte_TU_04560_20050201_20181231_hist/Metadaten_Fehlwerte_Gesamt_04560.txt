@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-4560;Schotten;TT_TU;01.02.2005-00:00;06.03.2019-23:00;783;Gesamt_Messzeitraum;eor;                                                                                                                      
-4560;Schotten;RF_TU;01.02.2005-00:00;06.03.2019-23:00;785;Gesamt_Messzeitraum;eor;                                                                                                                      

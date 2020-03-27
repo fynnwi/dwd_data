@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-6182;Mallersdorf-Pfaffenberg;TT_TU;01.04.2000-01:00;27.03.2012-08:00;173;Gesamt_Messzeitraum;eor;                                                                                                       
-6182;Mallersdorf-Pfaffenberg;RF_TU;01.04.2000-01:00;27.03.2012-08:00;182;Gesamt_Messzeitraum;eor;                                                                                                       

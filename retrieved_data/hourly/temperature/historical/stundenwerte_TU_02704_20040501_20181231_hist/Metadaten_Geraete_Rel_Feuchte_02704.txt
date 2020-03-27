@@ -1,5 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-2704;Köthen (Anhalt);12.01;51.75;76;2;20040501;20070630;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-2704;Köthen (Anhalt);12.01;51.75;76;2;20070701;20151102;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-2704;Köthen (Anhalt);12.01;51.75;76;2;20151102;20190305;EE33;Feuchtemessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

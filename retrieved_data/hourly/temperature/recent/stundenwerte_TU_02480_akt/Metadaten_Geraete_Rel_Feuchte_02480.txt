@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-2480;Kahl/Main;8.99;50.06;107;2;20040901;20160905;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-2480;Kahl/Main;8.99;50.06;107;2;20160906;20200326;EE33;Feuchtemessung, elektr.;eor;
-generiert: 27.03.2020 --  Deutscher Wetterdienst  --

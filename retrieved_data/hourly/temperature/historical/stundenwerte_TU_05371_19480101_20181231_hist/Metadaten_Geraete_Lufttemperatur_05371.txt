@@ -1,6 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-5371;Wasserkuppe;9.94;50.5;921;2;19480101;19840402;Thermograph;Temperaturmessung, konv.;eor;
-5371;Wasserkuppe;9.94;50.5;921;2;19840402;19920731;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-5371;Wasserkuppe;9.94;50.5;921;2;19920801;19961024;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-5371;Wasserkuppe;9.94;50.5;921;2;19961025;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

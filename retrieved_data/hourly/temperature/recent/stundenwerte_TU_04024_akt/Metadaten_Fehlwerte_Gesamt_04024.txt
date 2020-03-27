@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-4024;Putbus;TT_TU;01.01.1982-01:00;26.03.2020-23:00;3679;Gesamt_Messzeitraum;eor;                                                                                                                       
-4024;Putbus;RF_TU;01.01.1991-01:00;26.03.2020-23:00;8822;Gesamt_Messzeitraum;eor;                                                                                                                       

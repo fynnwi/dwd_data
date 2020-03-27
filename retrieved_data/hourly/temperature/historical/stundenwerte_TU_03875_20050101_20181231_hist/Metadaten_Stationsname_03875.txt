@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  3875;Parsberg/Oberpfalz                      ;19491029;20041231
-  3875;Parsberg/Oberpfalz-Eglwang              ;20050101;

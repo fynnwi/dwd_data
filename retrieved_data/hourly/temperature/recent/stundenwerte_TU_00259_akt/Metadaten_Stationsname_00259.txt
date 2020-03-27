@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-   259;Badenweiler                             ;18691201;20010831
-   259;Müllheim                                ;20030225;

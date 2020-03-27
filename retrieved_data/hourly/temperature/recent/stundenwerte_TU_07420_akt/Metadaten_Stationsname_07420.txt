@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  7420;Kreipitzsch bei Bad Kösen               ;20060501;20091231
-  7420;Naumburg/Saale-Kreipitzsch              ;20100101;

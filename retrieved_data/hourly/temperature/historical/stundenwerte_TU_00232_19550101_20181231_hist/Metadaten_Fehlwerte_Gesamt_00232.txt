@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-232;Augsburg;TT_TU;01.01.1955-01:00;06.03.2019-23:00;236;Gesamt_Messzeitraum;eor;                                                                                                                       
-232;Augsburg;RF_TU;01.01.1955-01:00;06.03.2019-23:00;274;Gesamt_Messzeitraum;eor;                                                                                                                       

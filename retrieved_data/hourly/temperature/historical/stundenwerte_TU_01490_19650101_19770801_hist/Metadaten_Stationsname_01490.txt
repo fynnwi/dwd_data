@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  1490;Friedrichshafen                         ;18510101;19801130
-  1490;Friedrichshafen                         ;19880901;

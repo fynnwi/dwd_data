@@ -1,6 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-3385;München-Nymphenburg;11.5;48.17;515;2;19820101;19910731;Thermograph;Temperaturmessung, konv.;eor;
-3385;München-Nymphenburg;11.5;48.17;515;2;19830401;19910731;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-3385;München-Nymphenburg;11.5;48.17;515;2;19910801;19990331;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-3385;München-Nymphenburg;11.5;48.17;515;2;19910801;19990331;Thermograph;Temperaturmessung, konv.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

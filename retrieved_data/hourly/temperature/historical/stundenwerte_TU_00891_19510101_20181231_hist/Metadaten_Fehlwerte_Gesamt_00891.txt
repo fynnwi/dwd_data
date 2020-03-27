@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-891;Cuxhaven;TT_TU;01.01.1951-01:00;06.03.2019-23:00;255;Gesamt_Messzeitraum;eor;                                                                                                                       
-891;Cuxhaven;RF_TU;01.01.1951-01:00;06.03.2019-23:00;287;Gesamt_Messzeitraum;eor;                                                                                                                       

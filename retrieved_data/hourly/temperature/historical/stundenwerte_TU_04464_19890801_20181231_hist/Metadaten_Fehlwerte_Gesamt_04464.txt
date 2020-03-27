@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-4464;Schleiz;TT_TU;01.08.1989-01:00;06.03.2019-23:00;2704;Gesamt_Messzeitraum;eor;                                                                                                                      
-4464;Schleiz;RF_TU;01.01.1991-01:00;06.03.2019-23:00;5146;Gesamt_Messzeitraum;eor;                                                                                                                      

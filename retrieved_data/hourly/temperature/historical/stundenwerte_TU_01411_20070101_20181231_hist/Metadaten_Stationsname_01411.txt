@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  1411;Frankenheim/Rhön                        ;18240501;20061231
-  1411;Birx/Rhön                               ;20070101;

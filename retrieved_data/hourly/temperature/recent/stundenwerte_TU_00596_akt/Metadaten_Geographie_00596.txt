@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   596;    5.00; 53.9895; 11.2016;19230101;19460930;Boltenhagen
-   596;    2.00; 53.9953; 11.1975;19461001;19480616;Boltenhagen
-   596;    2.00; 53.9810; 11.2295;19480617;19670630;Boltenhagen
-   596;   15.00; 54.0028; 11.1908;19670701;19670731;Boltenhagen
-   596;   15.00; 54.0028; 11.1908;19670801;        ;Boltenhagen

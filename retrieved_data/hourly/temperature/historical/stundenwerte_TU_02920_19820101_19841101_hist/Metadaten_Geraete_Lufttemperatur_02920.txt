@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-2920;Leiblfing;12.51;48.77;365;2;19820101;19971231;Thermograph;Temperaturmessung, konv.;eor;
-2920;Leiblfing;12.51;48.77;365;2;19840201;19971231;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

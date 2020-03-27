@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-3836;Ostheim v.d. Rhön;10.22;50.45;312;2;20060301;20160719;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-3836;Ostheim v.d. Rhön;10.22;50.45;312;2;20160720;20200326;EE33;Feuchtemessung, elektr.;eor;
-generiert: 27.03.2020 --  Deutscher Wetterdienst  --

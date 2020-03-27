@@ -1,5 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-2559;Kempten;10.34;47.72;705;2;19920429;20061126;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-2559;Kempten;10.33;47.72;705.2;2;20061127;20140406;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-2559;Kempten;10.33;47.72;705.2;2;20140407;20200326;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 27.03.2020 --  Deutscher Wetterdienst  --

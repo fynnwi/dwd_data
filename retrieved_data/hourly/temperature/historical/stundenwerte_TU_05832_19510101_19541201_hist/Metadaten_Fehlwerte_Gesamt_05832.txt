@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-5832;Dannenberg;TT_TU;01.01.1951-01:00;01.12.1954-00:00;3935;Gesamt_Messzeitraum;eor;                                                                                                                   
-5832;Dannenberg;RF_TU;01.01.1951-01:00;01.12.1954-00:00;1062;Gesamt_Messzeitraum;eor;                                                                                                                   

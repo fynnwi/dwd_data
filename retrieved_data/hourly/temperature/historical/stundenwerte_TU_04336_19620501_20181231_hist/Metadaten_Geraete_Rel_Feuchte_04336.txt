@@ -1,7 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-4336;Saarbrücken-Ensheim;7.11;49.22;323;2;19620501;19760228;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
-4336;Saarbrücken-Ensheim;7.11;49.22;323;2;19760301;19890228;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-4336;Saarbrücken-Ensheim;7.11;49.22;319;2;19890301;19891011;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-4336;Saarbrücken-Ensheim;7.11;49.21;320;2;19891012;19960623;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-4336;Saarbrücken-Ensheim;7.11;49.21;320;2;20080915;20190305;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

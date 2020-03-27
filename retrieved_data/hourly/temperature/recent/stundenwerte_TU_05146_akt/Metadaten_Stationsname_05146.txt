@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  5146;Uelzen-Ebstorf                          ;18861101;19790531
-  5146;Uelzen                                  ;19790601;19960831
-  5146;Uelzen                                  ;20030327;

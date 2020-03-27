@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   603;  159.00; 50.7355;  7.1936;19860701;19891231;Königswinter-Heiderhof
-   603;  159.00; 50.7355;  7.1936;19900101;19990301;Königswinter-Heiderhof
-   603;  159.00; 50.7349;  7.1931;19990302;20071101;Königswinter-Heiderhof
-   603;  159.00; 50.7349;  7.1931;20071102;20191001;Königswinter-Heiderhof
-   603;  143.60; 50.7290;  7.2047;20191002;        ;Königswinter-Heiderhof

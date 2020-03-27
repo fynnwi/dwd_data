@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  5097;Tribsees                                ;18900601;19720731
-  5097;Tribsees (Stadtwald)                    ;19720801;20041231
-  5097;Tribsees                                ;20050101;

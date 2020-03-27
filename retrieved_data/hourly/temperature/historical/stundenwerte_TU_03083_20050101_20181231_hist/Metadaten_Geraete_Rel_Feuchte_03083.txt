@@ -1,5 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-3083;Lübben-Blumenfelde;13.88;51.93;57;2;20050101;20151011;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-3083;Lübben-Blumenfelde;13.88;51.93;57;2;20151016;20170410;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-3083;Lübben-Blumenfelde;13.88;51.93;57;2;20170411;20190305;EE33;Feuchtemessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

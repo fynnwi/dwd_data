@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-13674;Waibstadt;8.91;49.29;236.6;2;20070801;20150414;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-13674;Waibstadt;8.91;49.29;236.6;2;20150415;20190305;EE33;Feuchtemessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

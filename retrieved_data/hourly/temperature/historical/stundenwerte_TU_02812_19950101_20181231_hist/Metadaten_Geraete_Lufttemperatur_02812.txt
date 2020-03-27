@@ -1,5 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-2812;Lahr;7.83;48.37;155;2;19950101;20061120;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-2812;Lahr;7.83;48.36;155;2;20061121;20070114;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-2812;Lahr;7.83;48.36;155;2;20061121;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

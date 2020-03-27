@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-954;UFS Deutsche Bucht;TT_TU;01.05.2000-08:00;03.09.2019-23:00;35373;Gesamt_Messzeitraum;eor;                                                                                                           
-954;UFS Deutsche Bucht;RF_TU;01.05.2000-08:00;03.09.2019-23:00;36665;Gesamt_Messzeitraum;eor;                                                                                                           

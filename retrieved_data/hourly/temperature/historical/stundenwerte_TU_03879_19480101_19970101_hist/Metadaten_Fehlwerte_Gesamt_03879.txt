@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-3879;Passau-Oberhaus;TT_TU;01.01.1948-01:00;01.01.1997-00:00;14;Gesamt_Messzeitraum;eor;                                                                                                                
-3879;Passau-Oberhaus;RF_TU;01.01.1948-01:00;01.01.1997-00:00;3;Gesamt_Messzeitraum;eor;                                                                                                                 

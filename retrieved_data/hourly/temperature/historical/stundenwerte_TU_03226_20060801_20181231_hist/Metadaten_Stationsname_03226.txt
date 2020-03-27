@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  3226;Mehringen                               ;19031001;20021231
-  3226;Mehringen                               ;20060511;20071231
-  3226;Aschersleben-Mehringen                  ;20080101;

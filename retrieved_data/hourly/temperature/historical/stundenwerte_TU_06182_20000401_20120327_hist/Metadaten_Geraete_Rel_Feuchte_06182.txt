@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-6182;Mallersdorf-Pfaffenberg;12.17;48.78;404;2;20000401;20040531;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-6182;Mallersdorf-Pfaffenberg;12.17;48.78;404;2;20040331;20120327;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

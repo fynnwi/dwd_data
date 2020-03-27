@@ -1,5 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  3234;Meiﬂen-Oberspaar                        ;19100301;19551231
-  3234;Meissen-Korbitz                         ;19560101;19980416
-  3234;Meiﬂen-Korbitz                          ;20030704;20050131
-  3234;Garsebach bei Meiﬂen                    ;20050201;

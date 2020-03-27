@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-1605;Genthin;TT_TU;01.01.1982-00:00;06.03.2019-23:00;2077;Gesamt_Messzeitraum;eor;                                                                                                                      
-1605;Genthin;RF_TU;02.04.1991-06:00;06.03.2019-23:00;6737;Gesamt_Messzeitraum;eor;                                                                                                                      

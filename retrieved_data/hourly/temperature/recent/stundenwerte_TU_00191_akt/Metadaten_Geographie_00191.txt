@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   191;  234.00; 49.9782;  9.9698;18840101;18971231;Arnstein-Müdesheim
-   191;  210.00; 49.9742;  9.9676;19470523;19480531;Arnstein-Müdesheim
-   191;  213.00; 49.9690;  9.9114;19860401;19860826;Arnstein-Müdesheim
-   191;  210.00; 49.9688;  9.9116;19860827;20050228;Arnstein-Müdesheim
-   191;  220.00; 49.9695;  9.9113;20050301;        ;Arnstein-Müdesheim

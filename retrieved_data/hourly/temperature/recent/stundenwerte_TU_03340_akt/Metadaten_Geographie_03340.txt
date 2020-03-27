@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3340;  230.00; 50.4402;  7.8305;18970601;19370930;Montabaur
-  3340;  252.00; 50.4375;  7.8202;19371001;19600531;Montabaur
-  3340;  252.00; 50.4375;  7.8207;19600601;19651203;Montabaur
-  3340;  265.00; 50.4383;  7.8061;20041103;        ;Montabaur

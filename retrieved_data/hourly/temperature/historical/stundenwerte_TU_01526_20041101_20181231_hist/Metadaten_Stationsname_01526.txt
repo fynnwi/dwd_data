@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  1526;Fulda                                   ;18661201;20110426
-  1526;Fulda-Horas                             ;20160608;

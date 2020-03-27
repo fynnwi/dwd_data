@@ -1,4 +1,7 @@
 .DS_Store
 .vscode
 .ipynb_checkpoints
-exported_data
+exported_data/
+retrieved_data/
+
+

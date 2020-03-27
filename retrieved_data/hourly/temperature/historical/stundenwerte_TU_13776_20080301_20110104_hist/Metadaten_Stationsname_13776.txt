@@ -1,2 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
- 13776;Hildesheim-Drispenstedt                 ;20071203;20110104

@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-2708;Kohlgrub, Bad (Rosshof);11.08;47.67;740;2;20060701;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

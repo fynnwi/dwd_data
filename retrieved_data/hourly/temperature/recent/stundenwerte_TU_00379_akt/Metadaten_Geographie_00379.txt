@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-   379;  330.00; 50.8921; 11.2786;19540701;19900930;Berka, Bad (Flugplatz)
-   379;  303.00; 50.9074; 11.2665;20160708;        ;Berka, Bad (Flugplatz)

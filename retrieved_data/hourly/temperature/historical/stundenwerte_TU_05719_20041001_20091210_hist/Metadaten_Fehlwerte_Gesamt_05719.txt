@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-5719;Remscheid;TT_TU;01.10.2004-00:00;10.12.2009-14:00;106;Gesamt_Messzeitraum;eor;                                                                                                                     
-5719;Remscheid;RF_TU;01.10.2004-00:00;10.12.2009-14:00;106;Gesamt_Messzeitraum;eor;                                                                                                                     

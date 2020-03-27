@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-   953;Deuselbach                              ;18980601;19141231
-   953;Deuselbach                              ;19200101;

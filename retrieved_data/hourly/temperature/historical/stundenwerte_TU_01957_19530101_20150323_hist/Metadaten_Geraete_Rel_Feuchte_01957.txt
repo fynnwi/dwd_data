@@ -1,6 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-1957;Halle-Kröllwitz;11.95;51.51;93;2;20030831;20080828;HYGROMER MP100;Feuchtemessung, elektr.;eor;
-1957;Halle-Kröllwitz;11.95;51.51;93;2;20080828;20110112;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-1957;Halle-Kröllwitz;11.95;51.51;93;2;20110117;20140818;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-1957;Halle-Kröllwitz;11.95;51.51;93;2;20140818;20150323;EE33;Feuchtemessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

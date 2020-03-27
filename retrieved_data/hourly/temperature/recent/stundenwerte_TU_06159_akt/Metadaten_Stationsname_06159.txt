@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  6159;Dörpen                                  ;19590227;19990927
-  6159;Dörpen (Schleuse)                       ;19990928;20081130
-  6159;Dörpen                                  ;20081201;

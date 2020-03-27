@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-5643;Wittstock-Rote Mühle;TT_TU;01.11.2004-00:00;06.03.2019-23:00;70;Gesamt_Messzeitraum;eor;                                                                                                           
-5643;Wittstock-Rote Mühle;RF_TU;01.11.2004-00:00;06.03.2019-23:00;75;Gesamt_Messzeitraum;eor;                                                                                                           

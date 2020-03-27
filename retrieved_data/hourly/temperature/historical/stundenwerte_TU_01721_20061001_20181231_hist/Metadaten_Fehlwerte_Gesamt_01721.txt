@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-1721;Gräfenberg-Kasberg;TT_TU;01.10.2006-00:00;06.03.2019-23:00;519;Gesamt_Messzeitraum;eor;                                                                                                            
-1721;Gräfenberg-Kasberg;RF_TU;01.10.2006-00:00;06.03.2019-23:00;519;Gesamt_Messzeitraum;eor;                                                                                                            

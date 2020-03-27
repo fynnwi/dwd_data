@@ -1,2 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  4584;Schwaigermoos                           ;19680201;19790531

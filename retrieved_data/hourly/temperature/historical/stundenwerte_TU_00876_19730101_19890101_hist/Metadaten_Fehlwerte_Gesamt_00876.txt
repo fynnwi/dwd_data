@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-876;Collmberg;TT_TU;01.01.1973-01:00;01.01.1989-00:00;26482;Gesamt_Messzeitraum;eor;                                                                                                                    
-876;Collmberg;RF_TU;01.01.1973-01:00;01.01.1986-00:00;26328;Gesamt_Messzeitraum;eor;                                                                                                                    

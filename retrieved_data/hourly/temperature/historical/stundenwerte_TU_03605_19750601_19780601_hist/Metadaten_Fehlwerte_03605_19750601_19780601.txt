@@ -1,5 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-3605;Niederstotzingen;TT_TU;15.12.1975-01:00;15.12.1975-07:00;7;;eor;                                                                                                                                   
-3605;Niederstotzingen;TT_TU;24.09.1977-00:00;25.09.1977-07:00;32;;eor;                                                                                                                                  
-3605;Niederstotzingen;RF_TU;24.09.1977-01:00;25.09.1977-07:00;31;;eor;                                                                                                                                  
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

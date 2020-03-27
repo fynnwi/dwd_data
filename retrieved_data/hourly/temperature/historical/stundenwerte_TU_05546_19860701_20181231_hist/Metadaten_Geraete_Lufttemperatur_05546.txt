@@ -1,5 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-5546;Wiesenburg;12.46;52.12;187;2;19860701;19920326;Thermograph;Temperaturmessung, konv.;eor;
-5546;Wiesenburg;12.46;52.12;187;2;19880210;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-5546;Wiesenburg;12.46;52.12;187;2;19920326;20071107;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

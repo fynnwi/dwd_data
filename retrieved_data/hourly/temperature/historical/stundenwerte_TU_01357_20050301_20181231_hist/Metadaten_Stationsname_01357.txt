@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  1357;Fichtelberg/Oberfranken                 ;19291001;19900808
-  1357;Fichtelberg/Oberfranken-Hüttstadl       ;19900809;

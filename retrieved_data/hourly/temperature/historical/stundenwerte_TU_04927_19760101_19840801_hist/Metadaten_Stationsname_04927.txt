@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  4927;Stuttgart-Stadt                         ;19490101;19501231
-  4927;Stuttgart-Stadt                         ;19510101;19840730

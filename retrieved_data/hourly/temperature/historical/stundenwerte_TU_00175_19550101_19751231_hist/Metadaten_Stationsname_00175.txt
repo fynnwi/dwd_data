@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-   175;Ansbach (Stadt)                         ;19511004;19600331
-   175;Ansbach                                 ;19600401;19760531

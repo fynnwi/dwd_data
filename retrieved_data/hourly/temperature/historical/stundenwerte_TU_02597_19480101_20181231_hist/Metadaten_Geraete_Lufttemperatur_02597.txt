@@ -1,7 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-2597;Kissingen, Bad;10.08;50.2;262;2;19510101;19540630;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-2597;Kissingen, Bad;10.08;50.2;262;2;19540701;19780423;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-2597;Kissingen, Bad;10.09;50.2;262;2;19780424;20041220;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-2597;Kissingen, Bad;10.08;50.22;281.8;2;20041221;20090620;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-2597;Kissingen, Bad;10.08;50.22;281.8;2;20090621;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

@@ -1,6 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-2290;Hohenpeiﬂenberg;11.01;47.8;977;2;19470101;19480430;Thermograph;Temperaturmessung, konv.;eor;
-2290;Hohenpeiﬂenberg;11.01;47.8;977;2;19480501;19751130;Thermograph;Temperaturmessung, konv.;eor;
-2290;Hohenpeiﬂenberg;11.01;47.8;977;2;19751201;19911201;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-2290;Hohenpeiﬂenberg;11.01;47.8;977;2;19931209;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

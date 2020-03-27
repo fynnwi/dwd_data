@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  4175;Rheinfelden                             ;19370520;20150106
-  4175;Rheinfelden                             ;20150910;

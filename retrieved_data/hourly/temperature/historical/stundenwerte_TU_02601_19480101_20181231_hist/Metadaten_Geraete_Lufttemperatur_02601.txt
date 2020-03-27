@@ -1,6 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-2601;Kleiner Feldberg/Taunus;8.45;50.22;805;2;19480101;19601130;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-2601;Kleiner Feldberg/Taunus;8.45;50.22;805;2;19601201;20060509;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-2601;Kleiner Feldberg/Taunus;8.45;50.22;805;2;19921001;20060509;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-2601;Kleiner Feldberg/Taunus;8.45;50.22;825.6;2;20060510;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

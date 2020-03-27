@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  4887;  734.00; 48.6654;  9.8655;19451001;19480731;Stötten
-  4887;  734.00; 48.6654;  9.8655;19480801;19941031;Stötten
-  4887;  733.76; 48.6656;  9.8648;19941101;20130107;Stötten
-  4887;  733.76; 48.6656;  9.8648;20130108;        ;Stötten

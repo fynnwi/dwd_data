@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-   450;Bernkastel                              ;19120101;20051031
-   450;Bernkastel-Kues                         ;20051101;

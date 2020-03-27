@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-5300;Waldems-Reinborn;TT_TU;01.07.2004-00:00;06.03.2019-23:00;22;Gesamt_Messzeitraum;eor;                                                                                                               
-5300;Waldems-Reinborn;RF_TU;01.07.2004-00:00;06.03.2019-23:00;22;Gesamt_Messzeitraum;eor;                                                                                                               

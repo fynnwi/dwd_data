@@ -1,5 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-3366;Mühldorf;12.5;48.28;405;2;19890501;20060510;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-3366;Mühldorf;12.5;48.28;405.6;2;20060511;20110417;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-3366;Mühldorf;12.5;48.28;405.6;2;20111118;20200326;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 27.03.2020 --  Deutscher Wetterdienst  --

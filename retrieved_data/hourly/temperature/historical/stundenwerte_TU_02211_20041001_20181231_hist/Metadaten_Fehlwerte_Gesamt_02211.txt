@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-2211;Hilgenroth;TT_TU;01.10.2004-00:00;06.03.2019-23:00;472;Gesamt_Messzeitraum;eor;                                                                                                                    
-2211;Hilgenroth;RF_TU;01.10.2004-00:00;06.03.2019-23:00;474;Gesamt_Messzeitraum;eor;                                                                                                                    

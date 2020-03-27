@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-   817;Frankenberg/Eder                        ;19510501;19960831
-   817;Burgwald-Bottendorf                     ;19960901;

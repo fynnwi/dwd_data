@@ -1,7 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3545;  293.00; 49.3400;  7.1900;18970401;19480731;Neunkirchen-Wellesweiler
-  3545;  240.00; 49.3394;  7.2258;19480801;19521130;Neunkirchen-Wellesweiler
-  3545;  268.00; 49.3458;  7.1838;19521201;19601031;Neunkirchen-Wellesweiler
-  3545;  236.00; 49.3446;  7.2292;19601101;19880914;Neunkirchen-Wellesweiler
-  3545;  236.00; 49.3449;  7.2297;19880915;20040721;Neunkirchen-Wellesweiler
-  3545;  236.00; 49.3440;  7.2297;20040722;        ;Neunkirchen-Wellesweiler

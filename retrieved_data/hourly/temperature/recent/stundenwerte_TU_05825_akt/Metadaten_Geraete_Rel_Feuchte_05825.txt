@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-5825;Berge;12.79;52.62;40;2;20040501;20151017;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-5825;Berge;12.79;52.62;40;2;20150729;20200326;EE33;Feuchtemessung, elektr.;eor;
-generiert: 27.03.2020 --  Deutscher Wetterdienst  --

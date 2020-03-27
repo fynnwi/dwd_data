@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-7420;Naumburg/Saale-Kreipitzsch;TT_TU;01.04.2007-00:00;06.03.2019-23:00;60;Gesamt_Messzeitraum;eor;                                                                                                     
-7420;Naumburg/Saale-Kreipitzsch;RF_TU;01.04.2007-00:00;06.03.2019-23:00;60;Gesamt_Messzeitraum;eor;                                                                                                     

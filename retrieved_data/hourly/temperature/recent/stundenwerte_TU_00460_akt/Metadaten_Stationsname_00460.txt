@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-   460;Berus                                   ;19490101;19500727
-   460;Berus                                   ;19500728;

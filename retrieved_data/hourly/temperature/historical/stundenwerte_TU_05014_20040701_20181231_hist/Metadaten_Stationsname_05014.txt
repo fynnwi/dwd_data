@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  5014;Teufelsmoor                             ;19510501;20040630
-  5014;Worpswede-Hüttenbusch                   ;20040701;

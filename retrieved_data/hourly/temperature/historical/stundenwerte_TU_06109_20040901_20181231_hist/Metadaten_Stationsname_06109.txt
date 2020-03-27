@@ -1,2 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  6109;Grambow-Schwennenz                      ;19981001;

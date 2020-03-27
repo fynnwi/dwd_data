@@ -1,2 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  5643;Wittstock-Rote Mühle                    ;18900101;

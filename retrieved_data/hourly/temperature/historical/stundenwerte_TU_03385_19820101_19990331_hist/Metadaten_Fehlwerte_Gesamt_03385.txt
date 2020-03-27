@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-3385;München-Nymphenburg;TT_TU;01.01.1982-01:00;31.03.1999-21:00;800;Gesamt_Messzeitraum;eor;                                                                                                           
-3385;München-Nymphenburg;RF_TU;01.01.1982-01:00;30.03.1999-21:00;638;Gesamt_Messzeitraum;eor;                                                                                                           

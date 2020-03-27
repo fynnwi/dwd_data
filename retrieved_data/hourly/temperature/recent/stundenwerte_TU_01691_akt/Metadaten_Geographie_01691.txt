@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1691;  151.00; 51.5145;  9.9321;17830101;19671214;Göttingen
-  1691;  175.00; 51.5415;  9.9477;19671215;19931109;Göttingen
-  1691;  167.00; 51.5003;  9.9506;19931110;20180425;Göttingen
-  1691;  167.42; 51.5002;  9.9507;20180426;        ;Göttingen

@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1246;   80.00; 51.8674;  8.0838;19330901;19651130;Ennigerloh-Ostenfelde
-  1246;   90.00; 51.8645;  8.0841;19651201;19740617;Ennigerloh-Ostenfelde
-  1246;   78.00; 51.8800;  8.0730;19740618;20091231;Ennigerloh-Ostenfelde
-  1246;  104.00; 51.8418;  8.0607;20150618;        ;Ennigerloh-Ostenfelde

@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-5871;Hahn;7.26;49.95;497;2;19981201;20200326;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 27.03.2020 --  Deutscher Wetterdienst  --

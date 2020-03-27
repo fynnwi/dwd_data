@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-598;Bonn;7.08;50.73;62;2;19490101;19570917;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

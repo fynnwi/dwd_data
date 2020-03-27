@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-5779;Zinnwald-Georgenfeld;TT_TU;01.01.1971-01:00;06.03.2019-23:00;8901;Gesamt_Messzeitraum;eor;                                                                                                         
-5779;Zinnwald-Georgenfeld;RF_TU;01.01.1971-01:00;06.03.2019-23:00;79245;Gesamt_Messzeitraum;eor;                                                                                                        

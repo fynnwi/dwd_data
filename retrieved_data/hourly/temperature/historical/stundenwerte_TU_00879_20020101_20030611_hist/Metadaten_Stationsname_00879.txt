@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-   879;Fliegerhorstwetterwarte Cottbus         ;19390101;19791231
-   879;Cottbus (Flugplatz)                     ;19800101;20030613

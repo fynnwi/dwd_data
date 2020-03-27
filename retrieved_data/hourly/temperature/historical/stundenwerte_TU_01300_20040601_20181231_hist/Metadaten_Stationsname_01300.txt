@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  1300;Eslohe                                  ;18910701;19991231
-  1300;Eslohe                                  ;20020912;

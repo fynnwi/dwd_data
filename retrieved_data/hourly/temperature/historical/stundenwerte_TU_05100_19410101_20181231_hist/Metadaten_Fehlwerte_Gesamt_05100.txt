@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-5100;Trier-Petrisberg;TT_TU;01.01.1941-01:00;06.03.2019-23:00;92293;Gesamt_Messzeitraum;eor;                                                                                                            
-5100;Trier-Petrisberg;RF_TU;01.01.1941-01:00;06.03.2019-23:00;92319;Gesamt_Messzeitraum;eor;                                                                                                            

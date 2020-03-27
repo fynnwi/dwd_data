@@ -1,5 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-7330;Arnsberg-Neheim;7.98;51.46;159;2;20051001;20090915;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-7330;Arnsberg-Neheim;7.98;51.46;159;2;20090916;20170517;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-7330;Arnsberg-Neheim;7.98;51.46;159;2;20170518;20190305;EE33;Feuchtemessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

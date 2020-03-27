@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-   979;Dillenburg                              ;18920701;19700531
-   979;Dillenburg-Niederscheld                 ;19700601;19830505
-   979;Dillenburg                              ;19830506;

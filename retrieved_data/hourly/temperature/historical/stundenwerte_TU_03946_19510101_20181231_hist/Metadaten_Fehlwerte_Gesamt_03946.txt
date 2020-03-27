@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-3946;Plauen;TT_TU;01.01.1951-01:00;06.03.2019-23:00;981;Gesamt_Messzeitraum;eor;                                                                                                                        
-3946;Plauen;RF_TU;01.01.1951-01:00;06.03.2019-23:00;81272;Gesamt_Messzeitraum;eor;                                                                                                                      

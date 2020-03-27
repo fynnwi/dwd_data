@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5750;  202.00; 51.0461; 12.1349;19520901;19990418;Zeitz
-  5750;  170.00; 51.0676; 12.1390;19990419;20031231;Zeitz
-  5750;  170.00; 51.0676; 12.1390;20040101;20060228;Zeitz
-  5750;  264.00; 51.0314; 12.1495;20060301;        ;Zeitz

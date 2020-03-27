@@ -1,7 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-2907;Leck;8.95;54.79;7.3;2;19940401;19940823;Thermograph;Temperaturmessung, konv.;eor;
-2907;Leck;8.95;54.79;7;2;19940824;19960430;Thermograph;Temperaturmessung, konv.;eor;
-2907;Leck;8.95;54.79;7;2;19960501;20010403;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-2907;Leck;8.95;54.79;7;2;19981217;20030325;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-2907;Leck;8.95;54.79;7;2;20031118;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

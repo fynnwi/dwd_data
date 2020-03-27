@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-1048;Dresden-Klotzsche;TT_TU;01.01.1973-01:00;06.03.2019-23:00;1019;Gesamt_Messzeitraum;eor;                                                                                                            
-1048;Dresden-Klotzsche;RF_TU;01.01.1973-01:00;06.03.2019-23:00;1030;Gesamt_Messzeitraum;eor;                                                                                                            

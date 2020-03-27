@@ -1,7 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-3287;Michelstadt-Vielbrunn;9.1;49.71;402;2;19871001;19891217;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-3287;Michelstadt-Vielbrunn;9.1;49.72;453;2;19891218;20061023;HYGROMER MP100;Feuchtemessung, elektr.;eor;
-3287;Michelstadt-Vielbrunn;9.1;49.72;453;2;19891218;20061023;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-3287;Michelstadt-Vielbrunn;9.1;49.72;453;2;20061023;20150408;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-3287;Michelstadt-Vielbrunn;9.1;49.72;453;2;20150409;20190305;EE33;Feuchtemessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

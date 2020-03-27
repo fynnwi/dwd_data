@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  3836;Ostheim vor der Rhön                    ;19010101;20000831
-  3836;Stockheim                               ;20000901;20010703
-  3836;Ostheim v.d. Rhön                       ;20051110;

@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-3679;Kiefersfelden-Gach;TT_TU;01.11.2006-00:00;06.03.2019-23:00;135;Gesamt_Messzeitraum;eor;                                                                                                            
-3679;Kiefersfelden-Gach;RF_TU;01.11.2006-00:00;06.03.2019-23:00;135;Gesamt_Messzeitraum;eor;                                                                                                            

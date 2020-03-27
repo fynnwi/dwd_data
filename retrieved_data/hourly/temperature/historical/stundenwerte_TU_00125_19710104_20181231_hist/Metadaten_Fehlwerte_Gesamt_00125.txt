@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-125;Altenstadt;TT_TU;02.01.2002-04:00;06.03.2019-23:00;50087;Gesamt_Messzeitraum;eor;                                                                                                                   
-125;Altenstadt;RF_TU;04.01.1971-06:00;06.03.2019-23:00;70006;Gesamt_Messzeitraum;eor;                                                                                                                   

@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-880;Cottbus;TT_TU;01.01.1956-01:00;06.03.2019-23:00;13277;Gesamt_Messzeitraum;eor;                                                                                                                      
-880;Cottbus;RF_TU;01.01.1961-01:00;06.03.2019-23:00;13288;Gesamt_Messzeitraum;eor;                                                                                                                      

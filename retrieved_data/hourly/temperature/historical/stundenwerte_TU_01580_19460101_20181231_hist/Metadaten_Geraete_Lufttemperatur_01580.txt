@@ -1,6 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-1580;Geisenheim;7.96;49.99;109;2;19460101;19830731;Thermograph;Temperaturmessung, konv.;eor;
-1580;Geisenheim;7.95;49.99;118;2;19830801;19971130;Thermograph;Temperaturmessung, konv.;eor;
-1580;Geisenheim;7.95;49.99;118;2;19971201;20061120;Thermograph;Temperaturmessung, konv.;eor;
-1580;Geisenheim;7.95;49.99;110.2;2;20061201;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

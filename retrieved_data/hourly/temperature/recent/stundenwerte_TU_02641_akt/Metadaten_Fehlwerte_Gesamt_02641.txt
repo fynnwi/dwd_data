@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-2641;Klitzschen bei Torgau;TT_TU;01.09.2004-00:00;26.03.2020-23:00;125;Gesamt_Messzeitraum;eor;                                                                                                         
-2641;Klitzschen bei Torgau;RF_TU;01.09.2004-00:00;26.03.2020-23:00;128;Gesamt_Messzeitraum;eor;                                                                                                         

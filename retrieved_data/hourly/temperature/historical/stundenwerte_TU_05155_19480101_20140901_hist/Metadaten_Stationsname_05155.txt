@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  5155;Ulm                                     ;19490101;19500731
-  5155;Ulm                                     ;19500801;20140901

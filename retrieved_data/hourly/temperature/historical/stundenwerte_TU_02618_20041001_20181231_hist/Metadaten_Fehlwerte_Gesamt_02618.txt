@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-2618;Kleiner Inselsberg;TT_TU;01.10.2004-00:00;06.03.2019-23:00;334;Gesamt_Messzeitraum;eor;                                                                                                            
-2618;Kleiner Inselsberg;RF_TU;01.10.2004-00:00;06.03.2019-23:00;334;Gesamt_Messzeitraum;eor;                                                                                                            

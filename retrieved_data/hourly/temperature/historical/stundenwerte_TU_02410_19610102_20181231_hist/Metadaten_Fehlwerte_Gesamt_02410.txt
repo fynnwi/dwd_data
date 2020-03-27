@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-2410;Ingolstadt (Flugplatz);TT_TU;02.01.1961-01:00;06.03.2019-23:00;77532;Gesamt_Messzeitraum;eor;                                                                                                      
-2410;Ingolstadt (Flugplatz);RF_TU;02.01.1961-01:00;06.03.2019-23:00;73343;Gesamt_Messzeitraum;eor;                                                                                                      

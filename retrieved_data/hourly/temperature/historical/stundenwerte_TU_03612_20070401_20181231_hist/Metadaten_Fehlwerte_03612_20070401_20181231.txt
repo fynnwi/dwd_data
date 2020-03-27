@@ -1,8 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-3612;Nienburg;TT_TU;16.10.2007-14:00;16.10.2007-14:00;1;;eor;                                                                                                                                           
-3612;Nienburg;TT_TU;10.08.2008-16:00;10.08.2008-16:00;1;;eor;                                                                                                                                           
-3612;Nienburg;TT_TU;27.07.2018-14:00;29.08.2018-09:00;788;;eor;                                                                                                                                         
-3612;Nienburg;RF_TU;16.10.2007-14:00;16.10.2007-14:00;1;;eor;                                                                                                                                           
-3612;Nienburg;RF_TU;10.08.2008-16:00;10.08.2008-16:00;1;;eor;                                                                                                                                           
-3612;Nienburg;RF_TU;27.07.2018-14:00;29.08.2018-09:00;788;;eor;                                                                                                                                         
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

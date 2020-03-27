@@ -1,6 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-222;Aue;12.71;50.59;391;2;19910101;20080630;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-222;Aue;12.71;50.59;391;2;20080701;20080701;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-222;Aue;12.71;50.59;387;2;20080702;20170816;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-222;Aue;12.71;50.59;387;2;20170816;20190305;EE33;Feuchtemessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

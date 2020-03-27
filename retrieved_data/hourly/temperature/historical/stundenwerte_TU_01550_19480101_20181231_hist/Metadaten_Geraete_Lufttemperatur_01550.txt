@@ -1,8 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-1550;Garmisch-Partenkirchen;;;;;19480101;19500131;Gerätetyp unbekannt;Temperaturmessung, konv.;eor;
-1550;Garmisch-Partenkirchen;11.1;47.49;704;2;19500201;19671227;Thermograph;Temperaturmessung, konv.;eor;
-1550;Garmisch-Partenkirchen;11.06;47.48;719;2;19671228;20010329;Thermograph;Temperaturmessung, konv.;eor;
-1550;Garmisch-Partenkirchen;11.06;47.48;719;2;19751101;20060606;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-1550;Garmisch-Partenkirchen;11.06;47.48;719;1.2;19901018;20060606;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-1550;Garmisch-Partenkirchen;11.06;47.48;719;2;20060607;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

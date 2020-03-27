@@ -1,7 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-5629;Wittenberg;TT_TU;01.01.1951-01:00;26.03.2020-23:00;33076;Gesamt_Messzeitraum;eor;                                                                                                                  
-5629;Wittenberg;RF_TU;01.01.1951-01:00;26.03.2020-23:00;33214;Gesamt_Messzeitraum;eor;                                                                                                                  
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-5629;Wittenberg;TT_TU;08.01.2020-11:00;09.01.2020-08:00;22;;eor;                                                                                                                                        
-5629;Wittenberg;RF_TU;08.01.2020-11:00;09.01.2020-08:00;22;;eor;                                                                                                                                        
-generiert: 27.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

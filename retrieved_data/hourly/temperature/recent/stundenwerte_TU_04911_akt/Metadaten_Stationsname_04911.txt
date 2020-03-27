@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  4911;Straubing                               ;19480801;19750630
-  4911;Straubing                               ;19940501;

@@ -1,4 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-5133;Twistetal-Mühlhausen;TT_TU;10.03.2019-18:00;12.03.2019-07:00;38;;eor;                                                                                                                              
-5133;Twistetal-Mühlhausen;RF_TU;10.03.2019-18:00;12.03.2019-07:00;38;;eor;                                                                                                                              
-generiert: 27.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

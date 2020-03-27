@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-   591;Vierkrug                                ;18880601;19460228
-   591;Schwanheide                             ;19460301;19461214
-   591;Boizenburg                              ;19461215;

@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-599;Bonn-Friesdorf;TT_TU;01.01.1984-01:00;01.12.1997-00:00;48960;Gesamt_Messzeitraum;eor;                                                                                                               
-599;Bonn-Friesdorf;RF_TU;01.01.1984-01:00;01.12.1997-00:00;48960;Gesamt_Messzeitraum;eor;                                                                                                               

@@ -1,6 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-5155;Ulm;9.98;48.4;480;2;19500801;19641007;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-5155;Ulm;9.96;48.39;522;2;19641008;19911209;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-5155;Ulm;9.95;48.38;566.8;2;19911210;19941016;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-5155;Ulm;9.95;48.38;566.8;2;20030915;20140901;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

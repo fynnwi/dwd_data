@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  4301;Kreuznach, Bad                          ;18510101;19951031
-  4301;Roxheim                                 ;19951101;20050228
-  4301;Kreuznach, Bad                          ;20050301;

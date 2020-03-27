@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-2456;Jever;TT_TU;17.10.2001-01:00;26.08.2005-12:00;1105;Gesamt_Messzeitraum;eor;                                                                                                                        
-2456;Jever;RF_TU;17.10.2001-01:00;26.08.2005-12:00;1108;Gesamt_Messzeitraum;eor;                                                                                                                        

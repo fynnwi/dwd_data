@@ -1,5 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5688;  880.00; 47.6984;  8.1073;19371108;19650630;Dachsberg-Wolpadingen
-  5688;  877.00; 47.7004;  8.1064;19650701;20070805;Dachsberg-Wolpadingen
-  5688;  877.00; 47.7003;  8.1064;20070806;20181031;Dachsberg-Wolpadingen
-  5688;  880.00; 47.7003;  8.1057;20181101;        ;Dachsberg-Wolpadingen

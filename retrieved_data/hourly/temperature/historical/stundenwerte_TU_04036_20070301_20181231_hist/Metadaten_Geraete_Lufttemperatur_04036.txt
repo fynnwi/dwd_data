@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-4036;Querfurt-Mühle Lodersleben;11.54;51.39;204;2;20070301;20070630;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-4036;Querfurt-Mühle Lodersleben;11.54;51.39;204;2;20070701;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

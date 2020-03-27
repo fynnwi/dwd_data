@@ -1,7 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-    91;  276.00; 50.7488;  9.2656;19000101;19050430;Alsfeld-Eifa
-    91;  249.00; 50.7488;  9.2656;19050501;19070131;Alsfeld-Eifa
-    91;  282.00; 50.7488;  9.2656;19070201;19180430;Alsfeld-Eifa
-    91;  272.00; 50.7488;  9.2656;19180501;19401231;Alsfeld-Eifa
-    91;  271.00; 50.7488;  9.2656;19410101;19781031;Alsfeld-Eifa
-    91;  300.00; 50.7446;  9.3450;19781101;        ;Alsfeld-Eifa

@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  1239;Engen                                   ;19860801;19980731
-  1239;Engen/Hegau                             ;20030625;20080930

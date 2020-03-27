@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-3362;Mühlacker;TT_TU;01.01.2002-01:00;06.03.2019-23:00;1241;Gesamt_Messzeitraum;eor;                                                                                                                    
-3362;Mühlacker;RF_TU;01.01.2002-01:00;06.03.2019-23:00;1248;Gesamt_Messzeitraum;eor;                                                                                                                    

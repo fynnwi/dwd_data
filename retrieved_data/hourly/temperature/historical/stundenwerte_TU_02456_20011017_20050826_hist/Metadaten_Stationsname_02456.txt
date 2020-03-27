@@ -1,6 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  2456;Jever                                   ;19400101;19511108
-  2456;Jever-Fliegerhorst                      ;19511109;19571031
-  2456;Jever-Feldhausen                        ;19571101;19661031
-  2456;Jever-Rahrdum                           ;19661101;19700831
-  2456;Jever                                   ;19700901;

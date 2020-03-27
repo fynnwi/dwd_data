@@ -1,5 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-2522;Karlsruhe;8.38;49.02;114;2;19480101;19771130;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
-2522;Karlsruhe;8.36;49.04;111.6;2;19771201;19830201;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
-2522;Karlsruhe;8.36;49.04;111.6;2;19860401;20081101;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

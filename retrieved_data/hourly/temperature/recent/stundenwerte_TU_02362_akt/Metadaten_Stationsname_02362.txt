@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  2362;Hümmerich                               ;19821001;19950228
-  2362;Hümmerich                               ;20030522;

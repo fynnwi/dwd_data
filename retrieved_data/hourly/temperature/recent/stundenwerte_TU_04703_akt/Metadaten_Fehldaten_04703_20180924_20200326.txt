@@ -1,7 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-4703;Sigmaringen-Laiz;TT_TU;01.11.2002-03:00;26.03.2020-23:00;1290;Gesamt_Messzeitraum;eor;                                                                                                             
-4703;Sigmaringen-Laiz;RF_TU;01.11.2002-03:00;26.03.2020-23:00;1290;Gesamt_Messzeitraum;eor;                                                                                                             
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
-4703;Sigmaringen-Laiz;TT_TU;15.06.2019-21:00;16.06.2019-07:00;11;;eor;                                                                                                                                  
-4703;Sigmaringen-Laiz;RF_TU;15.06.2019-21:00;16.06.2019-07:00;11;;eor;                                                                                                                                  
-generiert: 27.03.2020 --  Deutscher Wetterdienst  --                                                                                                                                                    

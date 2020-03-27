@@ -1,2 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  3478;Neubrandenburg                          ;19270101;20050817

@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-   760;Buchholz in der Nordheide               ;19510101;20040531
-   760;Rosengarten-Klecken                     ;20150701;

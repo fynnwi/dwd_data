@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-7099;Liebenburg-Othfresen;10.4;52.01;187;2;20041101;20170918;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-7099;Liebenburg-Othfresen;10.4;52.01;187;2;20170919;20190305;EE33;Feuchtemessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

@@ -1,8 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-5426;Weinbiet;8.12;49.38;553;2;19540101;19820101;Thermograph;Temperaturmessung, konv.;eor;
-5426;Weinbiet;8.12;49.38;553;2;19830101;19931027;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-5426;Weinbiet;8.12;49.38;553;2;19931001;20080925;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-5426;Weinbiet;8.12;49.38;553;2;20080926;20090211;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-5426;Weinbiet;8.12;49.38;553;2;20090227;20090702;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-5426;Weinbiet;8.12;49.38;553;2;20090706;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

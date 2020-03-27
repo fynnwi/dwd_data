@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  5404;Weihenstephan                           ;19290601;20081109
-  5404;Weihenstephan-Dürnast                   ;20081110;

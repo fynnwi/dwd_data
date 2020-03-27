@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-7244;Neuglobsow (HM);TT_TU;01.01.1981-01:00;30.09.2004-23:00;782;Gesamt_Messzeitraum;eor;                                                                                                               
-7244;Neuglobsow (HM);RF_TU;01.11.1991-00:00;30.09.2004-23:00;784;Gesamt_Messzeitraum;eor;                                                                                                               

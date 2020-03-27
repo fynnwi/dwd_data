@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-555;Bochum;TT_TU;01.01.2008-00:00;01.11.2018-06:00;804;Gesamt_Messzeitraum;eor;                                                                                                                         
-555;Bochum;RF_TU;01.01.2008-00:00;01.11.2018-06:00;906;Gesamt_Messzeitraum;eor;                                                                                                                         

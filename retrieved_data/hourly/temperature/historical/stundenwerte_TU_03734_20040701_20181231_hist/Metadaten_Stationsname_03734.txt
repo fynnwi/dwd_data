@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  3734;Eichelberg                              ;19371101;19830630
-  3734;Obersulm-Eichelberg                     ;19830701;19940531
-  3734;Obersulm-Willsbach                      ;19940601;

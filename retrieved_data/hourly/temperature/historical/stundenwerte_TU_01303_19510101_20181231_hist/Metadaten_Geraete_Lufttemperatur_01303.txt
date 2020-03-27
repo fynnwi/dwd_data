@@ -1,8 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-1303;Essen-Mülheim;6.94;51.41;120;2;19510101;19650711;Thermograph;Temperaturmessung, konv.;eor;
-1303;Essen-Bredeney;6.97;51.41;153.5;2;19650712;19850526;Thermograph;Temperaturmessung, konv.;eor;
-1303;Essen-Bredeney;6.97;51.41;152;2;19850527;20000725;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-1303;Essen-Bredeney;6.97;51.41;152;2;19850527;20000725;Thermograph;Temperaturmessung, konv.;eor;
-1303;Essen-Bredeney;6.97;51.4;150;2;20000726;20051207;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-1303;Essen-Bredeney;6.97;51.4;150;2;20051208;20190305;PT 100 (Luft);Temperaturmessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

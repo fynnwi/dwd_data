@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-3031;Lippstadt-Bökenförde;TT_TU;01.07.2004-00:00;06.03.2019-23:00;5;Gesamt_Messzeitraum;eor;                                                                                                            
-3031;Lippstadt-Bökenförde;RF_TU;01.07.2004-00:00;06.03.2019-23:00;5;Gesamt_Messzeitraum;eor;                                                                                                            

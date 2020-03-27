@@ -1,9 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5440;  422.60; 49.0273; 10.9820;18760601;19091008;Weiﬂenburg-Emetzheim
-  5440;  422.60; 49.0273; 10.9820;19091009;19210323;Weiﬂenburg-Emetzheim
-  5440;  422.60; 49.0273; 10.9820;19210324;19480430;Weiﬂenburg-Emetzheim
-  5440;  435.00; 49.0273; 10.9820;19480501;19570904;Weiﬂenburg-Emetzheim
-  5440;  422.00; 49.0193; 10.9604;19570905;20080615;Weiﬂenburg-Emetzheim
-  5440;  422.00; 49.0193; 10.9604;20080616;20100308;Weiﬂenburg-Emetzheim
-  5440;  422.00; 49.0193; 10.9604;20100309;20140930;Weiﬂenburg-Emetzheim
-  5440;  439.30; 49.0115; 10.9308;20141001;        ;Weiﬂenburg-Emetzheim

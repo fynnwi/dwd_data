@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  3927;Pfullendorf                             ;19561001;19840930
-  3927;Pfullendorf-Brunnhausen                 ;19841001;20031104
-  3927;Pfullendorf                             ;20031105;

@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-5717;Wuppertal-Buchenhofen;TT_TU;01.09.2006-00:00;06.03.2019-23:00;545;Gesamt_Messzeitraum;eor;                                                                                                         
-5717;Wuppertal-Buchenhofen;RF_TU;01.09.2006-00:00;06.03.2019-23:00;545;Gesamt_Messzeitraum;eor;                                                                                                         

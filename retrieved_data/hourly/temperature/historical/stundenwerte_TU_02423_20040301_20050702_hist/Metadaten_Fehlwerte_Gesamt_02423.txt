@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-2423;Isny;TT_TU;01.03.2004-02:00;02.07.2005-00:00;1396;Gesamt_Messzeitraum;eor;                                                                                                                         
-2423;Isny;RF_TU;01.03.2004-02:00;02.07.2005-00:00;1396;Gesamt_Messzeitraum;eor;                                                                                                                         

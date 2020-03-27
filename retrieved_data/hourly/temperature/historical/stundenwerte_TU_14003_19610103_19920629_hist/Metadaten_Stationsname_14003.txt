@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
- 14003;Kaufbeuren (Flugplatz)                  ;19390820;19450228
- 14003;Kaufbeuren (Flugplatz)                  ;19571214;19920630

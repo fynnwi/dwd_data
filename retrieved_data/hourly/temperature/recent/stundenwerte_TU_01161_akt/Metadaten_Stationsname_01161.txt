@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  1161;Eichstätt                               ;19010301;20000630
-  1161;Eichstätt-Landershofen                  ;20040707;

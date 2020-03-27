@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-3234;Garsebach bei Meiﬂen;TT_TU;01.02.2005-00:00;26.03.2020-23:00;112;Gesamt_Messzeitraum;eor;                                                                                                          
-3234;Garsebach bei Meiﬂen;RF_TU;01.02.2005-00:00;26.03.2020-23:00;112;Gesamt_Messzeitraum;eor;                                                                                                          

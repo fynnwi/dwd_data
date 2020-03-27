@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-1833;Grosser Falkenstein;13.28;49.09;1307;2;19480101;19821031;Thermograph;Temperaturmessung, konv.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

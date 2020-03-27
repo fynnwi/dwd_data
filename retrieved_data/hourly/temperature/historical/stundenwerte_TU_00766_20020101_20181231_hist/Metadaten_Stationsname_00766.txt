@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-   766;Büchel (Flugplatz)                      ;19581201;19991231
-   766;Büchel (Flugplatz)                      ;20000101;

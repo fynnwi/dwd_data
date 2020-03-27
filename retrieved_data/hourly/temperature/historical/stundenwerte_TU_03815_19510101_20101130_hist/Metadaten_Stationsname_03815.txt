@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  3815;Osnabrück                               ;19490101;19520131
-  3815;Osnabrück                               ;19520201;20101130

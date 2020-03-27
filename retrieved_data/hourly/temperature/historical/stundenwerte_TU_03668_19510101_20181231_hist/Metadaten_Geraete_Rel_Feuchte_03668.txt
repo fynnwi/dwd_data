@@ -1,9 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-3668;Nürnberg;11.08;49.49;310.4;2;19550407;19951204;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-3668;Nürnberg;11.05;49.5;314;2;19951205;20050608;HYGROMER MP100;Feuchtemessung, elektr.;eor;
-3668;Nürnberg;11.05;49.5;314;2;19951205;20010926;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-3668;Nürnberg;11.05;49.5;314;2;20050608;20060723;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-3668;Nürnberg;11.05;49.5;314;2;20060724;20060928;HYGROMER MP100;Feuchtemessung, elektr.;eor;
-3668;Nürnberg;11.05;49.5;314;2;20060929;20150122;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-3668;Nürnberg;11.05;49.5;314;2;20150123;20190305;EE33;Feuchtemessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-6266;Huy-Pabstorf;TT_TU;01.09.2004-00:00;26.03.2020-23:00;320;Gesamt_Messzeitraum;eor;                                                                                                                  
-6266;Huy-Pabstorf;RF_TU;01.09.2004-00:00;26.03.2020-23:00;320;Gesamt_Messzeitraum;eor;                                                                                                                  

@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-   167;Anklam                                  ;18900501;20031231
-   167;Anklam                                  ;20040103;

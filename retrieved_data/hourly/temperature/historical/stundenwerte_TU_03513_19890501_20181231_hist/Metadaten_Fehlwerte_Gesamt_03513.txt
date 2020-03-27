@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-3513;Neuhaus am Rennweg;TT_TU;01.05.1989-01:00;06.03.2019-23:00;137;Gesamt_Messzeitraum;eor;                                                                                                            
-3513;Neuhaus am Rennweg;RF_TU;01.05.1989-01:00;06.03.2019-23:00;326;Gesamt_Messzeitraum;eor;                                                                                                            

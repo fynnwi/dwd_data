@@ -1,2 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  1281;  284.00; 49.5653; 10.9729;19820101;20010430;Erlangen-Frauenaurach

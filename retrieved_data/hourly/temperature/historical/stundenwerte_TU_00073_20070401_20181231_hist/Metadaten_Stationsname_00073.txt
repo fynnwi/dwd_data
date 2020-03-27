@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-    73;Aldersbach/Aidenbach                    ;19080818;19790831
-    73;Aldersbach                              ;19790901;20070331
-    73;Aldersbach-Kriestorf                    ;20070401;

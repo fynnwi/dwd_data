@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  5719;Wuppertal-Ronsdorf                      ;19490101;19710630
-  5719;Wuppertal-Ronsdorf                      ;20030812;20040930
-  5719;Remscheid                               ;20041001;20091210

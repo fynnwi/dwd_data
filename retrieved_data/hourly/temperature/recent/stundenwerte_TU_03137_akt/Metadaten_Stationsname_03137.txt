@@ -1,5 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  3137;Mainz-Uni                               ;18630101;19560331
-  3137;Mainz-Weisenau                          ;19560401;19710930
-  3137;Mainz                                   ;19711001;20080331
-  3137;Mainz-Lerchenberg (ZDF)                 ;20080401;

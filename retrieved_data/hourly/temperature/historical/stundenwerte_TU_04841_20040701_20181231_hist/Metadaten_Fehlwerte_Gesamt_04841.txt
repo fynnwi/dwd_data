@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-4841;Steinau, Kr. Cuxhaven;TT_TU;01.07.2004-00:00;06.03.2019-23:00;12;Gesamt_Messzeitraum;eor;                                                                                                          
-4841;Steinau, Kr. Cuxhaven;RF_TU;01.07.2004-00:00;06.03.2019-23:00;13;Gesamt_Messzeitraum;eor;                                                                                                          

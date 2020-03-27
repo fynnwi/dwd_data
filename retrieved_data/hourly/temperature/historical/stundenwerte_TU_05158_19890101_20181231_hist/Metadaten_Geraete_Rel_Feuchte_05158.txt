@@ -1,7 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-5158;Ummendorf;11.18;52.16;162;2;19910101;20060908;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
-5158;Ummendorf;11.18;52.16;162;2;20011011;20060908;HYGROMER MP100;Feuchtemessung, elektr.;eor;
-5158;Ummendorf;11.18;52.16;162;2;20060908;20070630;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-5158;Ummendorf;11.18;52.16;162;2;20070701;20140717;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-5158;Ummendorf;11.18;52.16;162;2;20140717;20190305;EE33;Feuchtemessung, elektr.;eor;
-generiert: 07.03.2019 --  Deutscher Wetterdienst  --

@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  3426;Muskau, Bad                             ;18870701;19901231
-  3426;Muskau, Bad                             ;19941220;

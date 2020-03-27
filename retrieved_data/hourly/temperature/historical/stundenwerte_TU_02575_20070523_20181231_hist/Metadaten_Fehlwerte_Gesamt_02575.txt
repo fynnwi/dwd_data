@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-2575;Kirchberg/Jagst-Herboldshausen;TT_TU;23.05.2007-09:00;06.03.2019-23:00;3;Gesamt_Messzeitraum;eor;                                                                                                  
-2575;Kirchberg/Jagst-Herboldshausen;RF_TU;23.05.2007-09:00;06.03.2019-23:00;3;Gesamt_Messzeitraum;eor;                                                                                                  

@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-222;Aue;TT_TU;01.01.1982-00:00;06.03.2019-23:00;771;Gesamt_Messzeitraum;eor;                                                                                                                            
-222;Aue;RF_TU;01.01.1991-01:00;06.03.2019-23:00;2610;Gesamt_Messzeitraum;eor;                                                                                                                           

@@ -1,4 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-4706;Simbach/Inn;13.03;48.27;357.5;2;20050301;20190812;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-4706;Simbach/Inn;13.03;48.27;357.5;2;20190813;20200326;EE33;Feuchtemessung, elektr.;eor;
-generiert: 27.03.2020 --  Deutscher Wetterdienst  --

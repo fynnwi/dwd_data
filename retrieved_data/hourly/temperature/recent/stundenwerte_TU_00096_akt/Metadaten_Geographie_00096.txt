@@ -1,3 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-    96;   40.00; 52.9479; 12.8622;19940501;20011231;Neuruppin-Alt Ruppin
-    96;   49.84; 52.9437; 12.8518;20180703;        ;Neuruppin-Alt Ruppin

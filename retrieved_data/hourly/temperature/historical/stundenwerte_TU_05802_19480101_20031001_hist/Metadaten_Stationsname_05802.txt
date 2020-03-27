@@ -1,3 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  5802;Zwiesel                                 ;19080801;19641208
-  5802;Zwieselberg                             ;19641209;20030930

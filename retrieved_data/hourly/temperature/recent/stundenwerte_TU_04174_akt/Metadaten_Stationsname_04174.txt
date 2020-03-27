@@ -1,2 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  4174;Rheine-Bentlage                         ;19601118;20171220

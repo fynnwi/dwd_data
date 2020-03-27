@@ -1,3 +1,0 @@
-Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
-6158;Weidenbach-Weiherschneidbach;TT_TU;01.11.2004-00:00;06.03.2019-23:00;233;Gesamt_Messzeitraum;eor;                                                                                                  
-6158;Weidenbach-Weiherschneidbach;RF_TU;01.11.2004-00:00;06.03.2019-23:00;233;Gesamt_Messzeitraum;eor;                                                                                                  
