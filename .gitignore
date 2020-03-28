@@ -3,5 +3,6 @@
 .ipynb_checkpoints
 exported_data/
 retrieved_data/
-
+raw_data/
+processed_data/
 
