@@ -1,153 +1,146 @@
-import plotly.graph_objs as go
+import plotly.graph_objects as go
+
 import pandas as pd
-import numpy as np
 
-token = "pk.eyJ1IjoiZnlubndpIiwiYSI6ImNrODk3YmF6MzAzcDczbWs5NXdhaGpyNzYifQ.vHweJb-1hjDeE21tTs7tGQ"
+url = "https://raw.githubusercontent.com/plotly/datasets/master/gapminderDataFiveYear.csv"
+dataset = pd.read_csv(url)
 
-# load data
-df = pd.read_csv("exported_data/stations.csv")
+years = ["1952", "1962", "1967", "1972", "1977", "1982", "1987", "1992", "1997", "2002",
+         "2007"]
 
-lats = df['latitude']
-lons = df['longitude']
-ids = df['station_id']
-names = df['state']
-states = df['state']
-altitudes = df['altitude']
-
-# create some extra data for testing
-temps = np.random.uniform(0, 40, len(altitudes))
-temps2 = [x + 5 for x in temps]
-temps3 = [x + 10 for x in temps]
-
-
-
-
-
-
-
-
-
-
-
-# create a figure
-fig = go.Figure()
-
-# define my markers
-temp_marker = go.scattermapbox.Marker(
-    size=12,
-    color=temps,
-    colorscale="thermal",
-    opacity=0.8
-)
-
-temp_marker2 = go.scattermapbox.Marker(
-    size=15,
-    color=temps2,
-    colorscale="thermal",
-    opacity=0.8
-)
-
-temp_marker3 = go.scattermapbox.Marker(
-    size=18,
-    color=temps3,
-    colorscale="thermal",
-    opacity=0.8
-)
-
-
-altitude_marker = go.scattermapbox.Marker(
-    size=12,
-    color=altitudes,
-    colorscale="agsunset",
-    opacity=0.8
-)
-
-
-# create a trace
-trace = go.Scattermapbox(
-    lat=lats,
-    lon=lons,
-    mode='markers',
-    marker=temp_marker,
-    text=temps
-)
-
-fig.add_trace(trace)
-
-# Mapbox
-my_mapbox = {
-    'accesstoken': token,
-    'style': 'basic',
-    'zoom': 5,
-    'center': {
-        'lon': 10.02,
-        'lat': 51.13
-    }
+# make list of continents
+continents = []
+for continent in dataset["continent"]:
+    if continent not in continents:
+        continents.append(continent)
+# make figure
+fig_dict = {
+    "data": [],
+    "layout": {},
+    "frames": []
 }
 
-fig.update_layout(
-    title="DWD Stations in Germany",
-    mapbox=my_mapbox,
-    autosize=True)
-
-
-# Slider
-steps = [
+# fill in most of layout
+fig_dict["layout"]["xaxis"] = {"range": [30, 85], "title": "Life Expectancy"}
+fig_dict["layout"]["yaxis"] = {"title": "GDP per Capita", "type": "log"}
+fig_dict["layout"]["hovermode"] = "closest"
+fig_dict["layout"]["sliders"] = {
+    "args": [
+        "transition", {
+            "duration": 400,
+            "easing": "cubic-in-out"
+        }
+    ],
+    "initialValue": "1952",
+    "plotlycommand": "animate",
+    "values": years,
+    "visible": True
+}
+fig_dict["layout"]["updatemenus"] = [
     {
-        'visible': True,
-        'method': "restyle",
-        'args': ['marker', temp_marker],
-        'label': "1"
-    },
-    {
-        'visible': True,
-        'method': "restyle",
-        'args': ['marker', temp_marker2],
-        'label': "2"
-    },
-    {
-        'visible': True,
-        'method': "restyle",
-        'args': ['marker', temp_marker3],
-        'label': "3"
+        "buttons": [
+            {
+                "args": [None, {"frame": {"duration": 500, "redraw": False},
+                                "fromcurrent": True, "transition": {"duration": 300,
+                                                                    "easing": "sin"}}],
+                "label": "Play",
+                "method": "animate"
+            },
+            {
+                "args": [[None], {"frame": {"duration": 0, "redraw": False},
+                                  "mode": "immediate",
+                                  "transition": {"duration": 0}}],
+                "label": "Pause",
+                "method": "animate"
+            }
+        ],
+        "direction": "left",
+        "pad": {"r": 10, "t": 87},
+        "showactive": False,
+        "type": "buttons",
+        "x": 0.1,
+        "xanchor": "right",
+        "y": 0,
+        "yanchor": "top"
     }
 ]
 
+sliders_dict = {
+    "active": 0,
+    "yanchor": "top",
+    "xanchor": "left",
+    "currentvalue": {
+        "font": {"size": 20},
+        "prefix": "Year:",
+        "visible": True,
+        "xanchor": "right"
+    },
+    "transition": {"duration": 300, "easing": "cubic-in-out"},
+    "pad": {"b": 10, "t": 50},
+    "len": 0.9,
+    "x": 0.1,
+    "y": 0,
+    "steps": []
+}
 
-sliders = [{
-    'active': 0,
-    'steps': steps,
-}]
+# make data
+year = 1952
+for continent in continents:
+    dataset_by_year = dataset[dataset["year"] == year]
+    dataset_by_year_and_cont = dataset_by_year[
+        dataset_by_year["continent"] == continent]
 
-fig.update_layout(sliders=sliders)
+    data_dict = {
+        "x": list(dataset_by_year_and_cont["lifeExp"]),
+        "y": list(dataset_by_year_and_cont["gdpPercap"]),
+        "mode": "markers",
+        "text": list(dataset_by_year_and_cont["country"]),
+        "marker": {
+            "sizemode": "area",
+            "sizeref": 200000,
+            "size": list(dataset_by_year_and_cont["pop"])
+        },
+        "name": continent
+    }
+    fig_dict["data"].append(data_dict)
+
+# make frames
+for year in years:
+    frame = {"data": [], "name": str(year)}
+    for continent in continents:
+        dataset_by_year = dataset[dataset["year"] == int(year)]
+        dataset_by_year_and_cont = dataset_by_year[
+            dataset_by_year["continent"] == continent]
+
+        data_dict = {
+            "x": list(dataset_by_year_and_cont["lifeExp"]),
+            "y": list(dataset_by_year_and_cont["gdpPercap"]),
+            "mode": "markers",
+            "text": list(dataset_by_year_and_cont["country"]),
+            "marker": {
+                "sizemode": "area",
+                "sizeref": 200000,
+                "size": list(dataset_by_year_and_cont["pop"]),
+                "color": "#ff0000"
+            },
+            "name": continent
+        }
+        frame["data"].append(data_dict)
+        
+    fig_dict["frames"].append(frame)
+    slider_step = {"args": [
+        [year],
+        {"frame": {"duration": 300, "redraw": False},
+         "mode": "immediate",
+         "transition": {"duration": 300}}
+    ],
+        "label": year,
+        "method": "animate"}
+    sliders_dict["steps"].append(slider_step)
 
 
-# Add dropdown
-dropdown = [
-    dict(
-        buttons=list([
-            dict(
-                args=["marker", temp_marker],
-                label="temperatures",
-                method="restyle"
-            ),
-            dict(
-                args=["marker", altitude_marker],
-                label="altitudes",
-                method="restyle"
-            )
-        ]),
-        direction="left",
-        #pad={"r": 10, "t": 20, 'l': 30, 'b': 40},
-        showactive=True,
-        x=0.9,
-        xanchor="left",
-        y=1.1,
-        yanchor="top"
-    ),
-]
+fig_dict["layout"]["sliders"] = [sliders_dict]
 
+fig = go.Figure(fig_dict)
 
-#fig.update_layout(updatemenus=dropdown)
-
-fig.show()
+fig.write_html("out.html")
