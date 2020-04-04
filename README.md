@@ -1,5 +1,10 @@
 # Deutscher Wetterdienst Open Data Scraping
 
+This repository containes a Jupyter notebook on how to scrape weather data from the Open Data server of the DWD.
+
+A visualization of some of the results can be seen on [https://fynnwi.github.io/](https://fynnwi.github.io/).
+
+---
 Since 2017, _Deutscher Wetterdienst_ (German Meteorological Service) publishes a lot of its measurements and data publicly available to its [Open Data Server](https://opendata.dwd.de/). An easy access through an API is currently not available, but instead we can browse the server directory tree where tons of data are stored as zip files.
 
 The published data contains weather forecasts from various models, storm warnings, historical climate data and much more. Climate data is published in the directory [/climate_environment/CDC/](https://opendata.dwd.de/climate_environment/CDC/).
