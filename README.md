@@ -1,5 +1,7 @@
 # Deutscher Wetterdienst Open Data Scraping
 
+test
+
 This repository containes a Jupyter notebook on how to scrape weather data from the Open Data server of the DWD, as well as a notebook on how to visualize the retrieved data using the Plotly library.
 
 A visualization of some of the results: [https://fynnwi.github.io/](https://fynnwi.github.io/).
