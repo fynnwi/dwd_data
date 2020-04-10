@@ -1,6 +1,5 @@
 # Deutscher Wetterdienst Open Data Scraping
 
-test
 
 This repository containes a Jupyter notebook on how to scrape weather data from the Open Data server of the DWD, as well as a notebook on how to visualize the retrieved data using the Plotly library.
 
@@ -32,4 +31,4 @@ Stations_id | von_datum | bis_datum | Stationshoehe | geoBreite | geoLaenge | St
 station id | start date | end date | altitude | latitude | longitude | station name | state
 ... | ... | ... | ... | ... | ... | ... | ...
 
-At the end, we will have a list of 608 weather stations and their locations, as well as the history of the hourly temperature & humidity measurements of these stations.
+At the end, we will have a list of 608 weather stations and their locations, as well as the history of the hourly temperature & humidity measurements of these stations.˚
