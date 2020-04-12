@@ -1,5 +1,7 @@
 import argparse
-import dwdapi.dwd.products as products
+
+from dwdapi.dwd.temperature_hourly import TemperatureHourly
+
 
 
 if __name__ == '__main__':
@@ -21,7 +23,7 @@ if __name__ == '__main__':
                     help='download data for the last n days', type=int)
 
     args = parser.parse_args()
-    print("VM arguments:", args)
+    #print("VM arguments:", args)
 
 
     # check if arguments are valid
@@ -37,6 +39,8 @@ if __name__ == '__main__':
 
 
 
-    product = products.DWDProduct(args.product, load_all=args.load_all, last=args.last)
+    # TODO: build mechanism to instantiate appropriate class
+    product = TemperatureHourly(args.product, load_all=args.load_all, last=args.last)
+    product.download()
     product.print()
 
