@@ -37,11 +37,6 @@ if __name__ == '__main__':
 
 
 
-    product = products.DWDProduct(args.product)
+    product = products.DWDProduct(args.product, load_all=args.load_all, last=args.last)
     product.print()
 
-
-
-    # TODO implement the rest also
-    if args.load_all is True or args.last > 500:
-        warnings.warn("Loading data older than 500 days is not yet implemented! Only data from last 500 days will be loaded.")
