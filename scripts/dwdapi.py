@@ -2,6 +2,7 @@ import argparse
 import warnings
 import os
 from pathlib import Path
+import shutil
 
 import requests
 from bs4 import BeautifulSoup
@@ -26,7 +27,7 @@ group.add_argument('--last', dest='last', metavar='n',
                    help='download data for the last n days', type=int)
 
 arg_dict = vars(parser.parse_args())
-print(arg_dict)
+print("VM arguments:", arg_dict)
 
 
 # check if arguments are valid
@@ -55,6 +56,36 @@ if arg_dict['load_all'] is True or arg_dict['last'] > 500:
 
 
 
+# DWD Open Data server products
+all_products = {}
+all_products['temp_hourly'] = {
+    'rec': {
+        'url': "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/",
+        'prefix': "stundenwerte_TU_",
+        'suffix': "_akt.zip",
+    },
+    'hist': {
+        'url': "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/",
+        'prefix': "stundenwerte_TU_",
+        'suffix': "_hist.zip"
+    }
+}
+
+
+all_station_info_files = {}
+all_station_info_files['temp_hourly'] = {
+    'rec': "TU_Stundenwerte_Beschreibung_Stationen.txt",
+    'hist': "TU_Stundenwerte_Beschreibung_Stationen.txt",
+}
+
+
+
+# set up variables for the requested product
+product = all_products[prod]
+station_info = all_station_info_files[prod]
+
+print(product)
+print(station_info)
 
 
 # create all the directories we need
@@ -65,26 +96,7 @@ DIR_temp = Path(DIR_base, "temp")
 DIR_temp.mkdir(parents=True, exist_ok=True)
 
 
-# DWD Open Data server URLS
-product_urls = {
-    'hourly_temperature_recent': "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/",
-    'hourly_temperature_historical': "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/",
-}
 
-station_info_files = {
-    'hourly_temperature_recent': "TU_Stundenwerte_Beschreibung_Stationen.txt",
-    'hourly_temperature_historical': "TU_Stundenwerte_Beschreibung_Stationen.txt",
-}
-
-
-
-
-# extract all urls needed for the specified product
-product_prefix = "stundenwerte_TU_"
-product_suffix = ".zip"
-
-stations_description = list(station_info_files.values())
-print(stations_description)
 
 
 
@@ -107,6 +119,7 @@ def scrape_product_links(url, prefix, suffix):
         if ref.startswith(prefix) and ref.endswith(suffix):
             links.append(url + "/" + ref)
     return links
+
 
 
 def download_stations_info(url):
@@ -185,3 +198,16 @@ def download_product_files(DIR_source, file_urls, DIR_destination, verbose=False
         if verbose:
             if i % 50 == 0 or i == total:
                 print("%d of %d files downloaded" % (i , total))
+
+
+
+
+
+
+
+
+links  = scrape_product_links(product['rec']['url'], prod['rec']['prefix'], prod['rec']['suffix'])
+print(links)
+# download all recent product files
+
+#download_product_files(product_urls['rec'], ) 
