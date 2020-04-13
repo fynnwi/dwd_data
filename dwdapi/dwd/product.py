@@ -65,7 +65,7 @@ class DWDProduct():
         for key, value in all_products[self.name].items():
 
             try:
-                dataset = DWDDataset(key, value['base_url'], value['stations_description'], value['prefix'], value['suffix'])
+                dataset = DWDDataset(self, key, value['base_url'], value['stations_description'], value['prefix'], value['suffix'])
                 if key == 'rec': self.rec = dataset
                 if key == 'hist': self.hist = dataset
                 if key == 'now': self.now = dataset
@@ -74,43 +74,12 @@ class DWDProduct():
 
 
 
-    def __download_dataset(self, dataset):
-        """Downloads a specific dataset (i.e. rec, hist or now) from the DWD server and stores it in the temporary folder
-        
-        Arguments:
-            dataset {dwdapi.dwd.dataset.DWDDataset} -- points to dataset attribute of this class
-        """
-
-        # create folder to place downloaded content in
-        download_dir = Path(self.temp_dir, self.name, dataset.time_period)
-        download_dir.mkdir(parents=True, exist_ok=True)
-
-        print(f"Downloading files to {download_dir}...")
-        for i, url in enumerate(tqdm(dataset.file_urls), start=1):
-            req = requests.get(dataset.base_url + url)
-
-            filename = Path.joinpath(download_dir, url)
-            filename.write_bytes(req.content)
-
-                
-            # unzip the file and only keep the extracted content
-            with ZipFile(filename, "r") as zippy:
-                dirname = Path.joinpath(download_dir, url[:-4])
-                if os.path.isdir(dirname):
-                    shutil.rmtree(dirname)
-                try:
-                    #os.mkdir(dirname)
-                    dirname.mkdir()
-                    zippy.extractall(dirname)
-                    os.remove(filename)
-                except Exception as e:
-                    print(e)
 
 
     def download(self):
-        if self.rec: self.__download_dataset(self.rec)
-        if self.hist: self.__download_dataset(self.hist)
-        if self.now: self.__download_dataset(self.now)
+        if self.rec: self.rec.download()
+        if self.hist: self.hist.download()
+        if self.now: self.now.download()
 
 
     def print(self):
