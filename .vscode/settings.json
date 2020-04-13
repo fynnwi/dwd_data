@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/fynnwithake/opt/anaconda3/envs/dwd_data/bin/python",
+    "git.ignoreLimitWarning": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}

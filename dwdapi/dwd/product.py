@@ -78,7 +78,7 @@ class DWDProduct():
 
     def download(self):
         if self.rec: self.rec.download()
-        if self.hist: self.hist.download()
+        #if self.hist: self.hist.download()
         if self.now: self.now.download()
 
 
